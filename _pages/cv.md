@@ -79,7 +79,6 @@ Skills
   * CPLEX
   * Mosek
   * Gurobi
-
 * Soft Skills
   * Mentored graduate and undergraduate students, collaborating with engineers/scientists from various fields, initiated, organized, and led a team for an IoT project, and prepared a final technical report.
 
