@@ -12,4 +12,4 @@ Adaptive intensive interventions are introduced and new methods from the field o
 
 [Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4176810/)
 
-Recommended citation: Adaptive intensive interventions are introduced and new methods from the field of control engineering for use in their design are illustrated. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+# Recommended citation: Adaptive intensive interventions are introduced and new methods from the field of control engineering for use in their design are illustrated. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
