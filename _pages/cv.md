@@ -15,7 +15,6 @@ Education
 * M.S. in Electrical and Computer Engineering, Northeastern University, Boston, MA, 2010
 * Ph.D in Electrical Engineering, The Pennsylvania State University, University Park, PA, 2015
   * Minor Ph.D in Industrial and Manufacturing Engineering (Convex Optimization), The Pennsylvania State University, University Park, PA, 2015
-
 * MOOC Certificates
   * Coursera: Fundamentals of Scalable Data Science by IBM- May 2019
   * Coursera: Neural Networks and Deep Learning by deeplearning.ai - June 2019
