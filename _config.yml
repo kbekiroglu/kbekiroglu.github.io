@@ -11,7 +11,7 @@ title                    : "Korkut Bekiroglu"
 title_separator          : "-"
 name                     : &name "Korkut Bekiroglu"
 description              : &description "Senior System Engineer at SharkNinja"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kbekiroglu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "korkutbekiroglu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "BekirogluKorkut"
 facebook:
   username               :
   app_id                 :
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Korkut Bekiroglu"
-  avatar           : "profile.png"
-  bio              : "Senior System Engineer at SharkNinja, expert in Mechatronics, Control Systems, and System Identification"
+  avatar           : "profilkbekiroglu.jpg"
+  bio              : "Senior System Engineer at SharkNinja, expert in Mechatronics, Control Systems, Robotics, and System Identification"
   location         : "Boston, MA"
-  employer         :
+  employer         : SharkNinja
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?hl=en&user=pely-qQAAAAJ"
-  email            : "korkutbekiroglu (at) gmail.com"
+  email            : "korkutbekiroglu@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Korkut-Bekiroglu"
   uri              :
   bitbucket        :
