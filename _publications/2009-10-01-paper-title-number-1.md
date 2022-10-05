@@ -11,5 +11,3 @@ citation: 'Lagoa, C. M., Bekiroglu, K., Lanza, S. T., & Murphy, S. A. (2014). De
 Adaptive intensive interventions are introduced and new methods from the field of control engineering for use in their design are illustrated..
 
 [Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4176810/)
-
-# Recommended citation: Adaptive intensive interventions are introduced and new methods from the field of control engineering for use in their design are illustrated. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
