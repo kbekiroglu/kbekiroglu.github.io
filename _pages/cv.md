@@ -19,6 +19,7 @@ Education
 * MOOC Certificates
   * Coursera: Fundamentals of Scalable Data Science by IBM- May 2019
   * Coursera: Neural Networks and Deep Learning by deeplearning.ai - June 2019
+
 Work experience
 ======
 * 12/2021 to Present: Senior System Engineer, SharkNinja
