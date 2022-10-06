@@ -1,7 +1,7 @@
 ---
 title: "Computer Vision Based Control of an Autonomous Blimp"
 collection: publications
-permalink: /publication/2016-10-01-tjec
+permalink: /publication/2016-10-01-tjec-paper
 excerpt: 'The objective of this study is twofold: to approximate a model of a blimp, and to use this model to develop a
 setup to track a target with the blimp that is outfitted with a wireless camera and radio-controlled propellers.'
 date: 2016-08-01
