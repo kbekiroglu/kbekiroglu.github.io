@@ -7,16 +7,14 @@ main:
     url: /publications/
 
   - title: "Conference"
-    url: /talks/    
+    url: /talks/
+
+  - title: "Talks"
+    url: /year-archive/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-
-        
-  #- title: "Blog Posts"
-    #url: /year-archive/
-    
+     
   - title: "CV"
     url: /cv/
     
