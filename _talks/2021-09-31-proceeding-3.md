@@ -3,7 +3,7 @@ title: "Unsupervised Time-Series based Anomaly Detection in ICS/SCADA Networks"
 collection: talks
 type: "Conference proceedings"
 permalink: /talks/2021-09-31-proceeding-3
-venue: " 2021 International Symposium on Networks, Computers and Communications (ISNCC)"
+venue: "2021 International Symposium on Networks, Computers and Communications (ISNCC)"
 date: 2021-09-31
 location: "Dubai, United Arab Emirates"
 ---

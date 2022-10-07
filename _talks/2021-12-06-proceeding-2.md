@@ -3,7 +3,7 @@ title: "Low-Cost Internet of Things Based Real- Time Pavement Monitoring System"
 collection: talks
 type: "Conference proceedings"
 permalink: /talks/2021-12-06-proceeding-2
-venue: " 2021 IEEE International Conferences on Internet of Things (iThings) "
+venue: "2021 IEEE International Conferences on Internet of Things (iThings) "
 date: 2021-12-06
 location: "Melbourne, Australia"
 ---
