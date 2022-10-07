@@ -3,7 +3,7 @@ title: "Designing Adaptive Intensive Interventions Using Methods from Engineerin
 collection: publications
 permalink: /publication/2017-10-01-tcst-paper
 excerpt: 'A robust control approach is used to address the problem of adaptive behavioral treatment design.'
-date: 2016-10-01
+date: 2017-10-01
 venue: 'IEEE Transactions on Control Systems Technology'
 paperurl: 'https://ieeexplore.ieee.org/ielaam/87/7876877/7501575-aam.pdf'
 citation: 'Bekiroglu, K., Lagoa, C., Murphy, S. A., & Lanza, S. T. (2016). Control engineering methods for the design of robust behavioral treatments. IEEE Transactions on Control Systems Technology, 25(3), 979-990.'
