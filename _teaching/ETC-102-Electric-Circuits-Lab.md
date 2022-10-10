@@ -10,7 +10,7 @@ location: "Utica, New York, US"
 Taught - (F19, F20): Introduction to theory, analysis and design of electric circuits. Units and definitions. Ohm’s Law and Kirchhoff’s Laws. Analysis of resistive circuits. Circuit analysis using superposition, nodal and mesh methods, Norton Thevenin theorems, and current and voltage divider rules. Transient and sinusoidal steady state response of circuits containing resistors, capacitors, and inductors.
 
 Learning Goals:
-======
+------
 By the end of the semester:
 
 1. Students will demonstrate the ability to apply knowledge, linear algebra and complex variables.

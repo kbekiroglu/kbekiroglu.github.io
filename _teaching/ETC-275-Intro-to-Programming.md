@@ -10,7 +10,7 @@ location: "Utica, New York, US"
 Taught - (S20, F20, F21): Introduction to programming with MATLAB. Provides to basic properties of the MATLAB, a powerful programming language and development tool for different disciplines, and programming concepts for engineers for various engineering application. Students will be doing sample MATLAB engineering problems in real time. 
 
 Learning Goals:
-======
+------
 Students will be able to:
 1. Use the basic properties of the MATLAB, a powerful programming language and development tool for different disciplines.
 2. Apply/Use the MATLAB toolboxes for engineering technology (i.e. control systems, optimization, signal processing).

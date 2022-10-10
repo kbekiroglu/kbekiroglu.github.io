@@ -10,7 +10,7 @@ location: "Utica, New York, US"
 Taught - (F19, S20): This course is an introduction to designing mechatronic systems, which require integration of the mechanical and electrical engineering disciplines within a unified framework. There are significant project-based design experiences. Topics covered in the course include: fundamental of electronics, 2D/3D drawing, sensor technology, actuators, principles of mechatronics, low-level interfacing of software with hardware, DC stepper motors and control.
 
 Learning Goals:
-======
+------
 1. Generate 3-D CAD Models of simple mechanical objects using SolidWorks
 2. Specify and use basic mechanical design elements, such as gears, belts, bearings, lead screws and others mechanisms at the level of functionality and application.
 3. Use Matlab to perform data acquisition and control functions, set up logic-based sequential control algorithms and simple single-loop feedback control programs.
