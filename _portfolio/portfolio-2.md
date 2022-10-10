@@ -1,6 +1,6 @@
 ---
 title: "Internet of Things (IoT) based Pavement Monitoring System (VTRC Project)"
-excerpt: "A low-cost IoT-based wireless online structural monitoring system of asphalt<br/><img src='/images/iotproject.jpg'>"
+excerpt: "A low-cost IoT-based wireless online structural monitoring system of asphalt.<br/><img src='/images/iotproject.jpg'>"
 collection: portfolio
 ---
 
