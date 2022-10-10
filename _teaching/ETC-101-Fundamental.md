@@ -7,9 +7,7 @@ venue: "SUNY Polytechnic Institute, Electrical/Computer Engineering Technology"
 date: 2021-09-01
 location: "Utica, New York, US"
 ---
-Taught - (S21)
-
-Introduction to programming with MATLAB and Python. Provides to basic properties of the MATLAB/Python, a powerful programming language and development tool for different disciplines, and programming concepts for engineers for various engineering application.
+Taught - (S21): Introduction to programming with MATLAB and Python. Provides to basic properties of the MATLAB/Python, a powerful programming language and development tool for different disciplines, and programming concepts for engineers for various engineering application.
 
 Learning Goals:
 ======

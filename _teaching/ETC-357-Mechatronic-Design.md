@@ -4,12 +4,10 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ETC-357-Mechatronic-Design
 venue: "SUNY Polytechnic Institute, Electrical/Mechanical Engineering Technology"
-date: 2020-09-01
+date: 2021-09-05
 location: "Utica, New York, US"
 ---
-Taught - (F19, S20)
-
-This course is an introduction to designing mechatronic systems, which require integration of the mechanical and electrical engineering disciplines within a unified framework. There are significant project-based design experiences. Topics covered in the course include: fundamental of electronics, 2D/3D drawing, sensor technology, actuators, principles of mechatronics, low-level interfacing of software with hardware, DC stepper motors and control.
+Taught - (F19, S20): This course is an introduction to designing mechatronic systems, which require integration of the mechanical and electrical engineering disciplines within a unified framework. There are significant project-based design experiences. Topics covered in the course include: fundamental of electronics, 2D/3D drawing, sensor technology, actuators, principles of mechatronics, low-level interfacing of software with hardware, DC stepper motors and control.
 
 Learning Goals:
 ======

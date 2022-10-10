@@ -4,12 +4,10 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ETC-275-Intro-to-Programming
 venue: "SUNY Polytechnic Institute, Electrical/Mechanical Engineering Technology"
-date: 2022-09-01
+date: 2021-09-03
 location: "Utica, New York, US"
 ---
-Taught - (S20, F20, F21)
-
-Introduction to programming with MATLAB. Provides to basic properties of the MATLAB, a powerful programming language and development tool for different disciplines, and programming concepts for engineers for various engineering application. Students will be doing sample MATLAB engineering problems in real time. 
+Taught - (S20, F20, F21): Introduction to programming with MATLAB. Provides to basic properties of the MATLAB, a powerful programming language and development tool for different disciplines, and programming concepts for engineers for various engineering application. Students will be doing sample MATLAB engineering problems in real time. 
 
 Learning Goals:
 ======

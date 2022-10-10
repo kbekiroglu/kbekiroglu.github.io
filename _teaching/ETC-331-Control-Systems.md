@@ -4,12 +4,10 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ETC-331-Control-Systems
 venue: "SUNY Polytechnic Institute, Electrical Engineering Technology"
-date: 2018-09-01
+date: 2021-09-04
 location: "Utica, New York, US"
 ---
-Taught - (F18, S19, F19, F20, S21, F21)
-
-Basic control systems studied using Laplace transforms. Principles of electro-mechanical control systems (electrical and mechanical), measuring means, components and their characteristics, and controller characteristics. Analysis of a control system by the frequency/phase responses and stability criteria.
+Taught - (F18, S19, F19, F20, S21, F21): Basic control systems studied using Laplace transforms. Principles of electro-mechanical control systems (electrical and mechanical), measuring means, components and their characteristics, and controller characteristics. Analysis of a control system by the frequency/phase responses and stability criteria.
 
 Learning Goals:
 ======

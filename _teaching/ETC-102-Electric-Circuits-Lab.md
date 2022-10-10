@@ -4,12 +4,10 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ETC-102-Electric-Circuits-Lab
 venue: "SUNY Polytechnic Institute, Electrical/Computer Engineering Technology"
-date: 2020-12-01
+date: 2021-09-02
 location: "Utica, New York, US"
 ---
-Taught - (F19, F20)
-
-Introduction to theory, analysis and design of electric circuits. Units and definitions. Ohm’s Law and Kirchhoff’s Laws. Analysis of resistive circuits. Circuit analysis using superposition, nodal and mesh methods, Norton Thevenin theorems, and current and voltage divider rules. Transient and sinusoidal steady state response of circuits containing resistors, capacitors, and inductors.
+Taught - (F19, F20): Introduction to theory, analysis and design of electric circuits. Units and definitions. Ohm’s Law and Kirchhoff’s Laws. Analysis of resistive circuits. Circuit analysis using superposition, nodal and mesh methods, Norton Thevenin theorems, and current and voltage divider rules. Transient and sinusoidal steady state response of circuits containing resistors, capacitors, and inductors.
 
 Learning Goals:
 ======
