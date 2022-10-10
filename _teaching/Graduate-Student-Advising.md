@@ -1,7 +1,7 @@
 ---
 title: "Graduate Student Advising"
 collection: teaching
-type: "Workshop"
+type: "Advising"
 permalink: /teaching/Graduate-Student-Advising
 venue: "SUNY Polytechnic Institute, Computer Science"
 date: 2020-01-01
