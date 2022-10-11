@@ -1,5 +1,5 @@
 ---
-title: "Senior System Engineer SharkNinja"
+title: "Ninja Espresso & Coffee Barista System Project"
 excerpt: "Conceptualized/Designed/Implemented various signal processing/sensing/Software tools and controllers for Ninja Heated products."
 collection: portfolio
 ---
