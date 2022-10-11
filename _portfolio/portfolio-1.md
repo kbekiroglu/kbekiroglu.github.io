@@ -6,7 +6,7 @@ collection: portfolio
 
 Conceptualized/Designed/Implemented various software/signal processing/sensing tools and controllers for Ninja Heated products. Focused on Ninja brand in heated kitchen applicense and recently working on coffee and water product.
 
-"<br/><img src='/images/cfn602.jpg'>"
+[More information here](https://www.ninjakitchen.com/exclusive-offer/CFN601WBKT/ninja-espresso-coffee-barista-system/)
 
 Ninja Espresso & Coffee Barista System
 ======
