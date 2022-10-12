@@ -1,6 +1,6 @@
 ---
 title: "Ninja Espresso & Coffee Barista System Project"
-excerpt: "Conceptualized/Designed/Implemented various signal processing/sensing/Software tools and controllers for Ninja Heated products."
+excerpt: "Conceptualized/Designed/Implemented various signal processing/sensing/software tools and controllers for Ninja Heated products."
 collection: portfolio
 ---
 
@@ -9,8 +9,8 @@ Conceptualized/Designed/Implemented various software/signal processing/sensing t
 [Ninja Espresso & Coffee Barista System](https://www.ninjakitchen.com/exclusive-offer/CFN601WBKT/ninja-espresso-coffee-barista-system/)
 ======
 
-* Successfully developed control systems (e.g., cascade temperature control, flow control) and algorithms (e.g., failure detection, altitude calibration, low pass filter) for all features of one Ninja Coffee Machine in the market. From prototype development to mass production, algorithms were developed (in C++, Arduino, and Python) and implemented in the final product.
-* Owned/Managed the prototype and testing tools development. A Python application and an R-pi/Arduino apparatus were developed to speed up the testing process.
+* Successfully developed control systems (e.g., cascade temperature control, flow control) and algorithms (e.g., failure detection, altitude calibration, low pass filter) for all features of [Ninja Espresso & Coffee Barista System](https://www.ninjakitchen.com/exclusive-offer/CFN601WBKT/ninja-espresso-coffee-barista-system/) in the market. From prototype development to mass production, algorithms were developed (in C++, Arduino, and Python) and implemented in the final product. In prototype development, most of the sensors and AC/DC motor drivers were obtained from the market and combined to model the final product. Later most of the testing is done on this prototype before being implemented in the actual machine.
+* Owned/Managed the prototype and testing tools development. A Python application and an R-pi/Arduino apparatus were developed to speed up the testing process. 
 
 Responsibilities:
 ------
