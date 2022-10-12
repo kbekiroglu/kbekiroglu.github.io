@@ -19,7 +19,8 @@ Responsibilities:
 * Document each feature and closely work with the software engineer to program these features into the final product.
 * Identify the possible risk and take software-related actions. Develop error states for the unit and take real-time actions based on the real-time sensor readings.
 * Research and implement new ideas and approaches to the prototypes and final product.
-* Adapt the new features both in SW and hardware to speed up the research process.
-* Support testing team and product desing team by developing some test Software.
+* Adapt the new features both in software and hardware to speed up the research process.
+* Support testing team and product desing team by developing some test software.
+* Investigate the root cause of failures and search possible solutions and risk related to proposed solutions.
 
 
