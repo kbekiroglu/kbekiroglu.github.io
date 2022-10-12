@@ -99,6 +99,21 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Service and leadership
-# ======
-# * Currently signed in to 43 different slack teams
+Leadership Activity
+======
+* Faculty Advisor to Undergraduate Students
+* TAP (tau alpha pi) Faculty Advisor
+
+Professional Involment and Services
+======
+* SUNY Poly Utica Faculty Senator (2020-2021)
+* SUNY Poly Research, Scholarship and Creative Works Member (2020-2021)
+* Faculty Portfolio Review Committee Member (2021)
+* Ad Hoc Research Committee Member (2019-2020)
+* SUNY Poly Technology Committee Member (2019-2021)
+* Faculty Representative, Accepted Student Day Organizer (2019-2020)
+* EET Search Committee for Lab Technician (2019)
+* Judge, Student Project Showcase (2019-2020)
+* New Mechatronic Course Development Committee (2019-2020)
+* ABET Report Preparation for Electrical and Computer Engineering Technology Department (2020)
+
