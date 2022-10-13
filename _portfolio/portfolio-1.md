@@ -4,7 +4,7 @@ excerpt: "Conceptualized/Designed/Implemented various signal processing/sensing/
 collection: portfolio
 ---
 
-Conceptualized/Designed/Implemented various software/signal processing/sensing tools and controllers for Ninja Heated products. Focused on Ninja brand in heated kitchen applicense and recently working on coffee and water product.
+Conceptualized/Designed/Implemented various software/signal processing/sensing tools and controllers for Ninja Heated products. Focused on Ninja brand in heated kitchen applicense and recently working on coffee and water product. 
 
 [Ninja Espresso & Coffee Barista System](https://www.ninjakitchen.com/exclusive-offer/CFN601WBKT/ninja-espresso-coffee-barista-system/)
 ======
