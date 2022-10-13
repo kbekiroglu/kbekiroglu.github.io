@@ -21,6 +21,6 @@ Responsibilities:
 * Research and implement new ideas and approaches to the prototypes and final product.
 * Adapt the new features both in software and hardware to speed up the research process.
 * Support testing team and product desing team by developing some test software.
-* Investigate the root cause of failures and search possible solutions and risk related to proposed solutions.
+* Investigate the root cause of failures and search possible solutions. Analyse the risk related to the failures and propose solutions to minimize the risks.
 
 
