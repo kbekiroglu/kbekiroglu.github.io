@@ -8,6 +8,8 @@ The proposed innovation is a low-cost IoT-based wireless online structural monit
 
 [More information here](https://ieeexplore.ieee.org/abstract/document/9694224)
 
+<br/><img src='/images/iotproject.jpg'>
+
 Layers:
 ======
 * Sensor Module
@@ -16,4 +18,6 @@ Layers:
 * LTE/4G Module
 * Data Storage/Cloud
 * Web Interface
+
+<br/><img src='/images/vtrc.png'>
 

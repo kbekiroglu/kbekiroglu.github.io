@@ -12,7 +12,9 @@ Theoretical and Implementation Studies in the Field of Linear System Identificat
 * Sparse System Identification Algorithm via Atomic Norm
 * Modeling of health problems (Physical Activity, Smoking Behavior, Cancer, etc.)
 * Developing a method for ghost elimination in bearing-only tracking for passive radars
-* Investigating a new recursive model learning algorithm for thermal dynamical models
+* Investigating a new recursive model learning algorithm for thermal dynamical models <br/><img src='/images/sysid.png'>
 * Research on time-series forecasting methods
 * System identification theory for testing/classification of the materials
+
+
 

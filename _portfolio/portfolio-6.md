@@ -1,21 +1,19 @@
 ---
-title: "The Smart Building – Smart Grid (or Green Building Innovation Cluster GBIC) Research"
-excerpt: "
-This research aims to provide a scalable, energy-saving solution for commercial buildings to help estates and companies save energy on HVAC power consumption.<br/><img src='/images/tbsa1.png'>"
+title: "Robust MPC design / Robust intervention and Robust Optimization"
+excerpt: "Robust MPC design / Robust intervention and Robust optimization methods are developed and used in the behavioural intervention design.<br/><img src='/images/smoking.jpg'>"
 collection: portfolio
 ---
 
-[More information here](https://intelligentsystemseee.ntu.edu.sg/cpisrg/gbic/index.html)
+The clinical and behavioral scientist has some techniques that use non-intensive behavioral data to develop adaptive treatment algorithms. Using non-intensive data is because collecting intensive longitudinal data was challenging before recent developments on portable devices such as mobile phones. With the advent of such devices, collecting many measurements over time is effortless since patients can easily be reached. This study explains how control engineering methods can be adapted to handle most of the challenges that come from the structure of the intensive longitudinal data while effectively using portable devices. We aim to introduce procedures that utilize available patients' data to develop algorithms that determine the next steps in an individual's treatment.
+<br/><img src='/images/rcontrol.jpg'>
 
-Scalability of control algorithms used for savings energy in commercial building Heating, Ventilation and Air-Conditioning (HVAC) system and their implementation on low cost resource constrained hardware is a challenging problem. This research investigates the Internet of Things (IoT) prototype which implements a smart and scalable control approach called the Smart-Token Based Scheduling Algorithm (Smart-TBSA) to minimize energy in commercial building HVAC systems. The IoT prototype is formalized with an architecture that encapsulates the different components (hardware, software, networking, and their integration) along with their interactions. A detailed description of the different components, hardware design, deployment issues, and their integration with legacy systems as well as cloud-connectivity is investigated. In addition, simple modifications required for transforming the optimization models to an active control technique is also presented. While scalability is provided by the decentralized control, recursive zone thermal model identification, prediction occupant’s thermal sensation, and embedding them within the optimization models enhances the smartness. Consequently, due to the implementation of Smart-TBSA using IoT devices, an otherwise centralized control architecture of the legacy building automation system is transformed to a more scalable and smart decentralized one. The proposed Smart-TBSA and IoT prototype are illustrated on a pilot building in Nanyang Technological University, Singapore having 85 zones. Our results shows that by combining IoT with decentralized control, energy savings up to 20% can be derived. Moreover, we show that legacy building automation system can be transformed into a more smart, adaptable, scalable, and decentralized control by deploying IoT devices without incurring significant costs.
-
-Local MPC:
+Steps in Behavioural Intervention Design:
 ------
-<br/><img src='/images/localMPC.png'>
-
-Central MPC:
-------
-<br/><img src='/images/centralMPC.png'>
-
-
+* Step 1: Decide on message frequency (Assume contact patient three times).
+* Step 2: The patient provides information on his/her measurements of smoking urge (1), negative effect (1), self-efficacy (1), Treatment (1) in the morning.
+* Step 3: At midday, the message collects smoking urge (2), negative effect (2), and self-efficacy (2).
+* Step 4: Build measurement set M (e.g., at midday, it has smoking urge (1), negative effect (1), self-efficacy (1), Treatment (1), smoking urge (2), negative effect (2), and self-efficacy (2)
+* Step 5: Run the MPC algorithm with identified model f, calculate TOptimal, update measurement set M, and message Treatment (2) = TOptimal to the patient.
+* Step 6: Collect new state values smoking urge (3), negative effect (3), and self-efficacy (3) in the evening and update measurement set M.
+* Step 7: Repeat this process throughout the entire process of treatment.
 
