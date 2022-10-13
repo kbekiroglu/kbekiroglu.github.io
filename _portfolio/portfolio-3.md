@@ -1,7 +1,7 @@
 ---
 title: "The Smart Building – Smart Grid (or Green Building Innovation Cluster GBIC) Research"
 excerpt: "
-This research aims to provide a scalable, energy-saving solution for commercial buildings to help estates and companies save energy on HVAC power consumption.<br/><img src='/images/tbsa2.png' width='400' height='500'>"
+This research aims to provide a scalable, energy-saving solution for commercial buildings to help estates and companies save energy on HVAC power consumption.<br/><img src='/images/tbsa1.png' width='500' height='550'>"
 collection: portfolio
 ---
 

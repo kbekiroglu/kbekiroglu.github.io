@@ -1,6 +1,6 @@
 ---
 title: "Anomaly Detection and Fault Detection via Linear System Theory – Research Group X∞"
-excerpt: "Anomaly Detection and Fault Detection via Linear System Theory.<br/><img src='/images/procedure1D3r.png'>"
+excerpt: "Anomaly Detection and Fault Detection via Linear System Theory.<br/><img src='/images/procedure1D3r.png' width='500' height='550'>"
 collection: portfolio
 ---
 
