@@ -1,6 +1,6 @@
 ---
 title: "Ninja Espresso & Coffee Barista System Project"
-excerpt: "Conceptualized/Designed/Implemented various signal processing/sensing/software tools and controllers for Ninja Heated products.<br/><img src='/images/pds.png' width='500' height='550'>"
+excerpt: "Conceptualized/Designed/Implemented various signal processing/sensing/software tools and controllers for Ninja Heated products.<br/><img src='/images/pds.png' width='550' height='600'>"
 collection: portfolio
 ---
 
