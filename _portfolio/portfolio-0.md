@@ -1,6 +1,6 @@
 ---
 title: "An Application to Collect Real Time Data from MCU and Test the Units"
-excerpt: "Conceptualized and Designed Python application for Ninja R&D team to collect real-time data from Software by communicating with unit MCU.<br/><img src='/images/serialGUI.png' width='550' height='600'>"
+excerpt: "Conceptualized and Designed Python application for Ninja R&D team to collect real-time data from software by communicating with unit MCU.<br/><img src='/images/serialGUI.png' width='550' height='600'>"
 collection: portfolio
 ---
 
