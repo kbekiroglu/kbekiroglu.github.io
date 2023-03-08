@@ -6,7 +6,7 @@ collection: portfolio
 
 Conceptualized and Designed a user interface by using Python to collect real time data from MCU in the products. The GUI simplifies the data collection and serial communication on Ninja beverage products. 
 
-[Real Time Data Collection in Ninja Beverage Projects]
+Real Time Data Collection in Ninja Beverage Projects
 ======
 
 As an aspiring engineer, I am pleased to share with you one of my recent projects that I am particularly proud of. I developed a Graphical User Interface (GUI) for real-time data collection by communicating with Microcontroller Units (MCUs) in the units. The GUI is capable of saving the collected data as CSV files and plotting them for further analysis.
