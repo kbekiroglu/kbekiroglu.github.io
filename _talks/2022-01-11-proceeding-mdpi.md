@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings"
 permalink: /talks/2022-01-11-proceeding-mdpi
 venue: "The 9th International Electronic Conference on Sensors and Applications"
-date: 2022-07-27
+date: 2022-01-11
 location: "Online Proceeding"
 ---
 
