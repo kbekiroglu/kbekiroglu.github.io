@@ -1,6 +1,6 @@
 ---
 title: "Applications to Collect Real Time Data from MCU, Scales to Test the Units"
-excerpt: "Conceptualized and Designed Python application for Ninja R&D team to collect real-time data from software by communicating with unit's MCU.<br/><img src='/images/serialGUI.png' width='550' height='600'>. <br/> Also a profiler is designed and developed for R&D and testing team to visualize and save real time sensor and scale data.<br/><img src='/images/profiler.png' width='500' height='550'>"
+excerpt: "Conceptualized and Designed Python application for Ninja R&D team to collect real-time data from software by communicating with unit's MCU.<br/><img src='/images/serialGUI.png' width='550' height='600'> <br/> <br/> Also a profiler is designed and developed for R&D and testing team to visualize and save real time sensor and scale data.<br/><img src='/images/profiler.png' width='500' height='550'>"
 collection: portfolio
 ---
 
