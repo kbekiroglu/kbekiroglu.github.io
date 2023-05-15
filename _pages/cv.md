@@ -81,6 +81,11 @@ Skills
 * Soft Skills
   * Mentored graduate and undergraduate students, collaborating with engineers/scientists from various fields, initiated, organized, and led a team for an IoT project, and prepared a final technical report.
 
+Patent Under Review 
+======
+* Determining An Amount of Carbon Dioxide in A Gas Source in A Carbonation System (57664-533F02US). 
+* Detecting Liquid Temperature for A Beverage Carbonation System (57664-534F01US).
+
 Publications
 ======
   <ul>{% for post in site.publications %}
