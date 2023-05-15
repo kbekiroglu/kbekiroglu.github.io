@@ -8,6 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a senior system engineer at [SharkNinja](https://www.sharkninja.com/), working in the R&D team and co-founder at Ocean Dynamex. I have experience in control systems, mechatronics, robotics, optimization (robust MPC), the areas of smart buildings, HVAC systems (model predictive control algorithms), time series analysis, predictive analytics, and forecasting algorithms. Before joining the SharkNinja, I was an Assistant Professor of Electrical Engineering Technology at the College of Engineering, SUNY Polytechnic Institute. Before joining [SUNY Polytechnic Institute](https://sunypoly.edu/), I was a control systems researcher working on the [Green Building Innovation Cluster (GBIC)](https://intelligentsystemseee.ntu.edu.sg/cpisrg/gbic/gbic_index.html) project at Nanyang Technological University, Singapore. In this project, I was responsible for developing a real-time model identification algorithm to identify the thermal model of rooms and model-based distributed control strategies for HVAC systems to improve energy saving.
+I am a Principle Systems Engineer at  [SharkNinja](https://www.sharkninja.com/), where I work in the R&D team and am a co-founder of Ocean Dynamex. I have experience in control systems, mechatronics, robotics, optimization, smart buildings, HVAC systems, time series analysis, predictive analytics, and forecasting algorithms.
 
-I received an M.S. degree from the Department of Electrical and Computer Engineering, Northeastern University, Boston, MA, USA, in 2010 and a Ph.D. degree from the Department of Electrical Engineering, The Pennsylvania State University, University Park, PA, USA, in 2015. I also have a minor degree in Industrial and Manufacturing Engineering from The Pennsylvania State University. My research experience consists of the broad interface of mechatronics, robotics, system identification (modeling), model predictive control, optimization, robust optimization, building automation, signal processing, predictive analytics, and anomaly detection. I am a member of the IEEE. I have published many journal and conference papers and edited conference issues. My leadership experience consists of being an associate editor and technical program committee at the IEEE ICARCV 2018, 2020, a session chair at IEEE ACC 2016, and a reviewer of many IEEE journals and proceedings.
+Previously, I was an Assistant Professor of Electrical Engineering Technology at [SUNY Polytechnic Institute](https://sunypoly.edu/). Before that, I was a control systems researcher at Nanyang Technological University, Singapore, where I worked on the [Green Building Innovation Cluster (GBIC)](https://intelligentsystemseee.ntu.edu.sg/cpisrg/gbic/gbic_index.html). In this project, I developed a real-time model identification algorithm to identify the thermal model of rooms and model-based distributed control strategies for HVAC systems to improve energy saving.
+
+I received my M.S. degree in Electrical and Computer Engineering from Northeastern University in 2010 and my Ph.D. degree in Electrical Engineering from The Pennsylvania State University in 2015. I also have a minor degree in Industrial and Manufacturing Engineering from The Pennsylvania State University.
+
+My research interests lie in the broad interface of mechatronics, robotics, system identification (modeling), model predictive control, optimization, robust optimization, building automation, signal processing, predictive analytics, and anomaly detection. I am a member of the IEEE and have published many journal and conference papers and edited conference issues. I have also served as an associate editor and technical program committee member for several IEEE conferences.
+
+Here are some of my key skills and accomplishments:
+
+* Senior Systems Engineer with over 10 years of experience in the field of control systems, mechatronics, robotics, optimization, smart buildings, HVAC systems, time series analysis, predictive analytics, and forecasting algorithms.
+* Extensive experience in research and development, with a focus on developing new technologies and solutions to improve energy efficiency and sustainability.
+* Strong leadership and teamwork skills, with experience in leading and managing projects and teams.
+* Excellent communication and presentation skills, with experience in presenting technical information to both technical and non-technical audiences.
+* Published author of numerous journal and conference papers, and editor of conference issues.
+* Member of the IEEE.
+
+I am a highly motivated and experienced engineer with a passion for innovation. I am confident that I can make a significant contribution to your team and help you achieve your goals.
