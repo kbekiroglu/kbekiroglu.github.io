@@ -24,5 +24,3 @@ Here are some of my key skills and accomplishments:
 * Excellent communication and presentation skills, with experience in presenting technical information to both technical and non-technical audiences.
 * Published author of numerous journal and conference papers, and editor of conference issues.
 * Member of the IEEE.
-
-I am a highly motivated and experienced engineer with a passion for innovation. I am confident that I can make a significant contribution to your team and help you achieve your goals.
