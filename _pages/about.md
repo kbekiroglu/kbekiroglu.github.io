@@ -10,7 +10,7 @@ redirect_from:
 
 As a Principal Systems Engineer at [SharkNinja](https://www.sharkninja.com/), I'm actively involved in the R&D team, specializing in the integration of hardware and software systems. I am also a proud co-founder of Ocean Dynamex. My professional experience extends across a multitude of areas including systems engineering, mechatronics, robotics, and control systems, all of which involve extensive theoretical, hands-on work and practical applications.
 
-My expertise in the realm of optimization, smart buildings, and HVAC systems is underpinned by a strong foundation in hardware-software integration, allowing me to design and improve systems with efficiency and adaptability. Additionally, my proficiency in time series analysis, predictive analytics, and forecasting algorithms comes from years of hands-on experience, which has been crucial in creating dynamic and responsive systems.
+My expertise in the realm of consumer products, optimization, control systems, and software development is underpinned by a strong foundation in hardware-software integration, allowing me to design and improve systems with efficiency and adaptability. Additionally, my proficiency in time series analysis, predictive analytics, and forecasting algorithms comes from years of hands-on experience, which has been crucial in creating dynamic and responsive systems.
 
 I am a Principle Systems Engineer at  [SharkNinja](https://www.sharkninja.com/), where I work in the R&D team and am a co-founder of Ocean Dynamex. I have experience in systems enginnering, control systems, mechatronics, robotics, optimization, smart buildings, HVAC systems, time series analysis, predictive analytics, and forecasting algorithms.
 
