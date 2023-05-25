@@ -12,8 +12,6 @@ As a Principal Systems Engineer at [SharkNinja](https://www.sharkninja.com/), I'
 
 My expertise in the realm of consumer products, optimization, control systems, and software development is underpinned by a strong foundation in hardware-software integration, allowing me to design and improve systems with efficiency and adaptability. Additionally, my proficiency in time series analysis, predictive analytics, and forecasting algorithms comes from years of hands-on experience, which has been crucial in creating dynamic and responsive systems.
 
-I am a Principle Systems Engineer at  [SharkNinja](https://www.sharkninja.com/), where I work in the R&D team and am a co-founder of Ocean Dynamex. I have experience in systems enginnering, control systems, mechatronics, robotics, optimization, smart buildings, HVAC systems, time series analysis, predictive analytics, and forecasting algorithms.
-
 Previously, I was an Assistant Professor of Electrical Engineering Technology at [SUNY Polytechnic Institute](https://sunypoly.edu/). Before that, I was a control systems researcher at Nanyang Technological University, Singapore, where I worked on the [Green Building Innovation Cluster (GBIC)](https://intelligentsystemseee.ntu.edu.sg/cpisrg/gbic/gbic_index.html). In this project, I developed a real-time model identification algorithm to identify the thermal model of rooms and model-based distributed control strategies for HVAC systems to improve energy saving.
 
 I received my M.S. degree in Electrical and Computer Engineering from Northeastern University in 2010 and my Ph.D. degree in Electrical Engineering from The Pennsylvania State University in 2015. I also have a minor degree in Industrial and Manufacturing Engineering from The Pennsylvania State University.
