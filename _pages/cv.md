@@ -54,16 +54,16 @@ Work experience
 Skills
 ======
 * Hard Skills
-  * MPC design
-  * Robust MPC
+  * MPC Design
+  * System Engineering
   * Optimization
-  * Mechatronic design
+  * Mechatronic Design
   * Non-linear Programming 
   * System Identification
-  * IoT in control
-  * Signal processing
-  * Time-series analysis
-  * Predictive analytic
+  * IoT in Control
+  * Signal Processing
+  * Time-Series Analysis
+  * Predictive Analytic
   * Building Automation
   * Filtering Design
 * Languages
@@ -80,6 +80,7 @@ Skills
   * Gurobi
 * Soft Skills
   * Mentored graduate and undergraduate students, collaborating with engineers/scientists from various fields, initiated, organized, and led a team for an IoT project, and prepared a final technical report.
+  * Mentoring junior engineers and co-ops working on control system in my current role.
 
 Patent Under Review 
 ======
