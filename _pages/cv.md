@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* 12/2021 to Present: Senior System Engineer, SharkNinja
+* 12/2021 to Present: Principle System Engineer, SharkNinja
   * Conceptualized/Designed/Implemented various signal processing/sensing tools and controllers for Ninja Heated products. 
     * Successfully developed control systems (e.g., cascade temperature control, flow control) and algorithms (e.g., failure detection, altitude calibration, low pass filter) for all features of one Ninja Coffee Machine in the market. From prototype development to mass production, algorithms were developed (in C++, Arduino, and Python) and implemented in the final product.
     * Owned/Managed the prototype and testing tools development. A Python application and an R-pi/Arduino apparatus were developed to speed up the testing process.
