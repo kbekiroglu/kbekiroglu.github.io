@@ -14,7 +14,7 @@ Previously, I was an Assistant Professor of Electrical Engineering Technology at
 
 I received my M.S. degree in Electrical and Computer Engineering from Northeastern University in 2010 and my Ph.D. degree in Electrical Engineering from The Pennsylvania State University in 2015. I also have a minor Ph.D. degree in Industrial and Manufacturing Engineering from The Pennsylvania State University.
 
-My research interests lie in the broad interface of mechatronics, robotics, system identification (modeling), model predictive control, optimization, robust optimization, building automation, signal processing, predictive analytics, and anomaly detection. I am a member of the IEEE and have published many journal and conference papers and edited conference issues. I have also served as an associate editor and technical program committee member for several IEEE conferences.
+My research interests based on my academic background lie in the broad interface of mechatronics, robotics, system identification (modeling), model predictive control, optimization, robust optimization, building automation, signal processing, predictive analytics, and anomaly detection. I am a member of the IEEE and have published many journal and conference papers and edited conference issues. I have also served as an associate editor and technical program committee member for several IEEE conferences.
 
 Here are some of my key skills and accomplishments:
 
