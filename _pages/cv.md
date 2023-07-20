@@ -69,6 +69,7 @@ Skills
 * Languages
   * Python
   * MATLAB
+  * C++
   * Simulink
   * Energy Plus
   * Arduino
