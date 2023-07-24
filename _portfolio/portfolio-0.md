@@ -15,7 +15,7 @@ One of the most significant advantages of this application is that it is designe
 
 With this application, engineers can easily and quickly collect data from the MCU in the units and store them in CSV files for further analysis. They can also plot the collected data in real-time, providing a visual representation of the results that can help identify trends and anomalies. This is especially useful in fields such as biomedical engineering, where real-time data analysis can be crucial in monitoring vital signs and other critical parameters.
 
-Overall, I believe that this GUI for real-time data collection and analysis is a valuable tool for engineers in various fields. By making data collection and analysis faster and more efficient, it can help improve the accuracy of results and ultimately lead to better decision-making.
+Overall, this GUI for real-time data collection and analysis is a valuable tool for engineers in various fields. By making data collection and analysis faster and more efficient, it can help improve the accuracy of results and ultimately lead to better decision-making.
 
 
 
