@@ -8,9 +8,6 @@ Envisioned, Developed, and Deployed an array of software, signal processing, and
 
 [Ninja Thirsti Drink System](https://www.ninjakitchen.com/zidWC1001)
 ======
-
-
-
 In the development of the [Ninja Thirsti Drink System](https://www.ninjakitchen.com/zidWC1001)'s control systems and algorithms, I utilized my extensive knowledge in control theory, embedded systems, and software engineering. Key features of the product, such as water level detection, flow regulation, failure detection, cycle manipulation, and low pass filtering, were designed and developed using languages such as Matlab, C++, Python, and Arduino.
 
 <br/><img src='/images/thirsti.png' width='500' height='550'>
