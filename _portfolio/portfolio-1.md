@@ -8,7 +8,9 @@ Envisioned, Developed, and Deployed an array of software, signal processing, and
 
 [Ninja Thirsti Drink System](https://www.ninjakitchen.com/zidWC1001)
 ======
-<br/><img src='/images/thirsti.png' width='500' height='550'>
+
+"<br/><img src='/images/thirsti.png' width='500' height='550'>"
+
 In the development of the [Ninja Thirsti Drink System](https://www.ninjakitchen.com/zidWC1001)'s control systems and algorithms, I utilized my extensive knowledge in control theory, embedded systems, and software engineering. Key features of the product, such as water level detection, flow regulation, failure detection, cycle manipulation, and low pass filtering, were designed and developed using languages such as Matlab, C++, Python, and Arduino.
 
 The prototype development phase required meticulous component selection and system modeling, involving various sensors and AC/DC motor drivers procured from the market. I conducted extensive testing, including unit tests, integration tests, and system-level tests, to validate the performance of these components and their integration. The system architecture and flow of product features were meticulously designed and implemented, as well. To streamline the process, I developed testing code in MATLAB, Python, and Arduino, which allowed for systematic verification and validation of the system's functionality at each development stage. I collaborated closely with the software engineering team, ensuring that the algorithms were correctly integrated into the final product. Rigorous documentation was maintained throughout this phase, including detailed descriptions of each feature, design decisions, and bug tracking. Alos, risk management was a pivotal part of my responsibilities. I identified potential software-related risks and devised mitigation strategies, such as the implementation of error states and real-time, sensor-driven contingency actions. To enhance the system's robustness and efficiency, I researched, developed, and implemented new algorithmic approaches and ideas in both the prototype and final product.
