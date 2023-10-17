@@ -1,5 +1,5 @@
 ---
-title: "Applications to Collect Real Time Data from MCU and High Accuracy Precision Scales to Test the Units"
+title: "Real Time Data Collection Apparatus/Application from Ninja Heated Products"
 excerpt: "Conceptualized and Designed Python application for Ninja R&D team to collect real-time data from software by communicating with unit's MCU.<br/><img src='/images/serialGUI.png' width='550' height='600'> <br/> <br/> Also a profiler is designed and developed for R&D and testing team to visualize and save real time sensor and scale data.<br/><img src='/images/profiler2.jpg' width='400' height='450'>"
 collection: portfolio
 ---
