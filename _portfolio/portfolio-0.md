@@ -1,12 +1,12 @@
 ---
-title: "Real Time Data Collection Apparatus/Application from Ninja Heated Products"
-excerpt: "Conceptualized and Designed Python application for Ninja R&D team to collect real-time data from software by communicating with unit's MCU.<br/><img src='/images/serialGUI.png' width='550' height='600'> <br/> <br/> Also a profiler is designed and developed for R&D and testing team to visualize and save real time sensor and scale data.<br/><img src='/images/profiler2.jpg' width='400' height='450'>"
+title: "Real Time Data Collection Apparatus/Application"
+excerpt: "Conceptualized and Designed Python application for R&D team to collect real-time data from software by communicating with unit's MCU.<br/><img src='/images/serialGUI.png' width='550' height='600'> <br/> <br/> Also a profiler is designed and developed for R&D and testing team to visualize and save real time sensor and scale data.<br/><img src='/images/profiler2.jpg' width='400' height='450'>"
 collection: portfolio
 ---
 
 Conceptualized and Designed a user interface by using Python to collect real time data from MCU and additional sensors in the products. The GUI simplifies the data collection and visualization, and serial communication on Ninja beverage products. 
 
-Real Time Data Collection in Ninja Beverage Projects
+Real Time Data Collection in Beverage and Heated Projects
 ======
 
 As an aspiring engineer, I am pleased to share with you one of my recent projects that I am particularly proud of. I developed a Graphical User Interface (GUI) for real-time data collection by communicating with Microcontroller Units (MCUs) in the units and also additional sensors that we included to validate the system responses. The GUI is capable of saving the collected data as CSV files and plotting them for further analysis.

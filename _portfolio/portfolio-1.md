@@ -1,12 +1,12 @@
 ---
-title: "Ninja Thirsti CO2 Flavored Water Soda Machine Project"
+title: "Thirsti CO2 Flavored Water Soda Machine Project"
 excerpt: "Conceptualized, Engineered, and Executed a range of signal processing, harware selection, sensory, and software mechanisms, as well as control systems, for Ninja Thirsti Project."
 collection: portfolio
 ---
 
-Envisioned, Developed, and Deployed an array of software, signal processing, and sensing instruments, along with control systems and hardware integration, for Ninja Thirsti Drink System Project. 
+Envisioned, Developed, and Deployed an array of software, signal processing, and sensing instruments, along with control systems and hardware integration, for Thirsti Drink System Project. 
 
-[Ninja Thirsti Drink System](https://www.ninjakitchen.com/zidWC1001)
+[Thirsti Drink System](https://www.ninjakitchen.com/zidWC1001)
 ======
 In the development of the [Ninja Thirsti Drink System](https://www.ninjakitchen.com/zidWC1001)'s control systems and algorithms, I utilized my extensive knowledge in control theory, embedded systems, and software engineering. Key features of the product, such as water level detection, flow regulation, failure detection, cycle manipulation, and low pass filtering, were designed and developed using languages such as Matlab, C++, Python, and Arduino.
 
@@ -16,4 +16,4 @@ The prototype development phase required meticulous component selection and syst
 
 Providing support to the testing and product design teams, I developed specialized test software, thereby facilitating comprehensive product evaluation and verification. In addition, the development of an R-pi/Arduino apparatus and a Python application facilitated the expediting of the testing process.
 
-My experience in developing the control systems and algorithms for the Ninja Thirsti Drink System has enhanced my skills in system design, algorithm development, testing, documentation, risk management, and troubleshooting in the context of control systems and embedded software engineering.
+My experience in developing the control systems and algorithms for the Thirsti Drink System has enhanced my skills in system design, algorithm development, testing, documentation, risk management, and troubleshooting in the context of control systems and embedded software engineering.

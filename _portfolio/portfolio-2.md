@@ -1,6 +1,6 @@
 ---
-title: "Ninja Nespresso & Coffee Projects "
-excerpt: "Conceptualized/Designed/Implemented various signal processing/sensing/software tools and controllers for Ninja Heated/Beverage products.<br/><img src='/images/pds.png' width='550' height='600'>"
+title: "Nespresso & Coffee Projects "
+excerpt: "Conceptualized/Designed/Implemented various signal processing/sensing/software tools and controllers for Heated/Beverage products.<br/><img src='/images/pds.png' width='550' height='600'>"
 collection: portfolio
 ---
 
@@ -17,4 +17,4 @@ I also identified possible risks and took software-related actions, such as deve
 
 Finally, I investigated the root cause of failures and searched for possible solutions. I analyzed the risks related to the failures and proposed solutions to minimize them. I also owned and managed the development of prototype and testing tools, including a Python application and an R-pi/Arduino apparatus to speed up the testing process.
 
-Overall, my experience developing control systems and algorithms for the Ninja Nespresso & Coffee/Tea Makers have given me valuable skills in defining and developing product features, testing, documentation, risk management, and troubleshooting.
+Overall, my experience developing control systems and algorithms for the Nespresso & Coffee/Tea Makers have given me valuable skills in defining and developing product features, testing, documentation, risk management, and troubleshooting.
