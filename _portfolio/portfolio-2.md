@@ -6,7 +6,7 @@ collection: portfolio
 
 Conceptualized/Designed/Implemented various software/signal processing/sensing tools and controllers for Ninja Heated products. Focused on Ninja brand in heated kitchen applicense and recently working on coffee and water product. 
 
-[Ninja Nespresso & Coffee/Tea MAkers](https://www.ninjakitchen.com/ninjaus/product_categories.countertop_appliances.coffee_tea_makers)
+[Ninja Nespresso & Coffee/Tea Makers](https://www.ninjakitchen.com/ninjaus/product_categories.countertop_appliances.coffee_tea_makers)
 ======
 I am pleased to share with you my experience in developing control systems and algorithms for the [Ninja Espresso & Coffee Barista System](https://www.ninjakitchen.com/exclusive-offer/CFN601WBKT/ninja-espresso-coffee-barista-system/), [Single-Serve Coffee Maker](https://www.ninjakitchen.com/exclusive-offer/PB051WBKT/ninja-pods-and-grounds-specialty-single-serve-coffee-maker/), and [Ninja DualBrew Hot & Iced Coffee Maker](https://www.ninjakitchen.com/products/ninja-dualbrew-hot-iced-coffee-maker-zidCFP101),
 which are currently available in the market. From prototype development to mass production, I successfully developed and implemented algorithms (in C++, Arduino, and Python) for all features of the product, including cascade temperature control, flow control, failure detection, altitude calibration, and low-pass filter.
