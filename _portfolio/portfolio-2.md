@@ -1,20 +1,22 @@
 ---
-title: "Nespresso & Coffee Projects "
-excerpt: "Conceptualized/Designed/Implemented various signal processing/sensing/software tools and controllers for Heated/Beverage products.<br/><img src='/images/pds.png' width='550' height='600'>"
+title: "Real Time Data Collection Apparatus/Application"
+excerpt: "Conceptualized and Designed Python application for R&D team to collect real-time data from software by communicating with unit's MCU.<br/><img src='/images/serialGUI.png' width='550' height='600'> <br/> <br/> Also a profiler is designed and developed for R&D and testing team to visualize and save real time sensor and scale data.<br/><img src='/images/profiler2.jpg' width='400' height='450'>"
 collection: portfolio
 ---
 
-Conceptualized/Designed/Implemented various software/signal processing/sensing tools and controllers for Heated and beverage products. Focused on Ninja brand in heated kitchen applicense and recently working on coffee and water product. 
+Conceptualized and Designed a user interface by using Python to collect real time data from MCU and additional sensors in the products. The GUI simplifies the data collection and visualization, and serial communication on Ninja beverage products. 
 
-[Ninja Nespresso & Coffee/Tea Makers](https://www.ninjakitchen.com/ninjaus/product_categories.countertop_appliances.coffee_tea_makers)
+Real Time Data Collection in Beverage and Heated Projects
 ======
-I am pleased to share with you my experience in developing control systems and algorithms for the [Ninja Espresso & Coffee Barista System](https://www.ninjakitchen.com/exclusive-offer/CFN601WBKT/ninja-espresso-coffee-barista-system/), [Single-Serve Coffee Maker](https://www.ninjakitchen.com/exclusive-offer/PB051WBKT/ninja-pods-and-grounds-specialty-single-serve-coffee-maker/), and [Ninja DualBrew Hot & Iced Coffee Maker](https://www.ninjakitchen.com/products/ninja-dualbrew-hot-iced-coffee-maker-zidCFP101),
-which are currently available in the market. From prototype development to mass production, I successfully developed and implemented algorithms (in C++, Arduino, and Python) for all features of the product, including cascade temperature control, flow control, failure detection, altitude calibration, and low-pass filter.
 
-During prototype development, I obtained most of the sensors and AC/DC motor drivers from the market and combined them to model the final product. I then conducted most of the testing on this prototype before implementing the algorithms in the actual machine. As part of my responsibilities, I defined and developed the system flow of the product features and developed testing code (C++, Arduino, Python, and MATLAB) for prototypes. I closely worked with the software engineer to program these features into the final product and documented each feature.
+As an aspiring engineer, I am pleased to share with you one of my recent projects that I am particularly proud of. I developed a Graphical User Interface (GUI) for real-time data collection by communicating with Microcontroller Units (MCUs) in the units and also additional sensors that we included to validate the system responses. The GUI is capable of saving the collected data as CSV files and plotting them for further analysis.
 
-I also identified possible risks and took software-related actions, such as developing error states for the unit and taking real-time actions based on sensor readings. I researched and implemented new ideas/algorithms and approaches to the prototypes and final product and adapted new features in both software and hardware to speed up the research process. Additionally, I supported the testing team and product design team by developing some test software.
+One of the most significant advantages of this application is that it is designed to speed up the collection and analysis process significantly. This makes it ideal for use by R&D and testing engineers who are often tasked with handling large amounts of data in a short period. By providing a user-friendly and efficient interface, the GUI eliminates the need for manual data entry and manipulation, making it easier for engineers to concentrate on their core responsibilities.
 
-Finally, I investigated the root cause of failures and searched for possible solutions. I analyzed the risks related to the failures and proposed solutions to minimize them. I also owned and managed the development of prototype and testing tools, including a Python application and an R-pi/Arduino apparatus to speed up the testing process.
+With this application, engineers can easily and quickly collect data from the MCU in the units and store them in CSV files for further analysis. They can also plot the collected data in real-time, providing a visual representation of the results that can help identify trends and anomalies. This is especially useful in fields such as biomedical engineering, where real-time data analysis can be crucial in monitoring vital signs and other critical parameters.
 
-Overall, my experience developing control systems and algorithms for the Nespresso & Coffee/Tea Makers have given me valuable skills in defining and developing product features, testing, documentation, risk management, and troubleshooting.
+Overall, this GUI for real-time data collection and analysis is a valuable tool for engineers in various fields. By making data collection and analysis faster and more efficient, it can help improve the accuracy of results and ultimately lead to better decision-making.
+
+
+
+
