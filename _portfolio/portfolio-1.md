@@ -4,7 +4,7 @@ excerpt: "Conceptualized, Engineered, and Executed a range of signal processing,
 collection: portfolio
 ---
 
-Envisioned, Developed, and Deployed an array of software, signal processing, and sensing instruments, along with control systems and hardware integration, for Thirsti Drink System Project. 
+Envisioned, Developed, and Deployed an array of software, signal processing, and sensing instruments/algorithms, along with control systems and hardware integration, for Thirsti Drink System Project from initial design to mass production. 
 
 [Thirsti Drink System](https://www.ninjakitchen.com/zidWC1001)
 ======
