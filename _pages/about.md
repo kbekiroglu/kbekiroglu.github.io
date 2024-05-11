@@ -18,7 +18,7 @@ My research interests based on my academic background lie in the broad interface
 
 Here are some of my key skills and accomplishments:
 
-* Principal Systems Engineer with over 10 years of experience in the field of control systems, mechatronics, robotics, optimization, smart buildings, HVAC systems, time series analysis, predictive analytics, and forecasting algorithms.
+* Director of Control Systems Engineering with over 10 years of experience in the field of control systems, mechatronics, robotics, optimization, smart buildings, HVAC systems, time series analysis, predictive analytics, and forecasting algorithms.
 * Extensive experience in research and development, with a focus on developing new technologies and solutions to improve energy efficiency and sustainability.
 * Strong leadership and teamwork skills, with experience in leading and managing projects and teams.
 * Excellent communication and presentation skills, with experience in presenting technical information to both technical and non-technical audiences.
