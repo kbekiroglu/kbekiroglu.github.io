@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-As a Director of Control Systems Engineering at [SharkNinja](https://www.sharkninja.com/), I'm actively leading to the Ninja R&D team, specializing in the integration of hardware and software systems. My professional experience extends across a multitude of areas including systems engineering, control systems, mechatronics, and robotics, all of which involve extensive theoretical, hands-on work and practical applications. Additionally, my proficiency in time series analysis, predictive analytics, and time series forecasting algorithms comes from years of hands-on experience, which has been crucial in creating dynamic and responsive systems.
+As a Director of the Control Systems Engineering at [SharkNinja](https://www.sharkninja.com/), I'm actively leading to the Ninja R&D team, specializing in the integration of hardware and software systems. My professional experience extends across a multitude of areas including systems engineering, control systems, mechatronics, and robotics, all of which involve extensive theoretical, hands-on work and practical applications. Additionally, my proficiency in time series analysis, predictive analytics, and time series forecasting algorithms comes from years of hands-on experience, which has been crucial in creating dynamic and responsive systems.
 
 Previously, I was an Assistant Professor of Electrical Engineering Technology at [SUNY Polytechnic Institute](https://sunypoly.edu/). Before that, I was a control systems researcher at Nanyang Technological University, Singapore, where I worked on the [Green Building Innovation Cluster (GBIC)](https://intelligentsystemseee.ntu.edu.sg/cpisrg/gbic/gbic_index.html). In this project, I developed a real-time model identification algorithm to identify the thermal model of rooms and model-based distributed control strategies for HVAC systems to improve energy saving.
 
@@ -18,7 +18,7 @@ My research interests based on my academic background lie in the broad interface
 
 Here are some of my key skills and accomplishments:
 
-* Director of Control Systems Engineering with over 10 years of experience in the field of control systems, mechatronics, robotics, optimization, smart buildings, HVAC systems, time series analysis, predictive analytics, and forecasting algorithms.
+* Director of the Control Systems Engineering with over 10 years of experience in the field of control systems, mechatronics, robotics, optimization, smart buildings, HVAC systems, time series analysis, predictive analytics, and forecasting algorithms.
 * Extensive experience in research and development, with a focus on developing new technologies and solutions to improve energy efficiency and sustainability.
 * Strong leadership and teamwork skills, with experience in leading and managing projects and teams.
 * Excellent communication and presentation skills, with experience in presenting technical information to both technical and non-technical audiences.
