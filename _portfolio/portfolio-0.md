@@ -13,6 +13,7 @@ I am pleased to share with you my experience in developing control systems and a
 * [Ninja Espresso & Coffee Barista System](https://www.ninjakitchen.com/exclusive-offer/CFN601WBKT/ninja-espresso-coffee-barista-system/)
 * [Single-Serve Coffee Maker](https://www.ninjakitchen.com/exclusive-offer/PB051WBKT/ninja-pods-and-grounds-specialty-single-serve-coffee-maker/)
 * [Ninja DualBrew Hot & Iced Coffee Maker](https://www.ninjakitchen.com/products/ninja-dualbrew-hot-iced-coffee-maker-zidCFP101)
+* [Ninja Hot & Iced XL Coffee Maker with Rapid Cold Brew](https://www.ninjakitchen.com/products/ninja-hot-iced-xl-coffee-maker-with-rapid-cold-brew-zidCM371)
 
 which are currently available in the market. From prototype development to mass production, I successfully developed and implemented algorithms (in C++, Arduino, and Python) for all features of the product, including cascade temperature control, flow control, failure detection, altitude calibration, and low-pass filter.
 
