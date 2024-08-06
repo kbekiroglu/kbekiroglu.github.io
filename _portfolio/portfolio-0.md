@@ -14,7 +14,7 @@ As the lead control systems and algorithm development researcher, I worked on:
 * Milk Froth Control Algorithms: Developed advanced algorithms for consistent and customizable milk frothing.
 * Temperature Control for All Coffee Brews: Designed a robust temperature control system ensuring optimal brewing conditions for various coffee types.
 * Super Consistent PID for Espresso Brews: Created a highly accurate PID control system for perfect espresso extraction.
-Error/Fault Detection Algorithms: Developed comprehensive algorithms for real-time monitoring and fault detection to ensure product reliability.
+* Error/Fault Detection Algorithms: Developed comprehensive algorithms for real-time monitoring and fault detection to ensure product reliability.
 * Signal Processing Methods: Implemented sophisticated signal processing techniques for accurate sensor data analysis.
 
 From the initial concept to mass production, I played a key role in the following:
