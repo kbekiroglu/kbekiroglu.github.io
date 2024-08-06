@@ -18,7 +18,7 @@ As the lead control systems and algorithm development researcher, I worked on:
 * Signal Processing Methods: Implemented sophisticated signal processing techniques for accurate sensor data analysis.
 
 From the initial concept to mass production, I played a key role in the following:
-------
+---
 
 * Prototype Development: Integrated market-available sensors and motor drivers to create a working prototype. Conducted extensive testing and refined the system before implementing it in the final product.
 * System Flow Definition: Defined and developed the system flow of the product's features, collaborating closely with software engineers to implement these features in the final product.
