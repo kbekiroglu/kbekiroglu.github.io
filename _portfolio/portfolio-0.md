@@ -23,7 +23,8 @@ From the initial concept to mass production, I played a key role in the followin
 * Prototype Development: Integrated market-available sensors and motor drivers to create a working prototype. Conducted extensive testing and refined the system before implementing it in the final product.
 * System Flow Definition: Defined and developed the system flow of the product's features, collaborating closely with software engineers to implement these features in the final product.
 * Testing and Documentation: Developed testing code (C++, Arduino, Python, MATLAB) and documented each feature thoroughly.
-* Risk Management and Troubleshooting: Identified potential risks, developed error states, and proposed solutions to minimize failures. Managed the development of prototype and testing tools, including Python applications and an R-pi/Arduino apparatus, to streamline the testing process.
+* Risk Management and Troubleshooting: Identified potential risks, developed error states, and proposed solutions to minimize failures. 
+* Managed the development of prototype and testing tools, including Python applications and an R-pi/Arduino apparatus, to streamline the testing process.
 
 Overall, my experience with the Ninja Luxe Cafe has equipped me with valuable skills in product feature definition, system testing, risk management, and advanced algorithm development.
 
