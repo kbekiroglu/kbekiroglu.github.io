@@ -1,6 +1,6 @@
 ---
 title: "Ninja Luxe Cafe Project"
-excerpt: "Led the development of advanced barista assist technology, milk froth control algorithms, and temperature control systems for the Ninja Luxe Cafe series.<br/><img src='/images/coffee.png' width='550' height='600'>"
+excerpt: "Led the development of advanced barista assist technology, milk froth control algorithms, and temperature control systems for the Ninja Luxe Cafe series.<br/><img src='/images/coffee1.png' width='550' height='600'>"
 collection: portfolio
 ---
 
