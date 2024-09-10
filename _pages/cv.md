@@ -87,8 +87,8 @@ Skills
 
 Patent Under Review 
 ======
-* Determining An Amount of Carbon Dioxide in A Gas Source in A Carbonation System (57664-533F02US). 
-* Detecting Liquid Temperature for A Beverage Carbonation System (57664-534F01US).
+* Determining an amount of carbon dioxide in a gas source in a carbonation system (US20240246041A1). 
+* Beverage carbonation systems (WO2024155439A2, WO2024155439A3).
 
 Publications
 ======
