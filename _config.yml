@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Korkut Bekiroglu"
 title_separator          : "-"
 name                     : &name "Korkut Bekiroglu"
-description              : &description "Principle System Engineer at SharkNinja"
+description              : &description "Director of the Control Systems Engineering at SharkNinja"
 url                      : https://kbekiroglu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "korkutbekiroglu.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "BekirogluKorkut"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "BekirogluKorkut"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

@@ -6,9 +6,9 @@ collection: portfolio
 
 Envisioned, Developed, and Deployed an array of software, signal processing, and sensing instruments/algorithms, along with control systems and hardware integration, for Thirsti Drink System Project from initial design to mass production. 
 
-[Thirsti Drink System](https://www.ninjakitchen.com/zidWC1001)
+[Thirsti Drink System](https://www.ninjakitchen.com/ninjaus/product_categories.beverage_system.thirsti)
 ======
-In the development of the [Ninja Thirsti Drink System](https://www.ninjakitchen.com/zidWC1001)'s control systems and algorithms, I utilized my extensive knowledge in control theory, embedded systems, and software engineering. Key features of the product, such as water level detection, flow regulation, failure detection, cycle manipulation, and low pass filtering, were designed and developed using languages such as Matlab, C++, Python, and Arduino.
+In the development of the [Ninja Thirsti Drink System](https://www.ninjakitchen.com/ninjaus/product_categories.beverage_system.thirsti)'s control systems and algorithms, I utilized my extensive knowledge in control theory, embedded systems, and software engineering. Key features of the product, such as water level detection, flow regulation, failure detection, cycle manipulation, and low pass filtering, were designed and developed using languages such as Matlab, C++, Python, and Arduino.
 
 <br/><img src='/images/thirsti.jpg' width='300' height='350'>
 
