@@ -4,7 +4,7 @@ excerpt: "Conceptualized and Designed Python application for R&D team to collect
 collection: portfolio
 ---
 
-Conceptualized and Designed a user interface by using Python to collect real time data from MCU and additional sensors in the products. The GUI simplifies the data collection and visualization, and serial communication on Ninja beverage products. 
+Conceptualized and Designed a user interface by using Python to collect real time data from MCU and additional sensors in the products. The GUI simplifies the data collection and visualization, and serial communication on Ninja beverage products.  
 
 Real Time Data Collection in Beverage and Heated Projects
 ======
