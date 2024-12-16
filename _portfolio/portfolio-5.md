@@ -5,7 +5,7 @@ This research aims to provide a scalable, energy-saving solution for commercial 
 collection: portfolio
 ---
 
-[More information here](https://intelligentsystemseee.ntu.edu.sg/cpisrg/gbic/index.html)
+[More information here](https://intelligentsystemseee.ntu.edu.sg/cpisrg/gbic/gbic_index.html)
 
 Scalability of control algorithms used for savings energy in commercial building Heating, Ventilation and Air-Conditioning (HVAC) system and their implementation on low cost resource constrained hardware is a challenging problem. This research investigates the Internet of Things (IoT) prototype which implements a smart and scalable control approach called the Smart-Token Based Scheduling Algorithm (Smart-TBSA) to minimize energy in commercial building HVAC systems. The IoT prototype is formalized with an architecture that encapsulates the different components (hardware, software, networking, and their integration) along with their interactions. A detailed description of the different components, hardware design, deployment issues, and their integration with legacy systems as well as cloud-connectivity is investigated. In addition, simple modifications required for transforming the optimization models to an active control technique is also developed. 
 
