@@ -3,7 +3,7 @@ title: "Human Digital Twin for Personalized Elderly Type 2 Diabetes Management"
 collection: publications
 permalink: /publication/2023-07-03-mdpi-paper
 excerpt: 'This paper presents a human digital twin (HDT) framework to manage E-T2D that exploits various patient-specific data and builds a suite of models exploiting the data for prediction and management to personalize diabetes treatment in E-T2D patients.'
-date: 2022-10-01
+date: 2023-07-01
 venue: 'Journal of Clinical Medicine.'
 paperurl: 'https://www.mdpi.com/2077-0383/12/6/2094'
 citation: 'Thamotharan, P.; Srinivasan, S.; Kesavadev, J.; Krishnan, G.; Mohan, V.; Seshadhri, S.; Bekiroglu, K.; Toffanin, C. Human Digital Twin for Personalized Elderly Type 2 Diabetes Management. J. Clin. Med. 2023, 12, 2094.'
