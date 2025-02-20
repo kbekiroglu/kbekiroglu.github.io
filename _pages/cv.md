@@ -89,6 +89,7 @@ Patents
 ======
 * [Determining an amount of carbon dioxide in a gas source in a carbonation system](https://patents.google.com/patent/WO2024155439A2/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20240246041A1). 
 * [Beverage carbonation systems](https://patents.google.com/patent/WO2024155439A2/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (WO2024155439A2, WO2024155439A3).
+* [Detecting liquid temperature for a beverage carbonation system](https://patents.google.com/patent/US20250001371A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20250001371A).
 
 Publications
 ======
