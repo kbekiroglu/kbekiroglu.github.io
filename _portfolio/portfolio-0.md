@@ -8,7 +8,7 @@ I am excited to share my experience in developing control systems and algorithms
 
 [Ninja Luxe Cafe](https://www.ninjakitchen.com/products/ninja-luxe-cafe-premier-series-zidES601)
 ======
-As the lead control systems and algorithm development researcher, I worked on:
+As the lead control systems and algorithm development researcher, I developed following algoirthms:
 
 * Barista Assist Technology: Implemented innovative features to enhance the user experience, assisting with precise coffee brewing.
 * Milk Froth Control Algorithms: Developed advanced algorithms for consistent and customizable milk frothing.
