@@ -1,28 +1,27 @@
 ---
-title: "The Smart Building – Smart Grid (or Green Building Innovation Cluster GBIC) Research"
-excerpt: "
-This research aims to provide a scalable, energy-saving solution for commercial buildings to help estates and companies save energy on HVAC power consumption.<br/><img src='/images/tbsa1.png' width='600' height='650'>"
+title: "Internet of Things (IoT) based Pavement Monitoring System (VTRC Project)"
+excerpt: "A low-cost IoT-based wireless online structural monitoring system of asphalt.<br/><img src='/images/iotproject.jpg'>"
 collection: portfolio
 ---
 
-[More information here](https://intelligentsystemseee.ntu.edu.sg/cpisrg/gbic/gbic_index.html)
+The proposed innovation entails the development of a low-cost, IoT-based wireless online structural monitoring system for asphalt, aimed at enabling engineers to continuously monitor the structural health of roads and develop and organize necessary treatment interventions in a timely manner. The accurate evaluation of pavement response and performance is highly dependent on the continuous acquisition of high-quality measurements, including pressure, temperature, humidity, among other measures. In light of this, real-time data monitoring and measurement are essential for transportation agencies and road engineers to design more durable pavements or devise solutions to prevent asphalt structural failure.
 
-Scalability of control algorithms used for savings energy in commercial building Heating, Ventilation and Air-Conditioning (HVAC) system and their implementation on low cost resource constrained hardware is a challenging problem. This research investigates the Internet of Things (IoT) prototype which implements a smart and scalable control approach called the Smart-Token Based Scheduling Algorithm (Smart-TBSA) to minimize energy in commercial building HVAC systems. The IoT prototype is formalized with an architecture that encapsulates the different components (hardware, software, networking, and their integration) along with their interactions. A detailed description of the different components, hardware design, deployment issues, and their integration with legacy systems as well as cloud-connectivity is investigated. In addition, simple modifications required for transforming the optimization models to an active control technique is also developed. 
+The collection of various data types and the integration of information from different sections of asphalt material in highways or other roads can provide significant insights into the quality of the road or asphalt. To this end, a robust apparatus has been developed for this project, aimed at facilitating continuous monitoring and evaluation of the asphalt's structural health. Through this innovative approach, engineers and transportation agencies can develop more effective strategies to prevent and mitigate the negative effects of structural failure, ensuring the long-term durability and safety of roads and highways.
 
-<br/><img src='/images/token.jpg'>
+Overall, this project represents a significant contribution to the field of road engineering, providing an innovative solution that has the potential to revolutionize the way we approach road and pavement monitoring and maintenance. By leveraging cutting-edge IoT technology and data analytics, this system can significantly enhance the efficiency and effectiveness of road engineering and pave the way for a more sustainable and resilient infrastructure system.
 
+[More information here](https://ieeexplore.ieee.org/abstract/document/9694224)
 
-While scalability is provided by the decentralized control, recursive zone thermal model identification, prediction occupant’s thermal sensation, and embedding them within the optimization models enhances the smartness. Consequently, due to the implementation of Smart-TBSA using IoT devices, an otherwise centralized control architecture of the legacy building automation system is transformed to a more scalable and smart decentralized one. The proposed Smart-TBSA and IoT prototype are illustrated on a pilot building in Nanyang Technological University, Singapore having 85 zones. Our results shows that by combining IoT with decentralized control, energy savings up to 20% can be derived. Moreover, we show that legacy building automation system can be transformed into a more smart, adaptable, scalable, and decentralized control by deploying IoT devices without incurring significant costs.
+<br/><img src='/images/iotproject.jpg'>
 
-Structure of the local and central MPC are given below.
+Layers:
+======
+* Sensor Module
+* Power Module (Photovoltaic Panel Installation)
+* IoT Module
+* LTE/4G Module
+* Data Storage/Cloud
+* Web Interface
 
-Local MPC:
-------
-<br/><img src='/images/localMPC.png'>
-
-Central MPC:
-------
-<br/><img src='/images/centralMPC.png'>
-
-
+<br/><img src='/images/vtrc.png'>
 

@@ -1,27 +1,22 @@
 ---
-title: "Internet of Things (IoT) based Pavement Monitoring System (VTRC Project)"
-excerpt: "A low-cost IoT-based wireless online structural monitoring system of asphalt.<br/><img src='/images/iotproject.jpg'>"
+title: "Real Time Data Collection Apparatus/Application"
+excerpt: "Conceptualized and Designed Python application for R&D team to collect real-time data from software by communicating with unit's MCU.<br/><img src='/images/serialGUI.png' width='550' height='600'> <br/> <br/> Also a profiler is designed and developed for R&D and testing team to visualize and save real time sensor and scale data.<br/><img src='/images/profiler2.jpg' width='400' height='450'>"
 collection: portfolio
 ---
 
-The proposed innovation entails the development of a low-cost, IoT-based wireless online structural monitoring system for asphalt, aimed at enabling engineers to continuously monitor the structural health of roads and develop and organize necessary treatment interventions in a timely manner. The accurate evaluation of pavement response and performance is highly dependent on the continuous acquisition of high-quality measurements, including pressure, temperature, humidity, among other measures. In light of this, real-time data monitoring and measurement are essential for transportation agencies and road engineers to design more durable pavements or devise solutions to prevent asphalt structural failure.
+Conceptualized and Designed a user interface by using Python to collect real time data from MCU and additional sensors in the products. The GUI simplifies the data collection and visualization, and serial communication on Ninja beverage products.  
 
-The collection of various data types and the integration of information from different sections of asphalt material in highways or other roads can provide significant insights into the quality of the road or asphalt. To this end, a robust apparatus has been developed for this project, aimed at facilitating continuous monitoring and evaluation of the asphalt's structural health. Through this innovative approach, engineers and transportation agencies can develop more effective strategies to prevent and mitigate the negative effects of structural failure, ensuring the long-term durability and safety of roads and highways.
-
-Overall, this project represents a significant contribution to the field of road engineering, providing an innovative solution that has the potential to revolutionize the way we approach road and pavement monitoring and maintenance. By leveraging cutting-edge IoT technology and data analytics, this system can significantly enhance the efficiency and effectiveness of road engineering and pave the way for a more sustainable and resilient infrastructure system.
-
-[More information here](https://ieeexplore.ieee.org/abstract/document/9694224)
-
-<br/><img src='/images/iotproject.jpg'>
-
-Layers:
+Real Time Data Collection in Beverage and Heated Projects
 ======
-* Sensor Module
-* Power Module (Photovoltaic Panel Installation)
-* IoT Module
-* LTE/4G Module
-* Data Storage/Cloud
-* Web Interface
 
-<br/><img src='/images/vtrc.png'>
+As an aspiring engineer, I am pleased to share with you one of my recent projects that I am particularly proud of. I developed a Graphical User Interface (GUI) for real-time data collection by communicating with Microcontroller Units (MCUs) in the units and also additional sensors that we included to validate the system responses. The GUI is capable of saving the collected data as CSV files and plotting them for further analysis.
+
+One of the most significant advantages of this application is that it is designed to speed up the collection and analysis process significantly. This makes it ideal for use by R&D and testing engineers who are often tasked with handling large amounts of data in a short period. By providing a user-friendly and efficient interface, the GUI eliminates the need for manual data entry and manipulation, making it easier for engineers to concentrate on their core responsibilities.
+
+With this application, engineers can easily and quickly collect data from the MCU in the units and store them in CSV files for further analysis. They can also plot the collected data in real-time, providing a visual representation of the results that can help identify trends and anomalies. This is especially useful in fields such as biomedical engineering, where real-time data analysis can be crucial in monitoring vital signs and other critical parameters.
+
+Overall, this GUI for real-time data collection and analysis is a valuable tool for engineers in various fields. By making data collection and analysis faster and more efficient, it can help improve the accuracy of results and ultimately lead to better decision-making.
+
+
+
 

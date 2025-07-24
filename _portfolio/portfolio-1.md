@@ -1,26 +1,30 @@
 ---
-title: "Nespresso & Coffee Projects "
-excerpt: "Conceptualized/Designed/Implemented various signal processing/sensing/software tools and controllers for Heated/Beverage products.<br/><img src='/images/pds.png' width='550' height='600'>"
+title: "Ninja Luxe Cafe Project"
+excerpt: "Led the development of advanced barista assist technology, milk froth control algorithms, and temperature control systems for the Ninja Luxe Cafe series.<br/><img src='/images/coffee1.png' width='550' height='600'>"
 collection: portfolio
 ---
 
-Conceptualized/Designed/Implemented various software/signal processing/sensing tools and controllers from project initilization to mass production for 4 different Heated and beverage products in the market. Focused on Ninja brand in heated kitchen applicense and recently working on coffee and water product. 
+I am excited to share my experience in developing control systems and algorithms for the Ninja Luxe Cafe. 
 
-[Ninja Nespresso & Coffee/Tea Makers](https://www.ninjakitchen.com/ninjaus/product_categories.countertop_appliances.coffee_tea_makers)
+[Ninja Luxe Cafe](https://www.ninjakitchen.com/products/ninja-luxe-cafe-premier-series-zidES601)
 ======
-I am pleased to share with you my experience in developing control systems and algorithms for:
+As the lead control systems and algorithm development researcher, I developed following algoirthms:
 
-* [Ninja Espresso & Coffee Barista System](https://www.ninjakitchen.com/exclusive-offer/CFN601WBKT/ninja-espresso-coffee-barista-system/)
-* [Single-Serve Coffee Maker](https://www.ninjakitchen.com/exclusive-offer/PB051WBKT/ninja-pods-and-grounds-specialty-single-serve-coffee-maker/)
-* [Ninja DualBrew Hot & Iced Coffee Maker](https://www.ninjakitchen.com/products/ninja-dualbrew-hot-iced-coffee-maker-zidCFP101)
-* [Ninja Hot & Iced XL Coffee Maker with Rapid Cold Brew](https://www.ninjakitchen.com/products/ninja-hot-iced-xl-coffee-maker-with-rapid-cold-brew-zidCM371)
+* Barista Assist Technology: Implemented innovative features to enhance the user experience, assisting with precise coffee brewing.
+* Milk Froth Control Algorithms: Developed advanced algorithms for consistent and customizable milk frothing.
+* Temperature Control for All Coffee Brews: Designed a robust temperature control system ensuring optimal brewing conditions for various coffee types.
+* Super Consistent PID for Espresso Brews: Created a highly accurate PID control system for perfect espresso extraction.
+* Error/Fault Detection Algorithms: Developed comprehensive algorithms for real-time monitoring and fault detection to ensure product reliability.
+* Signal Processing Methods: Implemented sophisticated signal processing techniques for accurate sensor data analysis.
 
-which are currently available in the market. From prototype development to mass production, I successfully developed and implemented algorithms (in C++, Arduino, and Python) for all features of the product, including cascade temperature control, flow control, failure detection, altitude calibration, and low-pass filter.
+From the initial concept to mass production, I played a key role in the following:
+---
 
-During prototype development, I obtained most of the sensors and AC/DC motor drivers from the market and combined them to model the final product. I then conducted most of the testing on this prototype before implementing the algorithms in the actual machine. As part of my responsibilities, I defined and developed the system flow of the product features and developed testing code (C++, Arduino, Python, and MATLAB) for prototypes. I closely worked with the software engineer to program these features into the final product and documented each feature.
+* Prototype Development: Integrated market-available sensors and motor drivers to create a working prototype. Conducted extensive testing and refined the system before implementing it in the final product.
+* System Flow Definition: Defined and developed the system flow of the product's features, collaborating closely with software engineers to implement these features in the final product.
+* Testing and Documentation: Developed testing code (C++, Arduino, Python, MATLAB) and documented each feature thoroughly.
+* Risk Management and Troubleshooting: Identified potential risks, developed error states, and proposed solutions to minimize failures. 
+* Managed the development of prototype and testing tools, including Python applications and an R-pi/Arduino apparatus, to streamline the testing process.
 
-I also identified possible risks and took software-related actions, such as developing error states for the unit and taking real-time actions based on sensor readings. I researched and implemented new ideas/algorithms and approaches to the prototypes and final product and adapted new features in both software and hardware to speed up the research process. Additionally, I supported the testing team and product design team by developing some test software.
+Overall, my experience with the Ninja Luxe Cafe has equipped me with valuable skills in product feature definition, system testing, risk management, and advanced algorithm development.
 
-Finally, I investigated the root cause of failures and searched for possible solutions. I analyzed the risks related to the failures and proposed solutions to minimize them. I also owned and managed the development of prototype and testing tools, including a Python application and an R-pi/Arduino apparatus to speed up the testing process.
-
-Overall, my experience developing control systems and algorithms for the Nespresso & Coffee/Tea Makers have given me valuable skills in defining and developing product features, testing, documentation, risk management, and troubleshooting.

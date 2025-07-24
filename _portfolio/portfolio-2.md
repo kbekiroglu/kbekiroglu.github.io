@@ -1,28 +1,26 @@
 ---
-title: "Thirsti CO2 Flavored Water Soda Machine Project"
-excerpt: "Conceptualized, Engineered, and Executed a range of signal processing, harware selection, sensory, and software mechanisms, as well as control systems, for Ninja Thirsti Project. Three patents Under Review  - Determining an amount of carbon dioxide in a gas source in a carbonation system (US20240246041A1) and - Beverage carbonation systems (WO2024155439A2, WO2024155439A3) and - Detecting liquid temperature for a beverage carbonation system (US20250001371A1)."
+title: "Nespresso & Coffee Projects "
+excerpt: "Conceptualized/Designed/Implemented various signal processing/sensing/software tools and controllers for Heated/Beverage products.<br/><img src='/images/pds.png' width='550' height='600'>"
 collection: portfolio
 ---
 
-Envisioned, Developed, and Deployed an array of software, signal processing, and sensing instruments/algorithms, along with control systems and hardware integration, for Thirsti Drink System Project from initial design to mass production. 
+Conceptualized/Designed/Implemented various software/signal processing/sensing tools and controllers from project initilization to mass production for 4 different Heated and beverage products in the market. Focused on Ninja brand in heated kitchen applicense and recently working on coffee and water product. 
 
-[Thirsti Drink System](https://www.ninjakitchen.com/ninjaus/product_categories.beverage_system.thirsti)
+[Ninja Nespresso & Coffee/Tea Makers](https://www.ninjakitchen.com/ninjaus/product_categories.countertop_appliances.coffee_tea_makers)
 ======
-In the development of the following Ninja Thirsti Drink Systems' control systems and algorithms, I utilized my extensive knowledge in control theory, embedded systems, and software engineering. Key features of the product, such as water level detection, flow regulation, failure detection, cycle manipulation, and low pass filtering, were designed and developed using languages such as Matlab, C++, Python, and Arduino.
+I am pleased to share with you my experience in developing control systems and algorithms for:
 
-* [Ninja Thirsti Drink System Generation 1](https://www.ninjakitchen.com/products/ninja-thirsti-sparkling-still-drink-system-co2-bundle-zidWC1001B)
-* [Ninja Thirsti Drink System Generation 2](https://www.ninjakitchen.com/products/build-your-own-ninja-thirsti-max-still-carbonated-water-maker-zidWC2001BYO?srsltid=AfmBOoopEXtS25O68xyWU7VU4f-4jruuTzoLV9kAKTSWFsiuT-BQyLrc)
+* [Ninja Espresso & Coffee Barista System](https://www.ninjakitchen.com/exclusive-offer/CFN601WBKT/ninja-espresso-coffee-barista-system/)
+* [Single-Serve Coffee Maker](https://www.ninjakitchen.com/exclusive-offer/PB051WBKT/ninja-pods-and-grounds-specialty-single-serve-coffee-maker/)
+* [Ninja DualBrew Hot & Iced Coffee Maker](https://www.ninjakitchen.com/products/ninja-dualbrew-hot-iced-coffee-maker-zidCFP101)
+* [Ninja Hot & Iced XL Coffee Maker with Rapid Cold Brew](https://www.ninjakitchen.com/products/ninja-hot-iced-xl-coffee-maker-with-rapid-cold-brew-zidCM371)
 
-<br/><img src='/images/thirsti2.jpg' width='300' height='350'>
+which are currently available in the market. From prototype development to mass production, I successfully developed and implemented algorithms (in C++, Arduino, and Python) for all features of the product, including cascade temperature control, flow control, failure detection, altitude calibration, and low-pass filter.
 
-The prototype development phase required meticulous component selection and system modeling, involving various sensors and AC/DC motor drivers procured from the market. I conducted extensive testing, including unit tests, integration tests, and system-level tests, to validate the performance of these components and their integration. The system architecture and flow of product features were meticulously designed and implemented, as well. To streamline the process, I developed testing code in MATLAB, Python, and Arduino, which allowed for systematic verification and validation of the system's functionality at each development stage. I collaborated closely with the software engineering team, ensuring that the algorithms were correctly integrated into the final product. Rigorous documentation was maintained throughout this phase, including detailed descriptions of each feature, design decisions, and bug tracking. Alos, risk management was a pivotal part of my responsibilities. I identified potential software-related risks and devised mitigation strategies, such as the implementation of error states and real-time, sensor-driven contingency actions. To enhance the system's robustness and efficiency, I researched, developed, and implemented new algorithmic approaches and ideas in both the prototype and final product. 
+During prototype development, I obtained most of the sensors and AC/DC motor drivers from the market and combined them to model the final product. I then conducted most of the testing on this prototype before implementing the algorithms in the actual machine. As part of my responsibilities, I defined and developed the system flow of the product features and developed testing code (C++, Arduino, Python, and MATLAB) for prototypes. I closely worked with the software engineer to program these features into the final product and documented each feature.
 
-Providing support to the testing and product design teams, I developed specialized test software, thereby facilitating comprehensive product evaluation and verification. In addition, the development of an R-pi/Arduino apparatus and a Python application facilitated the expediting of the testing process.
+I also identified possible risks and took software-related actions, such as developing error states for the unit and taking real-time actions based on sensor readings. I researched and implemented new ideas/algorithms and approaches to the prototypes and final product and adapted new features in both software and hardware to speed up the research process. Additionally, I supported the testing team and product design team by developing some test software.
 
-My experience in developing the control systems and algorithms for the Thirsti Drink System has enhanced my skills in system design, algorithm development, testing, documentation, risk management, and troubleshooting in the context of control systems and embedded software engineering.
+Finally, I investigated the root cause of failures and searched for possible solutions. I analyzed the risks related to the failures and proposed solutions to minimize them. I also owned and managed the development of prototype and testing tools, including a Python application and an R-pi/Arduino apparatus to speed up the testing process.
 
-Patents
-======
-* [Determining an amount of carbon dioxide in a gas source in a carbonation system](https://patents.google.com/patent/US20240246041A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20240246041A1). 
-* [Beverage carbonation systems](https://patents.google.com/patent/WO2024155439A2/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (WO2024155439A2, WO2024155439A3).
-*  [Detecting liquid temperature for a beverage carbonation system](https://patents.google.com/patent/US20250001371A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20250001371A).
+Overall, my experience developing control systems and algorithms for the Nespresso & Coffee/Tea Makers have given me valuable skills in defining and developing product features, testing, documentation, risk management, and troubleshooting.
