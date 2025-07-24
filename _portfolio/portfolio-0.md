@@ -21,7 +21,7 @@ As Director of Control Systems at SharkNinja, I established and scaled the cross
 - **PID Thermal Control:** Designed high-precision espresso control loop with thermal compensation.
 - **Descaling, Jam Detection, Failures:** Embedded real-time fault detection and user alerts.
 
-<br/><img src='/images/ninja_espresso.jpg width='300' height='350'>
+<br/><img src='/images/ninja_espresso.jpg' width='300' height='350'>
 
 
 ---
@@ -35,7 +35,7 @@ As Director of Control Systems at SharkNinja, I established and scaled the cross
   - **Pressure release safety algorithms**
 - Contributed to patents on carbonation accuracy and queueing logic.
 
-<br/><img src='/images/ninja_soda.jpg width='300' height='350'>
+<br/><img src='/images/ninja_soda.jpg' width='300' height='350'>
 ---
 
 ## Heated Appliances  
@@ -46,7 +46,7 @@ As Director of Control Systems at SharkNinja, I established and scaled the cross
 - **Fast recovery and preheat tuning**
 - Extensive reliability, validation, and embedded integration.
 
-<br/><img src='/images/ninja_grill.jpg width='300' height='350'>
+<br/><img src='/images/ninja_grill.jpg' width='300' height='350'>
 
 ---
 
@@ -58,7 +58,7 @@ As Director of Control Systems at SharkNinja, I established and scaled the cross
   - **Adaptive cooling energy control**
 - Adaptive cycles for varying batch sizes and consistencies.
 
-<br/><img src='/images/ninja_icecream.jpg width='300' height='350'>
+<br/><img src='/images/ninja_icecream.jpg' width='300' height='350'>
 ---
 
 ## Blending & Motor Control  
@@ -68,7 +68,7 @@ As Director of Control Systems at SharkNinja, I established and scaled the cross
 - Created PID loops and stall protection
 - Improved safety, cycle timing, and consistency
 
-<br/><img src='/images/ninja_blender width='300' height='350'>
+<br/><img src='/images/ninja_blender.jpg' width='300' height='350'>
 ---
 
 ## System-Level Responsibilities
