@@ -9,7 +9,7 @@ Demonstrated leadership in guiding cross-functional teams to design and implemen
 Leadship/Manager Portfolio
 ==================
 
-As Director of Control Systems at SharkNinja, I led a cross-functional team that architected intelligent software and embedded algorithms for consumer electrocnis. This portfolio spans multiple product categories, each integrating unique control challenges, system modeling, and sensor fusion technologies.
+As Director of Control Systems at SharkNinja, I established and scaled the cross-functional Control Systems Engineering team that design/develop intelligent software and embedded algorithms for consumer electronics. This portfolio summurizes the multiple product categories, each integrating unique control challenges, system modeling, and sensor fusion technologies.
 
 ---
 
