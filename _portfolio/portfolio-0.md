@@ -11,6 +11,25 @@ Leadship/Manager Portfolio
 
 As Director of Control Systems at SharkNinja, I established and scaled the cross-functional Control Systems Engineering team that design/develop intelligent software and embedded algorithms for consumer electronics. This portfolio summurizes the multiple product categories, each integrating unique control challenges, system modeling, and sensor fusion technologies.
 
+## System-Level Responsibilities
+
+From early-stage ideation to production ramp-up, The team have led:
+
+- **Prototype Development:** Built with Arduino, C++, Python, and MATLAB. Integrated real-world sensors and drivers.
+- **System Flow Definition:** Collaborated on embedded system architecture and firmware/software handoffs.
+- **Testing & Tooling:** Developed Python/RPi-based testing rigs and validation code.
+- **Risk & Fault Handling:** Modeled system failure cases, error logging, and safe state fallback logic.
+- **Documentation & Specs:** Authored system specs, feature flow charts, and test plans.
+
+---
+
+## Core Technical Expertise
+
+- **Control:** Model Predictive Control, PID, nonlinear & hybrid control
+- **Signal Processing:** Real-time filtering, denoising, calibration, classification, detection
+- **IoT + Embedded:** Python, C++, Arduino, AWS integration, prototyping
+- **Product Integration:** Sensor fusion, thermal modeling, V&V strategy
+
 ---
 
 ## Coffee Ecosystem  
@@ -71,22 +90,5 @@ As Director of Control Systems at SharkNinja, I established and scaled the cross
 <br/><img src='/images/ninja_blender.jpg' width='300' height='350'>
 ---
 
-## System-Level Responsibilities
 
-From early-stage ideation to production ramp-up, I’ve led:
-
-- **Prototype Development:** Built with Arduino, C++, Python, and MATLAB. Integrated real-world sensors and drivers.
-- **System Flow Definition:** Collaborated on embedded system architecture and firmware/software handoffs.
-- **Testing & Tooling:** Developed Python/RPi-based testing rigs and validation code.
-- **Risk & Fault Handling:** Modeled system failure cases, error logging, and safe state fallback logic.
-- **Documentation & Specs:** Authored system specs, feature flow charts, and test plans.
-
----
-
-## Core Technical Expertise
-
-- **Control:** Model Predictive Control, PID, nonlinear & hybrid control
-- **Signal Processing:** Real-time filtering, denoising, calibration
-- **IoT + Embedded:** Python, Arduino, AWS integration, prototyping
-- **Product Integration:** Sensor fusion, thermal modeling, V&V strategy
 
