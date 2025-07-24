@@ -1,5 +1,5 @@
 ---
-title: "Director of Control Systems Engineering – Smart Product Control Systems"
+title: "Control Systems & Algorithm Design Team for Smart Products"
 excerpt: "Directed the design and deployment of control systems and algorithms across a diverse range of SharkNinja appliances, including coffee systems, beverage carbonation platforms, thermal cooking products, frozen treat makers, and high-speed blenders. Oversaw system architecture, algorithm development, and production integration to enable intelligent, consistent, and user-centric product performance.<br/><img src='/images/portfolio_grid.png' width='550' height='600'>"
 collection: portfolio
 ---
