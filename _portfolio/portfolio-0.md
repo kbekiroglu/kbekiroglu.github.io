@@ -87,7 +87,7 @@ From early-stage ideation to production ramp-up, The team have led:
 - Created PID loops and stall protection
 - Improved safety, cycle timing, and consistency
 
-<br/><img src='/images/ninja_blender.jpg' width='300' height='350'>
+<br/><img src='/images/ninja_blender1.jpg' width='300' height='350'>
 ---
 
 
