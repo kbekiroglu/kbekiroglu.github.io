@@ -16,7 +16,7 @@ As Director of Control Systems at SharkNinja, I established and scaled the cross
 From early-stage ideation to production ramp-up, The team have led:
 
 - **Prototype Development:** Built with Arduino, C++, Python, and MATLAB. Integrated real-world sensors and drivers.
-- **System Flow Definition:** Collaborated on embedded system architecture and firmware/software handoffs.
+- **System Flow Definition:** Collaborated on embedded software engineer and define complete state flows with required algoritms for SW engineering team.
 - **Testing & Tooling:** Developed Python/RPi-based testing rigs and validation code.
 - **Risk & Fault Handling:** Modeled system failure cases, error logging, and safe state fallback logic.
 - **Documentation & Specs:** Authored system specs, feature flow charts, and test plans.
@@ -26,9 +26,10 @@ From early-stage ideation to production ramp-up, The team have led:
 ## Core Technical Expertise
 
 - **Control:** Model Predictive Control, PID, nonlinear & hybrid control
-- **Signal Processing:** Real-time filtering, denoising, calibration, classification, detection
-- **IoT + Embedded:** Python, C++, Arduino, AWS integration, prototyping
-- **Product Integration:** Sensor fusion, thermal modeling, V&V strategy
+- **Signal Processing:** Real-time filtering, denoising, calibration, classification, detection, Kalman filtering
+- **System Identification:** Recursive modeling, parsimonous model identification, subspace identification 
+- **Embedded Coding:** Python, C++, Arduino, AWS integration, prototyping
+- **Product Integration:** Sensor fusion, thermal modeling, resal time learning, anomaly detections 
 
 ---
 
