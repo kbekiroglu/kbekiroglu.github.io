@@ -18,7 +18,7 @@ My academic and professional interests include system identification, model pred
 
 Here are some of my key skills and accomplishments:
 
-* Led control system and algorithm development for 20+ mass-market SharkNinja products
+* Led control system and algorithm development for 10+ mass-market SharkNinja products
 * Built and scaled the Control Systems Engineering team from the ground up
 * Inventor on 10+ patents related to beverage systems, thermal control, and user experience
 * Excellent communication and presentation skills, with experience in presenting technical information to both technical and non-technical audiences.
