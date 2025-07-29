@@ -8,19 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-As a Director of the Control Systems Engineering at [SharkNinja](https://www.sharkninja.com/), I'm actively leading to the Ninja R&D team, specializing in the integration of hardware and software systems. My professional experience extends across a multitude of areas including systems engineering, control systems, mechatronics, and robotics, all of which involve extensive theoretical, hands-on work and practical applications. Additionally, my proficiency in time series analysis, predictive analytics, and time series forecasting algorithms comes from years of hands-on experience, which has been crucial in creating dynamic and responsive systems.
+As a Director of the Control Systems Engineering at [SharkNinja](https://www.sharkninja.com/), I lead the development of intelligent embedded systems across a broad portfolio of consumer products. I established and now manage the Control Systems team within Ninja R&D, overseeing the integration of hardware and software, from early-stage prototyping to mass production. My expertise spans control systems, mechatronics, robotics, and system-level architecture, combining theoretical depth with practical, product-driven execution..
 
-Previously, I was an Assistant Professor of Electrical Engineering Technology at [SUNY Polytechnic Institute](https://sunypoly.edu/). Before that, I was a control systems researcher at Nanyang Technological University, Singapore, where I worked on the [Green Building Innovation Cluster (GBIC)](https://intelligentsystemseee.ntu.edu.sg/cpisrg/gbic/gbic_index.html). In this project, I developed a real-time model identification algorithm to identify the thermal model of rooms and model-based distributed control strategies for HVAC systems to improve energy saving.
+Previously, I served as Assistant Professor of Electrical Engineering Technology at [SUNY Polytechnic Institute](https://sunypoly.edu/). Before that, I was a control systems researcher at Nanyang Technological University, Singapore, where I worked on the [Green Building Innovation Cluster (GBIC)](https://intelligentsystemseee.ntu.edu.sg/cpisrg/gbic/gbic_index.html). In this project, I developed a real-time model identification algorithm to identify the thermal model of rooms and model-based distributed control strategies for HVAC systems to improve energy saving.
 
-I received my M.S. degree in Electrical and Computer Engineering from Northeastern University in 2010 and my Ph.D. degree in Electrical Engineering from The Pennsylvania State University in 2015. I also have a minor Ph.D. degree in Industrial and Manufacturing Engineering from The Pennsylvania State University.
+I earned my M.S. in Electrical and Computer Engineering from Northeastern University (2010), and a Ph.D. in Electrical Engineering with a minor in Industrial & Manufacturing Engineering from The Pennsylvania State University (2015).
 
-My research interests based on my academic background lie in the broad interface of mechatronics, robotics, system identification (modeling), model predictive control, optimization, robust optimization, building automation, signal processing, predictive analytics, and anomaly detection. I am a member of the IEEE and have published many journal and conference papers and edited conference issues. I have also served as an associate editor and technical program committee member for several IEEE conferences.
+My academic and professional interests include system identification, model predictive control, real-time optimization, anomaly detection, signal processing, and time series forecasting, applied to robotics, smart buildings, and intelligent consumer systems. I am an active IEEE member, have published widely in journals and conferences, and have served as associate editor and technical committee member for multiple IEEE events.
 
 Here are some of my key skills and accomplishments:
 
-* Director of the Control Systems Engineering with over 10 years of experience in the field of control systems, mechatronics, robotics, optimization, smart buildings, HVAC systems, time series analysis, predictive analytics, and forecasting algorithms.
-* Extensive experience in research and development, with a focus on developing new technologies and solutions to improve energy efficiency and sustainability.
-* Strong leadership and teamwork skills, with experience in leading and managing projects and teams.
+* Led control system and algorithm development for 20+ mass-market SharkNinja products
+* Built and scaled the Control Systems Engineering team from the ground up
+* Inventor on 10+ patents related to beverage systems, thermal control, and user experience
 * Excellent communication and presentation skills, with experience in presenting technical information to both technical and non-technical audiences.
-* Published author of numerous journal and conference papers, and editor of conference issues.
-* Member of the IEEE.
+* Published 20+ peer-reviewed articles on control theory, modeling, and predictive system
