@@ -28,3 +28,11 @@ From the initial concept to mass production, I played a key role in the followin
 
 Overall, my experience with the Ninja Luxe Cafe has equipped me with valuable skills in product feature definition, system testing, risk management, and advanced algorithm development.
 
+Patents
+======
+* [Preventing coffee bean grinder jamming](https://patents.google.com/patent/US20250235035A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US12369741B1). 
+* [Preparation of beverage machines for cold beverage brewing](https://patents.google.com/patent/US12369744B1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US12369744B1).
+* [Suggesting coffee bean grind size for beverage machines](https://patents.google.com/patent/US20250235034A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20250235034A1)
+* [Queueing beverage machine preparations](https://patents.google.com/patent/WO2025155327A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (WO2025155327A1)
+* [Descaling beverage machines](https://patents.google.com/patent/US20250235041A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20250235041A1)
+
