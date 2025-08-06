@@ -84,12 +84,19 @@ Skills
 * Soft Skills
   * Mentored graduate and undergraduate students, collaborating with engineers/scientists from various fields, initiated, organized, and led a team for an IoT project, and prepared a final technical report.
   * Mentoring junior engineers and co-ops working on control system in my current role.
+Patents (Under Review)
+======
+* [Preventing coffee bean grinder jamming](https://patents.google.com/patent/US20250235035A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US12369741B1).
+* [Preparation of beverage machines for cold beverage brewing](https://patents.google.com/patent/US12369744B1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US12369744B1).  
 
 Patents (Under Review)
 ======
 * [Determining an amount of carbon dioxide in a gas source in a carbonation system](https://patents.google.com/patent/WO2024155439A2/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20240246041A1-Under Review). 
 * [Beverage carbonation systems](https://patents.google.com/patent/WO2024155439A2/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (WO2024155439A2, WO2024155439A3-Under Review).
 * [Detecting liquid temperature for a beverage carbonation system](https://patents.google.com/patent/US20250001371A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20250001371A-Under Review).
+* [Suggesting coffee bean grind size for beverage machines](https://patents.google.com/patent/US20250235034A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20250235034A1)
+* [Queueing beverage machine preparations](https://patents.google.com/patent/WO2025155327A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (WO2025155327A1)
+* [Descaling beverage machines](https://patents.google.com/patent/US20250235041A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20250235041A1)
 
 Publications
 ======
