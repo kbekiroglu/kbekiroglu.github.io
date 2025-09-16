@@ -11,6 +11,8 @@ redirect_from:
 
 Patents
 -----
+* [Zero retention coffee bean hopper](https://patents.google.com/patent/US20250275644A1/en?inventor=korkut+bekiroglu) (US20250275644A1). 
+  * In one aspect, a method of using an automated beverage machine can include causing coffee beans to be dispensed from a hopper configured to contain the coffee beans and into a grinder configured to grind the coffee beans. The method can further include receiving, from a weight sensor configured to measure a total weight of the hopper and the coffee beans, data characterizing a weight of the hopper, and determining, based on the received data, an amount of coffee beans dispensed into the grinder.
 * [Preventing coffee bean grinder jamming](https://patents.google.com/patent/US20250235035A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US12369741B1).
   * Various illustrative systems, devices, and methods for espresso machines are provided. In general, an espresso machine is configured to brew and dispense espresso. In an exemplary implementation, the espresso machine includes a grinder configured to grind coffee beans. The grinder is configured to be adjustable to allow for adjustment of coffee bean grind size, which may help that ensure that a particular beverage brewed and dispensed by the espresso machine is prepared using an optimal grind size. The espresso machine is configured to prevent jamming of the grinder automatically in response to grind size adjustment.
 * [Preparation of beverage machines for cold beverage brewing](https://patents.google.com/patent/US12369744B1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US12369744B1).
