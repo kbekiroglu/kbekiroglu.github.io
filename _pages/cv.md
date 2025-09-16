@@ -84,7 +84,8 @@ Skills
 * Soft Skills
   * Mentored graduate and undergraduate students, collaborating with engineers/scientists from various fields, initiated, organized, and led a team for an IoT project, and prepared a final technical report.
   * Mentoring junior engineers and co-ops working on control system in my current role.
-Patents (Under Review)
+
+Patents
 ======
 * [Preventing coffee bean grinder jamming](https://patents.google.com/patent/US20250235035A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US12369741B1).
 * [Preparation of beverage machines for cold beverage brewing](https://patents.google.com/patent/US12369744B1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US12369744B1).  
