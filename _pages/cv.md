@@ -99,6 +99,7 @@ Patents (Under Review)
 * [Queueing beverage machine preparations](https://patents.google.com/patent/WO2025155327A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (WO2025155327A1)
 * [Descaling beverage machines](https://patents.google.com/patent/US20250235041A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20250235041A1)
 * [Zero retention coffee bean hopper](https://patents.google.com/patent/US20250275644A1/en?inventor=korkut+bekiroglu) (US20250275644A1). 
+* [Superautomatic Beverage Machine](https://patents.google.com/patent/WO2025190411A1/fr?inventor=korkut+bekiroglu&page=1) (WO2025190411A120250235041A1). 
 
 Publications
 ======
