@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-As a Director of the Control Systems Engineering at [SharkNinja](https://www.sharkninja.com/), I lead the development of intelligent embedded systems across a broad portfolio of consumer products. I established and now manage the Control Systems team within Ninja R&D, overseeing the integration of hardware and software, from early-stage prototyping to mass production. My expertise spans control systems, mechatronics, robotics, and system-level architecture, combining theoretical depth with practical, product-driven execution..
+As a Director of the Control Systems Engineering at [SharkNinja](https://www.sharkninja.com/), I lead the development of intelligent embedded systems across a broad portfolio of consumer products. I established and now manage the Control Systems team within Ninja R&D, overseeing the integration of hardware and software, from early-stage prototyping to mass production. My expertise spans control systems, mechatronics, robotics, and system-level architecture, combining theoretical depth with practical, product-driven execution.
 
 Previously, I served as Assistant Professor of Electrical Engineering Technology at [SUNY Polytechnic Institute](https://sunypoly.edu/). Before that, I was a control systems researcher at Nanyang Technological University, Singapore, where I worked on the [Green Building Innovation Cluster (GBIC)](https://intelligentsystemseee.ntu.edu.sg/cpisrg/gbic/gbic_index.html). In this project, I developed a real-time model identification algorithm to identify the thermal model of rooms and model-based distributed control strategies for HVAC systems to improve energy saving.
 
