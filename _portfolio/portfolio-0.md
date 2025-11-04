@@ -50,10 +50,10 @@ From early-stage ideation to production ramp-up, the team has led:
 *Soda Machines & Cold Brew Devices*
 
 - Developed control systems for:  
-  - **CO₂ level prediction & tank estimation**  
-  - **Liquid temperature compensation**  
-  - **Pressure release safety algorithms**  
-  - **Dynamic state control for improved carbonation level regulation**  
+  - CO₂ level prediction & tank estimation  
+  - Liquid temperature compensation  
+  - Pressure release safety algorithms  
+  - Dynamic state control for improved carbonation level regulation  
 - Contributed to patents on carbonation accuracy and queueing logic.
 
 <br/><img src='/images/ninja_soda.jpg' width='300' height='350'>
