@@ -4,7 +4,7 @@ excerpt: "Directed the design and deployment of control systems and algorithms a
 collection: portfolio
 ---
 
-Demonstrated leadership in guiding cross-functional teams to design and implement advanced control systems and algorithms across a broad portfolio of consumer electronics. Led the end-to-end development lifecycle—from prototyping and modeling to embedded implementation and mass production—delivering high-performance, reliable, and scalable solutions across multiple product categories.
+Demonstrated leadership in guiding cross functional teams to design and implement advanced control systems and algorithms across a broad portfolio of consumer electronics. Led the end-to-end development lifecycle from prototyping and modeling to embedded implementation and mass production, delivering high-performance, reliable, and scalable solutions across multiple product categories.
 
 Leadership/Manager Portfolio
 ==================
