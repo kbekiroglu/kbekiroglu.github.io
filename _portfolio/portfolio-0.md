@@ -63,10 +63,10 @@ From early-stage ideation to production ramp-up, the team has led:
 ## Heated Appliances  
 *Air Fryers, Indoor Grills, Ovens, Propane Grill, Slow Cookers*
 
-- **Temperature Control + Hysteresis Heater Control**  
-- **Dynamic Temperature Offset Learning and Setpoint Adaptation**  
-- **Sensor Fusion with NTC and Flow Sensors**  
-- **Fast recovery and preheat tuning**  
+- Temperature Control + Hysteresis Heater Control  
+- Dynamic Temperature Offset Learning and Setpoint Adaptation  
+- Sensor Fusion with NTC and Flow Sensors  
+- Fast recovery and preheat tuning  
 - Extensive reliability, validation, and embedded integration.
 
 <br/><img src='/images/ninja_grill.jpg' width='300' height='350'>
@@ -76,9 +76,9 @@ From early-stage ideation to production ramp-up, the team has led:
 ## Frozen Treat Makers  
 *Ice Cream Makers & Slushie Machines*
 
-- Designed freezing algorithms with:  
-  - **Freezing point detection**  
-  - **Adaptive cooling energy control**  
+- **Slush Assist Technology:**  
+  - Freezing point detection  
+  - Adaptive cooling energy control  
 - Adaptive cycles for varying batch sizes and consistencies.
 
 <br/><img src='/images/ninja_icecream.jpg' width='300' height='350'>
