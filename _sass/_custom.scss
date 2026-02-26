@@ -1,0 +1,309 @@
+/* ==========================================================================
+   Custom Modern Enhancements - Tech Blue Theme
+   ========================================================================== */
+
+/* Enhanced Typography */
+body {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+  color: $tech-blue-dark;
+}
+
+h3 {
+  font-size: 1.25em;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  color: $tech-blue;
+}
+
+/* Enhanced Links */
+a {
+  transition: color 0.3s ease, opacity 0.3s ease;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+/* Modern Buttons */
+.btn {
+  border-radius: $border-radius;
+  padding: 0.75em 1.5em;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  }
+}
+
+/* Enhanced Author Profile - NO blue circle around picture */
+.author__avatar {
+  img {
+    border-radius: 50%;
+    border: 2px solid $lighter-gray;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+}
+
+.author__name {
+  font-size: 1.4em;
+  font-weight: 700;
+  color: $tech-blue-dark;
+}
+
+.author__bio {
+  font-size: 1em;
+  line-height: 1.6;
+  color: $dark-gray;
+}
+
+/* Enhanced Navigation - Clean style with blue text, NO ribbons */
+.greedy-nav {
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+  border-bottom: 1px solid $lighter-gray;
+
+  a {
+    color: $tech-blue-dark;
+    font-weight: 600;
+
+    &:hover {
+      color: $tech-blue;
+      background: transparent;
+    }
+  }
+
+  /* Remove the blue ribbon/underline */
+  .visible-links a:before {
+    display: none;
+  }
+
+  .site-title {
+    color: $tech-blue-dark;
+    font-weight: 700;
+  }
+}
+
+/* Modern Cards for Portfolio */
+.archive__item {
+  border-radius: $border-radius;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  border: 1px solid $border-color;
+  margin-bottom: 1em;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.12);
+  }
+}
+
+.archive__item-title {
+  color: $tech-blue-dark;
+  font-weight: 600;
+  font-size: 1.1em;
+  line-height: 1.4;
+
+  a {
+    color: $tech-blue-dark;
+
+    &:hover {
+      color: $tech-blue;
+      text-decoration: underline;
+    }
+  }
+}
+
+/* Enhanced Page Header */
+.page__title {
+  color: $tech-blue-dark;
+  font-weight: 600;
+  font-size: 1.8em;
+  margin-bottom: 0.5em;
+}
+
+.page__meta {
+  color: $gray;
+  font-size: 0.85em;
+}
+
+/* Modern List Styles - Very compact spacing for publications */
+.list__item {
+  padding: 0.4em 0;
+  margin-bottom: 0.3em;
+  border-bottom: 1px solid $lighter-gray;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+/* Extra compact for CV page publications/talks */
+.cv .list__item,
+.archive .list__item {
+  padding: 0.3em 0;
+  margin-bottom: 0.2em;
+}
+
+.archive__item {
+  margin-bottom: 0.5em;
+}
+
+.archive__item-excerpt {
+  margin-top: 0.2em;
+  margin-bottom: 0.3em;
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.archive__item-teaser {
+  margin-bottom: 0.3em;
+}
+
+/* Enhanced Code Blocks */
+code {
+  background: $code-background-color;
+  border-radius: 4px;
+  padding: 0.2em 0.4em;
+  font-size: 0.9em;
+  color: $tech-blue-dark;
+  border: 1px solid $light-gray;
+}
+
+pre {
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  border: 1px solid $light-gray;
+}
+
+/* Accent Highlights - WHITE backgrounds with blue borders */
+.notice,
+.notice--primary {
+  background: #fff;
+  border: 1px solid $lighter-gray;
+  border-left: 4px solid $tech-blue;
+}
+
+.notice--info {
+  background: #fff;
+  border: 1px solid $lighter-gray;
+  border-left: 4px solid $tech-blue;
+}
+
+.notice--warning {
+  background: #fff;
+  border: 1px solid $lighter-gray;
+  border-left: 4px solid $tech-gold;
+}
+
+/* Modern Footer */
+.page__footer {
+  background: $darker-gray;
+  color: $light-gray;
+
+  a {
+    color: $tech-blue;
+
+    &:hover {
+      color: $tech-gold;
+    }
+  }
+}
+
+/* Enhanced Social Icons */
+.author__urls {
+  .fa,
+  .fas,
+  .fab {
+    color: $tech-blue-dark;
+    transition: color 0.3s ease, transform 0.3s ease;
+
+    &:hover {
+      color: $tech-blue;
+      transform: scale(1.1);
+    }
+  }
+}
+
+/* Statistics/Badges Style */
+.badge {
+  display: inline-block;
+  padding: 0.35em 0.65em;
+  font-size: 0.85em;
+  font-weight: 700;
+  line-height: 1;
+  color: #fff;
+  background: $tech-blue;
+  border-radius: 20px;
+  margin: 0.25em;
+}
+
+.badge--gold {
+  background: $tech-gold;
+}
+
+.badge--dark {
+  background: $tech-blue-dark;
+}
+
+/* Smooth Scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Improved Spacing */
+.page__content {
+  p {
+    margin-bottom: 1.3em;
+  }
+
+  ul, ol {
+    margin-bottom: 1.3em;
+  }
+}
+
+/* Responsive Images */
+img {
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+}
+
+/* Modern Table Styles */
+table {
+  border-radius: $border-radius;
+  overflow: hidden;
+  box-shadow: $box-shadow;
+
+  thead {
+    background: $primary-color;
+    color: #fff;
+  }
+
+  tbody tr {
+    transition: background 0.2s ease;
+
+    &:hover {
+      background: $lighter-gray;
+    }
+  }
+}

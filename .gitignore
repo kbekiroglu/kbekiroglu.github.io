@@ -1,0 +1,11 @@
+_site/
+.sass-cache/
+Gemfile.lock
+color-preview.html
+color-palettes.md
+IMPROVEMENTS_MADE.md
+READY_TO_UPLOAD.md
+FILES_TO_UPLOAD.txt
+SETUP_INSTRUCTIONS.md
+OPEN_WEBSITE.bat
+Resume_Academia.pdf
