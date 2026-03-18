@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Director of Control Systems Engineering at [SharkNinja](https://www.sharkninja.com/), where I lead development of intelligent embedded systems for consumer products. I built and now manage the Control Systems Engineering team, combining hands-on engineering with strategic leadership—from Arduino/R-Pi prototyping to production firmware deployment across 20+ mass-market products.
+I'm Director of Control Systems Engineering at [SharkNinja](https://www.sharkninja.com/), where I lead development of intelligent embedded systems for consumer products. I built and now manage the Control Systems Engineering team, combining hands-on engineering with strategic leadership—from Arduino/R-Pi prototyping to production firmware deployment across 25+ mass-market products.
 
 My expertise spans **model predictive control, system identification, robotics, mechatronics, signal processing, and real-time optimization**. I work across the full product lifecycle: hardware integration, algorithm design, system testing, and manufacturing support. With a Ph.D. in Electrical Engineering (with a minor in Industrial & Manufacturing Engineering focusing on convex optimization) from The Pennsylvania State University (2015) and M.S. in Electrical and Computer Engineering from Northeastern University (2010), I bring both theoretical rigor and practical, product-driven execution to every project.
 
