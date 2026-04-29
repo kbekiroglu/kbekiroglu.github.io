@@ -34,7 +34,7 @@ As Assistant Professor at **SUNY Polytechnic Institute** (2018-2021), I led rese
 
 **Technical Leadership:**
 - **Built Control Systems Engineering team** from ground up at SharkNinja
-- **Hands-on engineer**: Prototype development with Python, C++, MATLAB, Arduino, R-Pi, from concept to mass production
+- **Hands-on engineer**: Prototype development with Python, Embedded C, C++, MATLAB, Arduino, R-Pi, from concept to mass production
 - **Co-founder**, Ocean Dynamex - developing predictive systems and novel forecasting algorithms
 - Developed UAV control systems, IoT monitoring platforms, and real-time optimization algorithms
 
