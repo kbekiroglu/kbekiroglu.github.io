@@ -23,7 +23,7 @@ As Assistant Professor at **SUNY Polytechnic Institute** (2018-2021), I led rese
 ## Key Accomplishments
 
 **Industry Impact:**
-- **20+ consumer products** shipped with embedded control systems and intelligent algorithms
+- **25+ consumer products** shipped with embedded control systems and intelligent algorithms
 - **12+ patents** (4 granted, 8+ pending) in beverage systems, thermal control, and intelligent appliances
 - **12-13% energy savings** achieved in commercial building HVAC systems through distributed MPC
 
