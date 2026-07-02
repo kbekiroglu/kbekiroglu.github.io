@@ -16,7 +16,7 @@ redirect_from:
 - Delivered algorithms and embedded software into **30+ globally shipped products** across coffee, beverage carbonation, thermal cooking, frozen treat, and Shark beauty systems ([full portfolio](/portfolio/portfolio-0/))
 - Built internal engineering platforms: Python-based MCU communication service, Raspberry Pi / Arduino HIL infrastructure, and evaluation frameworks used across product lines ([portfolio](/portfolio/portfolio-5/))
 - **Driving AI-assisted engineering adoption**: Claude Code, OpenAI Codex, and LLM workflows integrated into code generation, R&D ideation, data-analysis pipelines, and MCP-integrated Confluence documentation. Same headcount supports approximately **40% more concurrent projects** ([portfolio](/portfolio/portfolio-1/))
-- Cut development cycle time by roughly **20%** through modular software architectures and engineering process design — in a fast-paced consumer-products environment where product cycles are already short
+- Cut development cycle time by roughly **20%** through modular software architectures and engineering process design, in a fast-paced consumer-products environment where product cycles are already short
 
 ## AI-Assisted Engineering
 
@@ -36,7 +36,7 @@ See [portfolio](/portfolio/portfolio-1/) for details.
 - **Assistant Professor & Principal Investigator**, SUNY Polytechnic Institute (2018–2021). Led externally funded research; taught graduate and undergraduate courses; deployed IoT pavement monitoring on Raspberry Pi + AWS ([IEEE iThings 2021](https://ieeexplore.ieee.org/abstract/document/9694224); [portfolio](/portfolio/portfolio-6/)). Also collaborated with CS colleagues on anomaly/fault detection research ([portfolio](/portfolio/portfolio-9/)). Co-founded [Ocean Dynamex](https://www.oceandynamex.com/).
 - **Research Scientist**, Nanyang Technological University, Singapore (2016–2018). Green Building Innovation Cluster. Distributed HVAC control platform (server plus Raspberry Pi edge fleet) achieving **12–13% energy savings** in occupied buildings ([*Applied Energy*](https://www.sciencedirect.com/science/article/pii/S0306261919302582); [portfolio](/portfolio/portfolio-7/)).
 - **Postdoctoral Researcher**, The Methodology Center, Penn State (2015–2016). Control-theoretic methods applied to behavioral health interventions.
-- **Ph.D.**, Penn State (2010–2015). [*From Data to Interventions: Using System Identification and Robust Control Algorithms to Design Effective Treatments*](https://etda.libraries.psu.edu/catalog/26227). Advisor: Prof. Constantino Lagoa. Minor Ph.D., Industrial Engineering (Convex Optimization). ([Portfolio](/portfolio/portfolio-8/) — 10 papers linked.)
+- **Ph.D.**, Penn State (2010–2015). [*From Data to Interventions: Using System Identification and Robust Control Algorithms to Design Effective Treatments*](https://etda.libraries.psu.edu/catalog/26227). Advisor: Prof. Constantino Lagoa. Minor Ph.D., Industrial Engineering (Convex Optimization). ([Portfolio](/portfolio/portfolio-8/): 10 papers linked.)
 - **M.S.**, Northeastern University (2008–2010). [*Vision Based Control of an Autonomous Blimp with Actuator Saturation*](https://repository.library.northeastern.edu/files/neu:1290). Advisors: Profs. Mario Sznaier and Bahram Shafai.
 
 ## Expertise
