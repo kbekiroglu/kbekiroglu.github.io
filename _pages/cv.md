@@ -65,15 +65,15 @@ IEEE Editorial & Community Service
 
 Technical Skills
 ======
-**Control & Algorithms:** Model Predictive Control (MPC), Distributed MPC, Robust & Adaptive Control, Nonlinear Control, System Identification, Real-time Optimization, Anomaly/Fault Detection
+**Control & Robotics:** Model Predictive Control (MPC), Distributed MPC, Robust & Adaptive Control, Nonlinear Control, System Identification, Real-time Optimization, Anomaly/Fault Detection, Robotics & Autonomous Systems, Motion Control, Computer Vision-Based Control
 
 **Sensing & Estimation:** Sensor Fusion, State Estimation & Filtering (Kalman), Time-Series Modeling, Real-time System Monitoring
 
-**Systems & Cloud:** Embedded Systems (Bare-metal C, C++), IoT & Edge Computing (R-Pi, Arduino, AWS), Hardware-in-the-Loop Testing, Distributed Systems
+**Systems & Cloud:** Embedded Systems (Bare-metal C, C++), IoT & Edge Computing (Raspberry Pi, Arduino, AWS), Hardware-in-the-Loop Testing, Distributed Systems, Electromechanical Actuation
 
 **Programming & Tools:** Python, C++, Embedded C, MATLAB / Simulink, Optimization Solvers (CVX, YALMIP, CPLEX, Mosek, Gurobi), EnergyPlus
 
-**AI-Assisted Engineering:** Claude Code, GitHub Copilot, LLM-integrated workflows
+**AI-Assisted Engineering:** Claude Code, OpenAI Codex, MCP-integrated Confluence workflows, LLM-integrated engineering practices
 
 Leadership & Impact
 ======

@@ -41,6 +41,6 @@ See [portfolio](/portfolio/portfolio-1/) for details.
 
 ## Expertise
 
-**Control:** MPC • Distributed MPC • Robust & Adaptive Control • Nonlinear Control • Real-time Optimization
-**Systems:** System Identification • Sensor Fusion • Embedded Systems • IoT & Edge Computing • HIL Testing
-**Leadership:** Team building • Roadmap & strategy • Cross-functional delivery • AI-assisted engineering (Claude Code, Copilot)
+**Control & Robotics:** MPC • Distributed MPC • Robust & Adaptive Control • Nonlinear Control • Real-time Optimization • Robotics & Autonomous Systems • Motion Control • Computer Vision-Based Control
+**Systems:** System Identification • Sensor Fusion • Embedded Systems • IoT & Edge Computing • HIL Testing • Electromechanical Actuation
+**Leadership:** Team building • Roadmap & strategy • Cross-functional delivery • AI-assisted engineering (Claude Code, Codex)
