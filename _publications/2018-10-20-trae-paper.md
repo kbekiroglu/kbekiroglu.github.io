@@ -2,7 +2,7 @@
 title: "Hankel Matrix Rank as Indicator of Ghost in Bearing-Only Tracking"
 collection: publications
 permalink: /publication/2018-10-20-trae-paper
-excerpt: 'An automated model estimation and selection algorithm is proposed.'
+excerpt: 'A target/ghost classifier for passive radar bearing-only tracking, based on the observation that a ghost trajectory is a function of two target trajectories and therefore of higher rank in the Hankel matrix sense.'
 date: 2018-10-20
 venue: 'IEEE Transactions on Aerospace and Electronic Systems'
 paperurl: 'https://ieeexplore.ieee.org/document/8340803'

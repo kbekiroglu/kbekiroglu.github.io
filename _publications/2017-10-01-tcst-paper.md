@@ -1,5 +1,5 @@
 ---
-title: "Designing Adaptive Intensive Interventions Using Methods from Engineering"
+title: "Control Engineering Methods for the Design of Robust Behavioral Treatments"
 collection: publications
 permalink: /publication/2017-10-01-tcst-paper
 excerpt: 'A robust control approach is used to address the problem of adaptive behavioral treatment design.'
