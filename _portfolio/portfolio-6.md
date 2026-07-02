@@ -1,28 +1,24 @@
 ---
-title: "The Smart Building – Smart Grid (or Green Building Innovation Cluster GBIC) Research"
-excerpt: "
-This research aims to provide a scalable, energy-saving solution for commercial buildings to help estates and companies save energy on HVAC power consumption.<br/><img src='/images/tbsa1.png' width='600' height='650'>"
+title: "IoT-Based Pavement Monitoring System"
+excerpt: "Externally-funded research (Assistant Professor, SUNY Poly): a low-cost IoT platform for wireless structural monitoring of asphalt pavement. Solar-powered edge nodes, LTE/4G uplink, AWS backend. Published at IEEE iThings 2021.<br/><img src='/images/iotproject.jpg'>"
 collection: portfolio
 ---
 
-[More information here](https://intelligentsystemseee.ntu.edu.sg/cpisrg/gbic/gbic_index.html)
+Externally-funded research led as **Assistant Professor & Principal Investigator, SUNY Polytechnic Institute (2018–2021)**. Designed and deployed a low-cost, IoT-based platform for wireless structural monitoring of asphalt pavement, giving transportation agencies continuous visibility into pavement health (pressure, temperature, humidity, and strain response) so they can plan interventions before structural failure. Results published at [IEEE iThings 2021](https://ieeexplore.ieee.org/abstract/document/9694224).
 
-Scalability of control algorithms used for savings energy in commercial building Heating, Ventilation and Air-Conditioning (HVAC) system and their implementation on low cost resource constrained hardware is a challenging problem. This research investigates the Internet of Things (IoT) prototype which implements a smart and scalable control approach called the Smart-Token Based Scheduling Algorithm (Smart-TBSA) to minimize energy in commercial building HVAC systems. The IoT prototype is formalized with an architecture that encapsulates the different components (hardware, software, networking, and their integration) along with their interactions. A detailed description of the different components, hardware design, deployment issues, and their integration with legacy systems as well as cloud-connectivity is investigated. In addition, simple modifications required for transforming the optimization models to an active control technique is also developed. 
+Related prior work on pavement/asphalt characterization (validating second-order model assumptions and noise reduction methods for impact-resonance testing of asphalt concrete) published in the [Journal of Nondestructive Evaluation, 2017](https://link.springer.com/article/10.1007/s10921-017-0436-2) (Boz, Bekiroglu, Solaimanian, Tavassoti, Lagoa).
 
-<br/><img src='/images/token.jpg'>
+<br/><img src='/images/iotproject.jpg'>
 
+System architecture
+======
 
-While scalability is provided by the decentralized control, recursive zone thermal model identification, prediction occupant’s thermal sensation, and embedding them within the optimization models enhances the smartness. Consequently, due to the implementation of Smart-TBSA using IoT devices, an otherwise centralized control architecture of the legacy building automation system is transformed to a more scalable and smart decentralized one. The proposed Smart-TBSA and IoT prototype are illustrated on a pilot building in Nanyang Technological University, Singapore having 85 zones. Our results shows that by combining IoT with decentralized control, energy savings up to 20% can be derived. Moreover, we show that legacy building automation system can be transformed into a more smart, adaptable, scalable, and decentralized control by deploying IoT devices without incurring significant costs.
+* **Sensor module** — embedded sensors for pressure, temperature, humidity, and strain response
+* **Power module** — photovoltaic panel installation for off-grid field deployment
+* **IoT edge module** — Raspberry Pi edge node for local data acquisition and pre-processing
+* **LTE / 4G uplink** — cellular telemetry, no wired network required
+* **Cloud backend** — AWS-hosted ingestion, storage, and analytics
+* **Web interface** — dashboards for live and historical readings
 
-Structure of the local and central MPC are given below.
-
-Local MPC:
-------
-<br/><img src='/images/localMPC.png'>
-
-Central MPC:
-------
-<br/><img src='/images/centralMPC.png'>
-
-
+<br/><img src='/images/vtrc.png'>
 

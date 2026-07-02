@@ -1,15 +1,15 @@
 ---
 title: "Control Systems & Algorithm Team for Smart Products"
-excerpt: "Directed the design and deployment of control systems, embedded SW and algorithms across a diverse range of SharkNinja appliances, including coffee systems, beverage carbonation platforms, thermal cooking products, frozen treat makers, and high-speed blenders. Oversaw system architecture, algorithm development, and production integration to enable intelligent, consistent, and user-centric product performance.<br/><img src='/images/portfolio_grid.png' width='550' height='600'>"
+excerpt: "Directed the design and deployment of control systems, embedded SW and algorithms across a diverse range of SharkNinja appliances, including coffee systems, beverage carbonation platforms, thermal cooking products, frozen treat makers, high-speed blenders, and Shark beauty products. Oversaw system architecture, algorithm development, and production integration to enable intelligent, consistent, and user-centric product performance.<br/><img src='/images/portfolio_grid.png' width='550' height='600'>"
 collection: portfolio
 ---
 
-Demonstrated leadership in guiding cross functional teams to design and implement advanced control systems and algorithms across a broad portfolio of consumer electronics. Led the end-to-end development lifecycle from prototyping and modeling to embedded implementation and mass production, delivering high-performance, reliable, and scalable solutions across multiple product categories.
+Led cross-functional teams designing and implementing control systems and algorithms across a broad portfolio of consumer electronics. Owned the development lifecycle from prototyping and modeling through embedded implementation and mass production.
 
 Leadership/Manager Portfolio
 ==================
 
-As a Director of Control Systems at SharkNinja, I established and scaled the cross-functional Control Systems Engineering team that designs and develops intelligent software and embedded algorithms for consumer electronics. This portfolio summarizes multiple product categories, each integrating unique control challenges, system modeling, and sensor fusion technologies.
+As Senior Director of Control Systems at SharkNinja, I established and scaled the cross-functional Control Systems Engineering team that designs and develops intelligent software and embedded algorithms for consumer electronics. This portfolio summarizes multiple product categories, each integrating unique control challenges, system modeling, and sensor fusion technologies.
 
 ## System-Level Responsibilities
 
@@ -28,8 +28,8 @@ From early-stage ideation to production ramp-up, the team has led:
 - **Control:** Model Predictive Control, PID, nonlinear & hybrid control  
 - **Signal Processing & Filtering:** Real-time sensor data analysis, Kalman filtering, denoising, feature extraction, anomaly detection, and event classification  
 - **System Identification:** Recursive modeling, parsimonious model identification, subspace identification, and behavior modeling from real-time and longitudinal data  
-- **Embedded Systems & Firmware:** C++, Python, Arduino, R-Pi, real-time testing environments; integration of algorithms into resource-constrained embedded platforms  
-- **Smart Product Integration:** Sensor fusion (temperature, pressure, flow), control-to-hardware interfaces, real-time learning loops, thermal modeling, and state-machine-driven feature control  
+- **Embedded Systems & Firmware:** Bare-metal C, C++, Python, Arduino, R-Pi, real-time testing environments; integration of algorithms into resource-constrained embedded platforms  
+- **Smart Product Integration:** Sensor fusion (temperature, pressure, flow), control-to-hardware interfaces, real-time learning loops, thermal modeling, and state-machine-driven feature control — including flagship technologies such as **Barista Assist** (Ninja Luxe Café) and **Slush Assist** (frozen treat systems)  
 - **Prototyping:** Rapid prototyping using microcontrollers and the design of custom testing platforms and user interfaces for validation and tuning  
 
 ---
@@ -67,6 +67,8 @@ From early-stage ideation to production ramp-up, the team has led:
 - Dynamic Temperature Offset Learning and Setpoint Adaptation  
 - Sensor Fusion with NTC and Flow Sensors  
 - Fast recovery and preheat tuning  
+- **Smoking algorithms** for propane grill and electric grill — controlled smoke generation and thermal management across grilling modes  
+- **Smart slow cooker algorithm** for adaptive long-duration cooking control  
 - Extensive reliability, validation, and embedded integration.
 
 <br/><img src='/images/ninja_grill.jpg' width='300' height='350'>
@@ -79,6 +81,7 @@ From early-stage ideation to production ramp-up, the team has led:
 - **Slush Assist Technology:**  
   - Freezing point detection  
   - Adaptive cooling energy control  
+- **Temperature and compressor control for cooling systems** — precise thermal regulation and compressor duty-cycle management across freezing and hold stages  
 - Adaptive cycles for varying batch sizes and consistencies.
 
 <br/><img src='/images/ninja_icecream.jpg' width='300' height='350'>
@@ -88,9 +91,21 @@ From early-stage ideation to production ramp-up, the team has led:
 ## Blending & Motor Control  
 *Blenders, Processors, and Mixers*
 
+- **Blend Sense algorithm** — real-time load and consistency sensing for adaptive blending performance  
 - Developed motor startup, load sensing, and failover routines  
 - Created PID loops and stall protection  
 - Improved safety, cycle timing, and consistency
 
 <br/><img src='/images/ninja_blender1.jpg' width='300' height='350'>
+
+---
+
+## Shark Beauty Products  
+*Hair Care & Skin Care Systems*
+
+- Cross-team controls advisor to the Shark Beauty division on hair care and skin care product lines
+- Contributed to controller design, tuning, and system architecture across thermal, motor, and sensing subsystems, including airflow and heat management for styling systems and thermal regulation for skin care devices
+- Reviewed and debugged embedded control implementations; applied controls-theory perspective to design reviews outside my direct team's scope
+
+<br/><img src='/images/shark_beauty.jpg' width='400' height='300'>
 ---

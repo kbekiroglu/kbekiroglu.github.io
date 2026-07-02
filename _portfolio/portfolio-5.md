@@ -1,27 +1,27 @@
 ---
-title: "Internet of Things (IoT) based Pavement Monitoring System (VTRC Project)"
-excerpt: "A low-cost IoT-based wireless online structural monitoring system of asphalt.<br/><img src='/images/iotproject.jpg'>"
+title: "Real-Time R&D Data Collection Platform"
+excerpt: "Built the internal Python/Serial data-collection GUI and sensor profiler used across SharkNinja beverage and heated-product R&D — real-time MCU communication, CSV logging, live plotting. Early SharkNinja project (Senior Systems Engineer, 2022); still used across product lines today.<br/><img src='/images/serialGUI.png' width='550' height='600'><br/><br/><img src='/images/profiler2.jpg' width='400' height='450'>"
 collection: portfolio
 ---
 
-The proposed innovation entails the development of a low-cost, IoT-based wireless online structural monitoring system for asphalt, aimed at enabling engineers to continuously monitor the structural health of roads and develop and organize necessary treatment interventions in a timely manner. The accurate evaluation of pavement response and performance is highly dependent on the continuous acquisition of high-quality measurements, including pressure, temperature, humidity, among other measures. In light of this, real-time data monitoring and measurement are essential for transportation agencies and road engineers to design more durable pavements or devise solutions to prevent asphalt structural failure.
+Early SharkNinja project built as Senior Systems Engineer (2022): a Python-based data-collection GUI and a sensor/scale profiler for beverage and heated-product R&D. Both are still used across the Control Systems team today.
 
-The collection of various data types and the integration of information from different sections of asphalt material in highways or other roads can provide significant insights into the quality of the road or asphalt. To this end, a robust apparatus has been developed for this project, aimed at facilitating continuous monitoring and evaluation of the asphalt's structural health. Through this innovative approach, engineers and transportation agencies can develop more effective strategies to prevent and mitigate the negative effects of structural failure, ensuring the long-term durability and safety of roads and highways.
-
-Overall, this project represents a significant contribution to the field of road engineering, providing an innovative solution that has the potential to revolutionize the way we approach road and pavement monitoring and maintenance. By leveraging cutting-edge IoT technology and data analytics, this system can significantly enhance the efficiency and effectiveness of road engineering and pave the way for a more sustainable and resilient infrastructure system.
-
-[More information here](https://ieeexplore.ieee.org/abstract/document/9694224)
-
-<br/><img src='/images/iotproject.jpg'>
-
-Layers:
+Serial GUI — MCU Data Collection
 ======
-* Sensor Module
-* Power Module (Photovoltaic Panel Installation)
-* IoT Module
-* LTE/4G Module
-* Data Storage/Cloud
-* Web Interface
 
-<br/><img src='/images/vtrc.png'>
+Python application that opens a serial link (UART / USB serial) to the product's microcontroller and provides:
+
+* **Telemetry ingestion** from MCU firmware and auxiliary validation sensors
+* **Two-way command interface** — trigger actuators, change setpoints, and drive test sequences directly from the GUI
+* **CSV logging** with per-channel timestamps for offline analysis
+* **Live plotting** of multiple sensor channels for identifying trends, transients, and anomalies during HIL testing
+
+Purpose: eliminate manual instrumentation and data-manipulation overhead so R&D and test engineers iterate on algorithms and firmware without stopping to wrangle data.
+
+Sensor & Scale Profiler
+======
+
+Companion tool for R&D and test teams to visualize, timestamp, and save sensor and scale data during characterization runs: pressure, temperature, flow, and load-cell readings streamed into a synchronized profile that can be replayed, compared, and exported.
+
+Both tools became standard R&D infrastructure across the coffee, carbonation, and thermal-cooking product lines.
 

@@ -1,26 +1,40 @@
 ---
-title: "Nespresso & Coffee Projects "
-excerpt: "Conceptualized/Designed/Implemented various signal processing/sensing/software tools and controllers for Heated/Beverage products.<br/><img src='/images/pds.png' width='550' height='600'>"
+title: "Ninja Luxe Cafe Project"
+excerpt: "Led development of barista assist technology, milk froth control algorithms, and temperature control systems for the Ninja Luxe Cafe series.<br/><img src='/images/coffee1.png' width='550' height='600'>"
 collection: portfolio
 ---
 
-Conceptualized/Designed/Implemented various software/signal processing/sensing tools and controllers from project initilization to mass production for 4 different Heated and beverage products in the market. Focused on Ninja brand in heated kitchen applicense and recently working on coffee and water product. 
+As Principal Systems Engineer at SharkNinja, I led controls and algorithm development for the [Ninja Luxe Café](https://www.ninjakitchen.com/products/ninja-luxe-cafe-premier-series-zidES601) flagship coffee system, shipping the algorithms below from prototype through mass production.
 
-[Ninja Nespresso & Coffee/Tea Makers](https://www.ninjakitchen.com/ninjaus/product_categories.countertop_appliances.coffee_tea_makers)
+Algorithms delivered
 ======
-I am pleased to share with you my experience in developing control systems and algorithms for:
 
-* [Ninja Espresso & Coffee Barista System](https://www.ninjakitchen.com/exclusive-offer/CFN601WBKT/ninja-espresso-coffee-barista-system/)
-* [Single-Serve Coffee Maker](https://www.ninjakitchen.com/exclusive-offer/PB051WBKT/ninja-pods-and-grounds-specialty-single-serve-coffee-maker/)
-* [Ninja DualBrew Hot & Iced Coffee Maker](https://www.ninjakitchen.com/products/ninja-dualbrew-hot-iced-coffee-maker-zidCFP101)
-* [Ninja Hot & Iced XL Coffee Maker with Rapid Cold Brew](https://www.ninjakitchen.com/products/ninja-hot-iced-xl-coffee-maker-with-rapid-cold-brew-zidCM371)
+* **Barista Assist Technology** — guided brewing based on grind quality, pressure profiling, and flow curves
+* **Milk Froth Control** — multi-stage temperature and flow control for consistent milk texture
+* **Temperature Control** — thermal regulation across all brewing modes
+* **PID for Espresso** — control loop with thermal compensation for consistent espresso extraction
+* **Error / Fault Detection** — embedded fault detection and monitoring
+* **Signal Processing** — sensor fusion and filtering
 
-which are currently available in the market. From prototype development to mass production, I successfully developed and implemented algorithms (in C++, Arduino, and Python) for all features of the product, including cascade temperature control, flow control, failure detection, altitude calibration, and low-pass filter.
+Development lifecycle
+======
 
-During prototype development, I obtained most of the sensors and AC/DC motor drivers from the market and combined them to model the final product. I then conducted most of the testing on this prototype before implementing the algorithms in the actual machine. As part of my responsibilities, I defined and developed the system flow of the product features and developed testing code (C++, Arduino, Python, and MATLAB) for prototypes. I closely worked with the software engineer to program these features into the final product and documented each feature.
+* **Prototyping** — commercial sensors and motor drivers integrated into working prototypes
+* **System flow definition** — feature-level state flows specified in collaboration with embedded software engineers
+* **Testing and documentation** — testing code in C++, Arduino, Python, and MATLAB
+* **Risk management** — identified failure modes, defined error states, shipped safe-state fallback logic
+* **Test tooling** — Python applications and an R-Pi / Arduino apparatus for hardware-in-the-loop testing
 
-I also identified possible risks and took software-related actions, such as developing error states for the unit and taking real-time actions based on sensor readings. I researched and implemented new ideas/algorithms and approaches to the prototypes and final product and adapted new features in both software and hardware to speed up the research process. Additionally, I supported the testing team and product design team by developing some test software.
+Patents (Granted)
+======
+* [Preventing coffee bean grinder jamming](https://patents.google.com/patent/US12369741B1) (US12369741B1)
+* [Preparation of beverage machines for cold beverage brewing](https://patents.google.com/patent/US12369744B1) (US12369744B1)
+* [Zero retention coffee bean hopper](https://patents.google.com/patent/US12514394B2) (US12514394B2)
+* [Suggesting coffee bean grind size for beverage machines](https://patents.google.com/patent/US20250235034A1) (US20250235034A1)
 
-Finally, I investigated the root cause of failures and searched for possible solutions. I analyzed the risks related to the failures and proposed solutions to minimize them. I also owned and managed the development of prototype and testing tools, including a Python application and an R-pi/Arduino apparatus to speed up the testing process.
+Patents (Pending / Under Review)
+======
+* [Queueing beverage machine preparations](https://patents.google.com/patent/WO2025155327A1) (WO2025155327A1)
+* [Descaling beverage machines](https://patents.google.com/patent/US20250235041A1) (US20250235041A1)
+* [Zero retention coffee bean hopper (continuation)](https://patents.google.com/patent/US20250275644A1) (US20250275644A1)
 
-Overall, my experience developing control systems and algorithms for the Nespresso & Coffee/Tea Makers have given me valuable skills in defining and developing product features, testing, documentation, risk management, and troubleshooting.

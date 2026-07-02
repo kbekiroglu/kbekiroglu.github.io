@@ -1,39 +1,50 @@
 ---
-title: "Ninja Luxe Cafe Project"
-excerpt: "Led the development of advanced barista assist technology, milk froth control algorithms, and temperature control systems for the Ninja Luxe Cafe series.<br/><img src='/images/coffee1.png' width='550' height='600'>"
+title: "AI-Assisted Engineering — Adoption and Internal AI Tooling"
+excerpt: "Drove Claude Code and OpenAI Codex adoption across the SharkNinja Control Systems team. Same headcount now supports approximately 40% more concurrent projects. Also led an internal AI diagnostic tool that lets non-engineers ask product questions and analyze CSV telemetry to identify software or hardware issues.<br/><img src='/images/ai_engineering.png' width='550' height='600'>"
 collection: portfolio
 ---
 
-I am excited to share my experience in developing control systems and algorithms for the Ninja Luxe Cafe. 
+As Senior Director of Control Systems Engineering, I lead two AI initiatives at SharkNinja: standardizing LLM-assisted workflows across the engineering team, and building an internal AI diagnostic tool that lets non-engineers reason about product behavior directly from unit telemetry.
 
-[Ninja Luxe Cafe](https://www.ninjakitchen.com/products/ninja-luxe-cafe-premier-series-zidES601)
+Impact
 ======
-As the lead control systems and algorithm development researcher, I developed following algoirthms:
 
-* Barista Assist Technology: Implemented innovative features to enhance the user experience, assisting with precise coffee brewing.
-* Milk Froth Control Algorithms: Developed advanced algorithms for consistent and customizable milk frothing.
-* Temperature Control for All Coffee Brews: Designed a robust temperature control system ensuring optimal brewing conditions for various coffee types.
-* Super Consistent PID for Espresso Brews: Created a highly accurate PID control system for perfect espresso extraction.
-* Error/Fault Detection Algorithms: Developed comprehensive algorithms for real-time monitoring and fault detection to ensure product reliability.
-* Signal Processing Methods: Implemented sophisticated signal processing techniques for accurate sensor data analysis.
+* Same engineering headcount supports approximately **40% more concurrent projects**
+* Non-engineers now triage software and hardware issues from unit CSV data without controls-engineering time
+* Shorter idea-to-prototype cycle time on new controls features
+* Higher documentation coverage and design-decision traceability through MCP-integrated Confluence workflows
 
-From the initial concept to mass production, I played a key role in the following:
----
-
-* Prototype Development: Integrated market-available sensors and motor drivers to create a working prototype. Conducted extensive testing and refined the system before implementing it in the final product.
-* System Flow Definition: Defined and developed the system flow of the product's features, collaborating closely with software engineers to implement these features in the final product.
-* Testing and Documentation: Developed testing code (C++, Arduino, Python, MATLAB) and documented each feature thoroughly.
-* Risk Management and Troubleshooting: Identified potential risks, developed error states, and proposed solutions to minimize failures. 
-* Managed the development of prototype and testing tools, including Python applications and an R-pi/Arduino apparatus, to streamline the testing process.
-
-Overall, my experience with the Ninja Luxe Cafe has equipped me with valuable skills in product feature definition, system testing, risk management, and advanced algorithm development.
-
-Patents
+AI-assisted engineering — team adoption
 ======
-* [Preventing coffee bean grinder jamming](https://patents.google.com/patent/US20250235035A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (S20250386966A1, WO2025155323A1). 
-* [Preparation of beverage machines for cold beverage brewing](https://patents.google.com/patent/US12369744B1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (S20260000242A1).
-* [Suggesting coffee bean grind size for beverage machines](https://patents.google.com/patent/US20250235034A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20250235034A1)
-* [Queueing beverage machine preparations](https://patents.google.com/patent/WO2025155327A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (WO2025155327A1)
-* [Descaling beverage machines](https://patents.google.com/patent/US20250235041A1/en?q=(bekiroglu)&inventor=korkut&oq=korkut+bekiroglu) (US20250235041A1)
-* [Zero retention coffee bean hopper](https://patents.google.com/patent/US20250275644A1/en?inventor=korkut+bekiroglu) (US20250275644A1). 
 
+Standardized how the Control Systems team uses **Claude Code** and **OpenAI Codex** in daily work. Rolled out through power-user pilots and shared prompt patterns rather than top-down mandate.
+
+**Engineering workflows**
+
+* **Code generation** — controller scaffolding, sensor-driver boilerplate, test-harness code, and embedded-system utilities
+* **R&D and ideation** — algorithm exploration, alternative approaches to controls problems, tradeoff analysis
+* **Data-analysis pipelines** — plotting, statistical analysis, and exploration of experimental sensor data
+* **Code comparison and change-log automation** — diff summarization, PR review assistance, and release-note generation
+
+**Documentation and knowledge capture**
+
+* **Confluence via MCP integration** — design documents, meeting notes, and technical specs written, updated, and cross-linked directly in Confluence
+* Documentation kept current at a granularity the team could not sustain manually
+* Design decisions captured with the reasoning behind them, not only the final outcome
+
+Internal AI-assisted product diagnostics
+======
+
+Led development of an internal tool that gives non-engineers — product managers, QA, and customer-support engineers — direct access to product-specific reasoning without going through controls engineering.
+
+**Capabilities**
+
+* **Natural-language questions** about how a feature works, what a control loop does, or why a given behavior might occur
+* **CSV telemetry analysis** — upload unit data and get an automated first-pass diagnosis of sensor anomalies, thermal or fluid-behavior deviations, control-loop faults, and edge-case triggers
+* **Grounded in team knowledge** — the tool draws on internal product documentation, historical failure modes, and engineering context, so answers are product-specific rather than generic LLM output
+
+**Effect on the team**
+
+* Product managers, QA, and customer-support teams self-serve the first layer of technical questions
+* Controls engineers spend less time on repeated first-line diagnostics
+* Issues found in the field or in QA can be triaged in hours instead of days

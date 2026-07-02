@@ -1,22 +1,36 @@
 ---
-title: "Real Time Data Collection Apparatus/Application"
-excerpt: "Conceptualized and Designed Python application for R&D team to collect real-time data from software by communicating with unit's MCU.<br/><img src='/images/serialGUI.png' width='550' height='600'> <br/> <br/> Also a profiler is designed and developed for R&D and testing team to visualize and save real time sensor and scale data.<br/><img src='/images/profiler2.jpg' width='400' height='450'>"
+title: "Ninja Thirsti — CO₂ Flavored Water & Soda System"
+excerpt: "Led controls and algorithm development for the Ninja Thirsti carbonated beverage platform (two product generations shipped). Three patents pending covering CO₂ estimation, liquid-temperature detection, and carbonation system architecture.<br/><img src='/images/thirsti2.jpg' width='550' height='600'>"
 collection: portfolio
 ---
 
-Conceptualized and Designed a user interface by using Python to collect real time data from MCU and additional sensors in the products. The GUI simplifies the data collection and visualization, and serial communication on Ninja beverage products.  
+Led controls, sensing, and algorithm development for the Ninja Thirsti carbonated beverage platform from initial design through mass production of two product generations.
 
-Real Time Data Collection in Beverage and Heated Projects
+[Thirsti Drink System](https://www.ninjakitchen.com/ninjaus/product_categories.beverage_system.thirsti)
 ======
 
-As an aspiring engineer, I am pleased to share with you one of my recent projects that I am particularly proud of. I developed a Graphical User Interface (GUI) for real-time data collection by communicating with Microcontroller Units (MCUs) in the units and also additional sensors that we included to validate the system responses. The GUI is capable of saving the collected data as CSV files and plotting them for further analysis.
+Products shipped:
 
-One of the most significant advantages of this application is that it is designed to speed up the collection and analysis process significantly. This makes it ideal for use by R&D and testing engineers who are often tasked with handling large amounts of data in a short period. By providing a user-friendly and efficient interface, the GUI eliminates the need for manual data entry and manipulation, making it easier for engineers to concentrate on their core responsibilities.
+* [Ninja Thirsti Drink System — Generation 1](https://www.ninjakitchen.com/products/ninja-thirsti-sparkling-still-drink-system-co2-bundle-zidWC1001B)
+* [Ninja Thirsti Drink System — Generation 2](https://www.ninjakitchen.com/products/build-your-own-ninja-thirsti-max-still-carbonated-water-maker-zidWC2001BYO)
 
-With this application, engineers can easily and quickly collect data from the MCU in the units and store them in CSV files for further analysis. They can also plot the collected data in real-time, providing a visual representation of the results that can help identify trends and anomalies. This is especially useful in fields such as biomedical engineering, where real-time data analysis can be crucial in monitoring vital signs and other critical parameters.
+<br/><img src='/images/thirsti2.jpg' width='300' height='350'>
 
-Overall, this GUI for real-time data collection and analysis is a valuable tool for engineers in various fields. By making data collection and analysis faster and more efficient, it can help improve the accuracy of results and ultimately lead to better decision-making.
+Algorithms delivered
+======
 
+* **Water level detection** and tank-state estimation
+* **Flow regulation** across still, sparkling, and flavored modes
+* **CO₂ level prediction** and tank-fill estimation
+* **Liquid temperature compensation** for carbonation consistency
+* **Cycle manipulation** for improved carbonation-level regulation
+* **Failure detection** with sensor-driven fallback logic
+* **Low-pass filtering** and signal conditioning
 
+Implementation spanned MATLAB, C++, Python, and Arduino. Prototypes integrated commercial sensors and AC/DC motor drivers. System-level test tooling (R-Pi / Arduino apparatus and Python application) supported hardware-in-the-loop validation and root-cause analysis through mass production.
 
-
+Patents (Pending / Under Review)
+======
+* [Determining an amount of carbon dioxide in a gas source in a carbonation system](https://patents.google.com/patent/US20240246041A1) (US20240246041A1)
+* [Beverage carbonation systems](https://patents.google.com/patent/WO2024155439A2) (WO2024155439A2, WO2024155439A3, AU2024210768A1)
+* [Detecting liquid temperature for a beverage carbonation system](https://patents.google.com/patent/US20250001371A1) (US20250001371A1)
