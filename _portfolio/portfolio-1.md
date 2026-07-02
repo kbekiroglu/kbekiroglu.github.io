@@ -1,6 +1,6 @@
 ---
 title: "AI-Assisted Engineering — Adoption and Internal AI Tooling"
-excerpt: "Drove Claude Code and OpenAI Codex adoption across the SharkNinja Control Systems team. Same headcount now supports approximately 40% more concurrent projects. Also led an internal AI diagnostic tool that lets non-engineers ask product questions and analyze CSV telemetry to identify software or hardware issues.<br/><img src='/images/ai_engineering.png' width='550' height='600'>"
+excerpt: "Drove Claude Code and OpenAI Codex adoption across the SharkNinja Control Systems team. Same headcount now supports approximately 40% more concurrent projects. Also led an internal AI diagnostic tool that lets non-engineers ask product questions and analyze CSV telemetry to identify software or hardware issues."
 collection: portfolio
 ---
 
