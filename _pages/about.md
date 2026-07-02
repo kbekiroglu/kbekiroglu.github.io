@@ -8,44 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-I'm Senior Director of Control Systems Engineering at [SharkNinja](https://www.sharkninja.com/), where I lead development of intelligent embedded systems for consumer products. I built and now manage the Control Systems Engineering team, combining hands-on engineering with strategic leadership—from Arduino/R-Pi prototyping to production firmware deployment across 25+ mass-market products.
+**Engineering leader building intelligent physical systems.** I built and lead the Control Systems Engineering team at [SharkNinja](https://www.sharkninja.com/), a cross-functional group shipping sensing, control, and embedded intelligence into **30+ globally distributed consumer products**. Inventor on **12+ patents** (4 granted), author of **40+ peer-reviewed publications**, IEEE **Associate Editor and Technical Committee** member. Previously Assistant Professor (SUNY Poly), Research Scientist (NTU Singapore), and Postdoctoral Researcher (Penn State). Ph.D., Penn State (2015).
 
-My expertise spans **model predictive control, system identification, robotics, mechatronics, signal processing, and real-time optimization**. I work across the full product lifecycle: hardware integration, algorithm design, system testing, and manufacturing support. With a Ph.D. in Electrical Engineering (with a minor in Industrial & Manufacturing Engineering focusing on convex optimization) from The Pennsylvania State University (2015) and M.S. in Electrical and Computer Engineering from Northeastern University (2010), I bring both theoretical rigor and practical, product-driven execution to every project.
+## Leadership & Impact
 
-## Academic and Research Background
+- **Built the Control Systems Engineering function at SharkNinja from a single hire** into a cross-functional team supporting 20+ product lines. Established the promotion ladder, code review culture, on-call rotations, and technical review process from scratch
+- Delivered algorithms and embedded software into **30+ globally shipped products** across coffee, beverage carbonation, thermal cooking, frozen treat, and Shark beauty systems ([full portfolio](/portfolio/portfolio-0/))
+- Built internal engineering platforms: Python-based MCU communication service, Raspberry Pi / Arduino HIL infrastructure, and evaluation frameworks used across product lines ([portfolio](/portfolio/portfolio-5/))
+- **Driving AI-assisted engineering adoption**: Claude Code, OpenAI Codex, and LLM workflows integrated into code generation, R&D ideation, data-analysis pipelines, and MCP-integrated Confluence documentation. Same headcount supports approximately **40% more concurrent projects** ([portfolio](/portfolio/portfolio-1/))
+- Cut development cycle time by roughly **20%** through modular software architectures and engineering process design
 
-My research journey has spanned multiple domains of control systems and robotics. I began with **robotics and computer vision** at Northeastern University, developing UAV control systems using computer vision algorithms and PID controllers for autonomous target tracking. During my Ph.D. at Penn State, I pioneered the application of **robust model predictive control to behavioral health**, designing intervention systems for smoking cessation studies and developing mathematical models for behavioral treatment optimization.
+## AI-Assisted Engineering
 
-At **Nanyang Technological University** (Singapore), I worked on the Green Building Innovation Cluster (GBIC), where I developed real-time **model identification algorithms** and **distributed MPC strategies for HVAC systems** that achieved 12-13% energy savings in commercial buildings. This work combined IoT networks, real-time optimization, and adaptive control.
+Two initiatives at SharkNinja that together let the same team support approximately **40% more concurrent projects**:
 
-As Assistant Professor at **SUNY Polytechnic Institute** (2018-2021), I led research in mathematical modeling, MPC design for Type-2 diabetes artificial pancreas systems, IoT-based structural monitoring, and optimization-based forecasting methods. I also co-founded [Ocean Dynamex](https://www.oceandynamex.com/), developing predictive workflow systems and novel forecasting algorithms for the maritime industry.
+- **Team-wide LLM adoption**: standardized Claude Code and OpenAI Codex across the Control Systems team for code generation, R&D ideation, data-analysis pipelines, code review, changelog automation, and MCP-integrated Confluence documentation
+- **Internal AI product-diagnostic tool** that lets non-engineers (product managers, QA, customer-support) ask product-specific questions and upload unit CSV telemetry to identify software or hardware issues, freeing controls-engineering bandwidth
 
-## Key Accomplishments
+See [portfolio](/portfolio/portfolio-1/) for details.
 
-**Industry Impact:**
-- **25+ consumer products** shipped with embedded control systems and intelligent algorithms
-- **12+ patents** (4 granted, 8+ pending) in beverage systems, thermal control, and intelligent appliances
-- **12-13% energy savings** achieved in commercial building HVAC systems through distributed MPC
+## IEEE Editorial & Community Service
 
-**Academic Contributions:**
-- **20+ peer-reviewed publications** in control theory, system identification, MPC, and predictive systems
-- **Assistant Professor** at SUNY Polytechnic Institute, teaching and leading research projects
-- **Postdoctoral Researcher** at Penn State, pioneering MPC applications in behavioral health
+**Associate Editor** and **Technical Committee member** for IEEE events. Author, reviewer, and program-committee member across multiple IEEE conferences and journals. Active IEEE member; publications in *IEEE Transactions on Automatic Control*, *IEEE TAES*, *Applied Energy*, *Knowledge-Based Systems* ([Google Scholar](https://scholar.google.com.sg/citations?hl=en&user=pely-qQAAAAJ)).
 
-**Technical Leadership:**
-- **Built Control Systems Engineering team** from ground up at SharkNinja
-- **Hands-on engineer**: Prototype development with Python, Embedded C, C++, MATLAB, Arduino, R-Pi, from concept to mass production
-- **Co-founder**, Ocean Dynamex - developing predictive systems and novel forecasting algorithms
-- Developed UAV control systems, IoT monitoring platforms, and real-time optimization algorithms
+## Selected Prior Roles
 
-## Research Interests & Expertise
+- **Assistant Professor & Principal Investigator**, SUNY Polytechnic Institute (2018–2021). Led externally funded research; taught graduate and undergraduate courses; deployed IoT pavement monitoring on Raspberry Pi + AWS ([IEEE iThings 2021](https://ieeexplore.ieee.org/abstract/document/9694224); [portfolio](/portfolio/portfolio-6/)). Also collaborated with CS colleagues on anomaly/fault detection research ([portfolio](/portfolio/portfolio-9/)). Co-founded [Ocean Dynamex](https://www.oceandynamex.com/).
+- **Research Scientist**, Nanyang Technological University, Singapore (2016–2018). Green Building Innovation Cluster. Distributed HVAC control platform (server plus Raspberry Pi edge fleet) achieving **12–13% energy savings** in occupied buildings ([*Applied Energy*](https://www.sciencedirect.com/science/article/pii/S0306261919302582); [portfolio](/portfolio/portfolio-7/)).
+- **Postdoctoral Researcher**, The Methodology Center, Penn State (2015–2016). Control-theoretic methods applied to behavioral health interventions.
+- **Ph.D.**, Penn State (2010–2015). [*From Data to Interventions: Using System Identification and Robust Control Algorithms to Design Effective Treatments*](https://etda.libraries.psu.edu/catalog/26227). Advisor: Prof. Constantino Lagoa. Minor Ph.D., Industrial Engineering (Convex Optimization). ([Portfolio](/portfolio/portfolio-8/) — 10 papers linked.)
+- **M.S.**, Northeastern University (2008–2010). [*Vision Based Control of an Autonomous Blimp with Actuator Saturation*](https://repository.library.northeastern.edu/files/neu:1290). Advisors: Profs. Mario Sznaier and Bahram Shafai.
 
-**Control Systems:** Model Predictive Control (MPC) • Distributed MPC • Robust Control • Adaptive Control • Real-time Optimization • Nonlinear Control
+## Expertise
 
-**Robotics & Automation:** Autonomous Systems • UAV Control • Computer Vision-based Control • Robotic Manipulation • Sensor Fusion
-
-**System Engineering:** System Identification • Mathematical Modeling • Mechatronics • IoT in Control • Embedded Systems • Hardware-in-the-Loop Testing
-
-**Applications:** Smart Buildings & HVAC • Intelligent Consumer Products • Behavioral Health Interventions • Building Automation • Predictive Analytics • Time-Series Forecasting
-
-I am an active IEEE member, have published 20+ peer-reviewed articles in leading journals and conferences, and have served as associate editor and technical committee member for multiple IEEE events.
+**Control:** MPC • Distributed MPC • Robust & Adaptive Control • Nonlinear Control • Real-time Optimization
+**Systems:** System Identification • Sensor Fusion • Embedded Systems • IoT & Edge Computing • HIL Testing
+**Leadership:** Team building • Roadmap & strategy • Cross-functional delivery • AI-assisted engineering (Claude Code, Copilot)
