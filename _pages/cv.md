@@ -65,7 +65,7 @@ IEEE Editorial & Community Service
 
 Technical Skills
 ======
-**Control & Robotics:** Model Predictive Control (MPC), Distributed MPC, Robust & Adaptive Control, Nonlinear Control, System Identification, Real-time Optimization, Anomaly/Fault Detection, Robotics & Autonomous Systems, Motion Control, Computer Vision-Based Control
+**Control & Algorithms:** Model Predictive Control (MPC), Distributed MPC, Robust & Adaptive Control, Nonlinear Control, System Identification, Real-time Optimization, Anomaly/Fault Detection, Motion Control. Robotics & Computer Vision-Based Control (research and applied experience)
 
 **Sensing & Estimation:** Sensor Fusion, State Estimation & Filtering (Kalman), Time-Series Modeling, Real-time System Monitoring
 
