@@ -28,7 +28,7 @@ Work Experience
   * Delivered algorithms and embedded software into **30+ globally shipped products** across coffee, beverage carbonation, thermal cooking, frozen treat, and Shark beauty systems
   * Built internal engineering platforms: Python-based MCU communication service, Raspberry Pi / Arduino HIL infrastructure, and evaluation frameworks used across product lines
   * **Driving AI-assisted engineering adoption**: Claude Code, OpenAI Codex, and LLM workflows integrated into code generation, R&D ideation, data-analysis pipelines, code review, and MCP-based Confluence documentation. Same headcount supports approximately **40% more concurrent projects**
-  * Cut development cycle time by roughly **20%** through modular software architectures and engineering process design
+  * Cut development cycle time by roughly **20%** through modular software architectures and engineering process design, in a fast-paced consumer-products environment where product cycles are already short
   * Inventor on **12+ patents** (4 granted) in sensing, thermal estimation, beverage systems, and intelligent appliance operation
 * **04/2023 to 04/2024: Principal Systems Engineer, SharkNinja**
 * **01/2022 to 04/2023: Senior Systems Engineer, SharkNinja**

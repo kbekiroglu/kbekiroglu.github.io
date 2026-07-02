@@ -16,7 +16,7 @@ redirect_from:
 - Delivered algorithms and embedded software into **30+ globally shipped products** across coffee, beverage carbonation, thermal cooking, frozen treat, and Shark beauty systems ([full portfolio](/portfolio/portfolio-0/))
 - Built internal engineering platforms: Python-based MCU communication service, Raspberry Pi / Arduino HIL infrastructure, and evaluation frameworks used across product lines ([portfolio](/portfolio/portfolio-5/))
 - **Driving AI-assisted engineering adoption**: Claude Code, OpenAI Codex, and LLM workflows integrated into code generation, R&D ideation, data-analysis pipelines, and MCP-integrated Confluence documentation. Same headcount supports approximately **40% more concurrent projects** ([portfolio](/portfolio/portfolio-1/))
-- Cut development cycle time by roughly **20%** through modular software architectures and engineering process design
+- Cut development cycle time by roughly **20%** through modular software architectures and engineering process design — in a fast-paced consumer-products environment where product cycles are already short
 
 ## AI-Assisted Engineering
 
