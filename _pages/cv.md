@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Engineering leader building intelligent physical systems.** Senior Director of Control Systems Engineering at [SharkNinja](https://www.sharkninja.com/), leading a cross-functional team shipping sensing, control, and embedded intelligence into **30+ globally distributed consumer products**. Inventor on **12+ patents** (4 granted), author of **40+ peer-reviewed publications**, IEEE **Associate Editor and Technical Committee** member. Previously Assistant Professor (SUNY Poly), Research Scientist (NTU Singapore), and Postdoctoral Researcher (Penn State). Ph.D., Penn State (2015).
+**Engineering leader building intelligent physical systems.** Senior Director of Control Systems Engineering at [SharkNinja](https://www.sharkninja.com/), leading a cross-functional team shipping sensing, control, and embedded intelligence into **30+ globally distributed consumer products**. Inventor on **12+ patents** (4 granted), author of **40+ peer-reviewed publications**, **reviewer for multiple IEEE journals** and **Technical Program Committee member for IEEE conferences**. Previously Assistant Professor (SUNY Poly), Research Scientist (NTU Singapore), and Postdoctoral Researcher (Penn State). Ph.D., Penn State (2015).
 
 Education
 ======
@@ -59,7 +59,7 @@ Work Experience
 
 IEEE Editorial & Community Service
 ======
-* **Associate Editor** and **Technical Committee member** for IEEE events
+* **Reviewer for multiple IEEE journals** and **Technical Program Committee member** for IEEE conferences
 * Author, reviewer, and program-committee member across multiple IEEE conferences and journals
 * Publications in *IEEE Transactions on Automatic Control*, *IEEE TAES*, *Applied Energy*, and *Knowledge-Based Systems*. Full list on [Google Scholar](https://scholar.google.com.sg/citations?hl=en&user=pely-qQAAAAJ)
 
