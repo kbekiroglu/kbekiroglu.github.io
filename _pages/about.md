@@ -8,9 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-**Engineering leader building intelligent physical systems.** I built and lead the Control Systems Engineering team at [SharkNinja](https://www.sharkninja.com/), a cross-functional group shipping sensing, control, and embedded intelligence into **30+ globally distributed consumer products**. Inventor on **12+ patents** (4 granted), author of **40+ peer-reviewed publications**, **reviewer for multiple IEEE journals** and **Technical Program Committee member for IEEE conferences**. Previously Assistant Professor (SUNY Poly), Research Scientist (NTU Singapore), and Postdoctoral Researcher (Penn State). Ph.D., Penn State (2015).
+**Control systems and embedded intelligence for real electromechanical products.** I design the algorithms (MPC, system identification, sensor fusion, robotics and vision-based control) and I ship them into production. **I lead the Control Systems Engineering team at [SharkNinja](https://www.sharkninja.com/), which has delivered sensing and control into 30+ globally shipped consumer products.** Inventor on **12+ patents** (4 granted), author of **40+ peer-reviewed publications**, reviewer for IEEE journals and TPC member for IEEE conferences. Previously Assistant Professor (SUNY Poly), Research Scientist (NTU Singapore), and Postdoctoral Researcher (Penn State). Ph.D., Penn State (2015).
 
-## Leadership & Impact
+## Technical Expertise
+
+**Control & Estimation:** Model Predictive Control • Distributed MPC • Robust & Adaptive Control • Nonlinear Control • System Identification • State Estimation & Filtering • Real-time Optimization (Convex, Nonlinear)
+
+**Robotics & Autonomous Systems:** Motion Control • Vision-Based Control • Electromechanical Actuation • Sensor Fusion • Autonomous blimp control (M.S. thesis, Northeastern)
+
+**Embedded & Systems:** Embedded C on production MCUs • Python & MATLAB/Simulink • HIL Testing (Raspberry Pi / Arduino) • IoT & Edge Computing • Hardware-Software Co-design
+
+**Leadership:** Team building from zero • Roadmap & strategy • Cross-functional delivery • AI-assisted engineering (Claude Code, Codex)
+
+## Selected Impact
 
 - **Built the Control Systems Engineering function at SharkNinja from a single hire** into a cross-functional team supporting 20+ product lines. Established the promotion ladder, code review culture, on-call rotations, and technical review process from scratch
 - Delivered algorithms and embedded software into **30+ globally shipped products** across coffee, beverage carbonation, thermal cooking, frozen treat, and Shark beauty systems ([full portfolio](/portfolio/portfolio-0/))
@@ -39,8 +49,3 @@ See [portfolio](/portfolio/portfolio-1/) for details.
 - **Ph.D.**, Penn State (2010–2015). [*From Data to Interventions: Using System Identification and Robust Control Algorithms to Design Effective Treatments*](https://etda.libraries.psu.edu/catalog/26227). Advisor: Prof. Constantino Lagoa. Minor Ph.D., Industrial Engineering (Convex Optimization). ([Portfolio](/portfolio/portfolio-8/): 10 papers linked.)
 - **M.S.**, Northeastern University (2008–2010). [*Vision Based Control of an Autonomous Blimp with Actuator Saturation*](https://repository.library.northeastern.edu/files/neu:1290). Advisors: Profs. Mario Sznaier and Bahram Shafai.
 
-## Expertise
-
-**Control:** MPC • Distributed MPC • Robust & Adaptive Control • Nonlinear Control • Real-time Optimization • System Identification • Motion Control • Robotics & Computer Vision-Based Control (research and applied)
-**Systems:** System Identification • Sensor Fusion • Embedded Systems • IoT & Edge Computing • HIL Testing • Electromechanical Actuation
-**Leadership:** Team building • Roadmap & strategy • Cross-functional delivery • AI-assisted engineering (Claude Code, Codex)

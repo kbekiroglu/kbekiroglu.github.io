@@ -1,6 +1,6 @@
 ---
 title: "Ninja Thirsti — CO₂ Flavored Water & Soda System"
-excerpt: "Led controls and algorithm development for the Ninja Thirsti carbonated beverage platform (two product generations shipped). Three patents pending covering CO₂ estimation, liquid-temperature detection, and carbonation system architecture.<br/><img src='/images/thirsti2.jpg' width='550' height='600'>"
+excerpt: "Led controls and algorithm development for the Ninja Thirsti carbonated beverage platform (two product generations shipped). Three patents pending covering CO₂ estimation, liquid-temperature detection, and carbonation system architecture.<br/><img src='/images/thirsti2.jpg' width='300' height='330'>"
 collection: portfolio
 ---
 
