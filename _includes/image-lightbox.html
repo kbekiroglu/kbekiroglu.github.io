@@ -1,6 +1,7 @@
 <!-- Click-to-enlarge for images in page content, plus consistent image sizing. No external dependencies. -->
 <style>
-  .page__content img:not(.no-zoom) {
+  .page__content img:not(.no-zoom),
+  .archive__item-excerpt img:not(.no-zoom) {
     cursor: zoom-in;
   }
 
@@ -13,18 +14,31 @@
     height: auto;
   }
 
-  /* Portfolio and archive index: excerpt thumbnails share one height budget so
-     a tall portrait photo does not dominate the page next to landscape ones. */
+  /* Portfolio and archive index: every excerpt thumbnail shares one height
+     budget, so a tall portrait photo sits proportionally next to landscape
+     ones instead of towering over them. Overrides inline width attributes. */
   .archive__item-excerpt img {
-    max-height: 260px;
-    width: auto;
+    max-height: 200px;
+    max-width: 100%;
+    width: auto !important;
+    height: auto !important;
     display: inline-block;
     margin-top: 0.5em;
   }
 
+  /* Same treatment inside a portfolio entry, with a little more room. */
+  .page__content img {
+    max-height: 420px;
+    width: auto;
+  }
+
   @media (max-width: 600px) {
     .archive__item-excerpt img {
-      max-height: 200px;
+      max-height: 150px;
+    }
+
+    .page__content img {
+      max-height: 300px;
     }
   }
 
