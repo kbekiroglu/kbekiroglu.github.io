@@ -130,8 +130,10 @@
         full.src = '';
       }
 
+      /* Skip images that are already links to somewhere else. Block comments
+         only: the compress_html layout strips newlines, so a // comment would
+         comment out the rest of the script. */
       images.forEach(function (img) {
-        // Skip images that are already links to somewhere else.
         if (img.closest('a')) return;
         img.addEventListener('click', function () {
           open(img.currentSrc || img.src, img.getAttribute('alt'));

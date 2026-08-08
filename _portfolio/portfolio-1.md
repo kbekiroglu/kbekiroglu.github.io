@@ -38,7 +38,7 @@ Standardized how the Control Systems team uses **Claude Code** and **OpenAI Code
 Automated Control Flow generation with Mermaid
 ======
 
-Control Flow is the control-architecture specification standard I created at SharkNinja, now used across 20+ product lines. It captures the state machine, mode transitions, interrupt priorities, and safety and fault paths for a product before any firmware is written.
+Control Flow is the control-architecture specification standard I created at SharkNinja. It is now required on every controls project in the company. It captures the state machine, mode transitions, interrupt priorities, and safety and fault paths for a product before any firmware is written.
 
 The weakness was never the standard, it was upkeep. The diagrams were drawn by hand, so they were expensive to produce and went stale the first time firmware changed. A diagram nobody trusts is worse than no diagram, because engineers stop reading it and start reading the code.
 
@@ -56,7 +56,7 @@ We moved Control Flow to **Mermaid**, using LLM-assisted generation to produce t
 * Control architecture documentation is **generated and updated as part of normal development** rather than a task deferred to the end of a program
 * New engineers and offshore firmware partners onboard onto a product's control structure from a diagram that reflects current behavior
 * Design reviews argue about the state machine itself instead of about whether the picture is still accurate
-* Interrupt priorities, mode transitions, and safety paths stay **explicit and inspectable** on every product, which is the entire point of the standard
+* Interrupt priorities, mode transitions, and safety paths stay **explicit and inspectable** on every project, which is the entire point of the standard
 
 Internal AI-assisted product diagnostics
 ======
