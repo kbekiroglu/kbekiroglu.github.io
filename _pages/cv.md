@@ -102,13 +102,13 @@ Patents (Pending / Under Review)
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% assign cv_publications = site.publications | sort: 'date' | reverse %}{% for post in cv_publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Conference Proceedings
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% assign cv_talks = site.talks | sort: 'date' | reverse %}{% for post in cv_talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
