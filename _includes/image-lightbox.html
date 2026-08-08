@@ -1,7 +1,7 @@
 <!-- Click-to-enlarge for images in page content, plus consistent image sizing. No external dependencies. -->
 <style>
   .page__content img:not(.no-zoom),
-  .archive__item-excerpt img:not(.no-zoom) {
+  .archive__item img:not(.no-zoom) {
     cursor: zoom-in;
   }
 
@@ -9,15 +9,29 @@
      Inline width/height attributes on the source markdown are treated as a
      hint, not a mandate, so aspect ratio is always preserved. */
   .page__content img,
-  .archive__item-excerpt img {
+  .archive__item img {
     max-width: 100%;
     height: auto;
   }
 
+  /* Grid teaser thumbnails have their own theme sizing. Leave them alone. */
+  .archive__item-teaser img {
+    max-height: none;
+    width: 100% !important;
+    height: auto !important;
+    margin-top: 0;
+    cursor: default;
+  }
+
   /* Portfolio and archive index: every excerpt thumbnail shares one height
      budget, so a tall portrait photo sits proportionally next to landscape
-     ones instead of towering over them. Overrides inline width attributes. */
-  .archive__item-excerpt img {
+     ones instead of towering over them. Overrides inline width attributes.
+     Scoped to .archive__item, not .archive__item-excerpt: markdownify puts a
+     <p> inside the template's own <p>, which is illegal nesting, so the
+     browser closes the outer one and the image lands as a SIBLING of
+     .archive__item-excerpt rather than a child. The <article> wrapper is the
+     nearest ancestor that reliably contains it. */
+  .archive__item img {
     max-height: 200px;
     max-width: 100%;
     width: auto !important;
@@ -33,7 +47,7 @@
   }
 
   @media (max-width: 600px) {
-    .archive__item-excerpt img {
+    .archive__item img {
       max-height: 150px;
     }
 
@@ -99,7 +113,7 @@
   (function () {
     document.addEventListener('DOMContentLoaded', function () {
       var images = document.querySelectorAll(
-        '.page__content img:not(.no-zoom), .archive__item-excerpt img:not(.no-zoom)'
+        '.page__content img:not(.no-zoom), .archive__item img:not(.no-zoom)'
       );
       if (!images.length) return;
 
@@ -135,6 +149,7 @@
          comment out the rest of the script. */
       images.forEach(function (img) {
         if (img.closest('a')) return;
+        if (img.closest('.archive__item-teaser')) return;
         img.addEventListener('click', function () {
           open(img.currentSrc || img.src, img.getAttribute('alt'));
         });
