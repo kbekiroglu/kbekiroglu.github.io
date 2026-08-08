@@ -1,0 +1,133 @@
+<!-- Click-to-enlarge for images in page content, plus consistent image sizing. No external dependencies. -->
+<style>
+  .page__content img:not(.no-zoom) {
+    cursor: zoom-in;
+  }
+
+  /* Keep every image inside its column and never upscale past native size.
+     Inline width/height attributes on the source markdown are treated as a
+     hint, not a mandate, so aspect ratio is always preserved. */
+  .page__content img,
+  .archive__item-excerpt img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Portfolio and archive index: excerpt thumbnails share one height budget so
+     a tall portrait photo does not dominate the page next to landscape ones. */
+  .archive__item-excerpt img {
+    max-height: 260px;
+    width: auto;
+    display: inline-block;
+    margin-top: 0.5em;
+  }
+
+  @media (max-width: 600px) {
+    .archive__item-excerpt img {
+      max-height: 200px;
+    }
+  }
+
+  #kb-lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.9);
+    cursor: zoom-out;
+    padding: 2vmin;
+  }
+
+  #kb-lightbox.is-open {
+    display: flex;
+  }
+
+  #kb-lightbox img {
+    max-width: 96vw;
+    max-height: 92vh;
+    width: auto;
+    height: auto;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.6);
+  }
+
+  #kb-lightbox .kb-lightbox-close {
+    position: absolute;
+    top: 0.4em;
+    right: 0.7em;
+    color: #fff;
+    font-size: 2.2rem;
+    line-height: 1;
+    background: none;
+    border: 0;
+    cursor: pointer;
+    opacity: 0.75;
+  }
+
+  #kb-lightbox .kb-lightbox-close:hover {
+    opacity: 1;
+  }
+
+  #kb-lightbox .kb-lightbox-caption {
+    position: absolute;
+    bottom: 1em;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: #eee;
+    font-size: 0.85rem;
+    padding: 0 2em;
+  }
+</style>
+
+<script>
+  (function () {
+    document.addEventListener('DOMContentLoaded', function () {
+      var images = document.querySelectorAll(
+        '.page__content img:not(.no-zoom), .archive__item-excerpt img:not(.no-zoom)'
+      );
+      if (!images.length) return;
+
+      var overlay = document.createElement('div');
+      overlay.id = 'kb-lightbox';
+      overlay.setAttribute('role', 'dialog');
+      overlay.setAttribute('aria-modal', 'true');
+      overlay.innerHTML =
+        '<button class="kb-lightbox-close" aria-label="Close">&times;</button>' +
+        '<img alt="">' +
+        '<div class="kb-lightbox-caption"></div>';
+      document.body.appendChild(overlay);
+
+      var full = overlay.querySelector('img');
+      var caption = overlay.querySelector('.kb-lightbox-caption');
+
+      function open(src, alt) {
+        full.src = src;
+        full.alt = alt || '';
+        caption.textContent = alt || '';
+        overlay.classList.add('is-open');
+        document.body.style.overflow = 'hidden';
+      }
+
+      function close() {
+        overlay.classList.remove('is-open');
+        document.body.style.overflow = '';
+        full.src = '';
+      }
+
+      images.forEach(function (img) {
+        // Skip images that are already links to somewhere else.
+        if (img.closest('a')) return;
+        img.addEventListener('click', function () {
+          open(img.currentSrc || img.src, img.getAttribute('alt'));
+        });
+      });
+
+      overlay.addEventListener('click', close);
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape' && overlay.classList.contains('is-open')) close();
+      });
+    });
+  })();
+</script>
