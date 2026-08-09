@@ -1,7 +1,8 @@
 <!-- Click-to-enlarge for images in page content, plus consistent image sizing. No external dependencies. -->
 <style>
   .page__content img:not(.no-zoom),
-  .archive__item img:not(.no-zoom) {
+  .archive__item img:not(.no-zoom),
+  .author__avatar img:not(.no-zoom) {
     cursor: zoom-in;
   }
 
@@ -112,8 +113,12 @@
 <script>
   (function () {
     document.addEventListener('DOMContentLoaded', function () {
+      /* The sidebar avatar is included deliberately. It is not covered by the
+         two sizing selectors above, so the theme keeps full control of its
+         circle crop while still opening full size on click. */
       var images = document.querySelectorAll(
-        '.page__content img:not(.no-zoom), .archive__item img:not(.no-zoom)'
+        '.page__content img:not(.no-zoom), .archive__item img:not(.no-zoom), ' +
+        '.author__avatar img:not(.no-zoom)'
       );
       if (!images.length) return;
 
