@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Korkut Bekiroglu"
+  name             : "Korkut Bekiroglu"
   avatar           : "profil.png"
   bio              : "Senior Director of Control Systems Engineering @ SharkNinja — leading the team that ships sensing and embedded intelligence into 30+ globally distributed products. Hands-on in MPC, system identification, sensor fusion, and robotics/vision-based control. 12+ patents, 40+ publications, IEEE reviewer & TPC member. Ph.D., Penn State."
   location         : "Boston, MA"
