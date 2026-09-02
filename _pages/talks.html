@@ -5,41 +5,55 @@ permalink: /talks/
 author_profile: true
 ---
 
-25+ conference proceedings, primarily at top-tier IEEE and IFAC control venues (CDC, ACC, ECC, IFAC World Congress). Regular TPC member for IEEE conferences.
+{% include base_path %}
 
-## Selected Proceedings
+<p>Conference proceedings, primarily at top-tier IEEE and IFAC control venues (CDC, ACC, ECC, IFAC World Congress). Regular TPC member for IEEE conferences.</p>
 
-**Control & System Identification (IEEE CDC / ACC / ECC / IFAC)**
+<h2 id="selected-proceedings">Selected Proceedings</h2>
 
-- **Low-order model identification of MIMO systems from noisy and incomplete data.** IEEE CDC, 2015.
-- **Parsimonious model identification via atomic norm minimization.** European Control Conference (ECC), 2014.
-- **Recursive Parsimonious System Identification Algorithm for Dynamical Systems.** IEEE CCTA, 2018.
-- **System Identification Algorithm for Non-Uniformly Sampled Data.** IFAC World Congress, 2017.
-- **Parsimonious Volterra System Identification.** American Control Conference (ACC), 2018.
-- **A robust MPC approach to the design of behavioural treatments.** ACC, 2018.
+<h3>Control and system identification (IEEE CDC / ACC / ECC / IFAC)</h3>
+<ul>
+  <li><strong>Low-order model identification of MIMO systems from noisy and incomplete data.</strong> IEEE CDC, 2015.</li>
+  <li><strong>Parsimonious model identification via atomic norm minimization.</strong> European Control Conference (ECC), 2014.</li>
+  <li><strong>Recursive parsimonious system identification algorithm for dynamical systems.</strong> IEEE CCTA, 2018.</li>
+  <li><strong>System identification algorithm for non-uniformly sampled data.</strong> IFAC World Congress, 2017.</li>
+  <li><strong>Parsimonious Volterra system identification.</strong> American Control Conference (ACC), 2018.</li>
+  <li><strong>A robust MPC approach to the design of behavioural treatments.</strong> ACC, 2018.</li>
+</ul>
 
-**Robotics & Vision-Based Control**
+<h3>Robotics and vision-based control</h3>
+<ul>
+  <li><strong>Vision based control of an autonomous blimp with actuator saturation using pulse-width modulation.</strong> IEEE CCA, 2013.</li>
+</ul>
 
-- **Vision based control of an autonomous blimp with actuator saturation using pulse-width modulation.** IEEE CCA, 2013.
+<h3>Estimation, tracking and anomaly detection</h3>
+<ul>
+  <li><strong>An efficient approach to the radar ghost elimination problem.</strong> ACC, 2018.</li>
+  <li><strong>Hankel-based unsupervised anomaly detection.</strong> ACC, 2020.</li>
+</ul>
 
-**Estimation, Tracking & Anomaly Detection**
+<h3>Applied MPC, IoT and building systems</h3>
+<ul>
+  <li><strong>An Internet of Things compliant model identification methodology for smart buildings.</strong> IEEE CDC, 2017.</li>
+  <li><strong>A scalable contract based approach for integrating building flexibility to energy grids.</strong> ECC, 2019.</li>
+</ul>
 
-- **An efficient approach to the radar ghost elimination problem.** ACC, 2018.
-- **Hankel-based Unsupervised Anomaly Detection.** ACC, 2020.
+<hr>
 
-**Applied MPC, IoT & Building Systems**
-
-- **An Internet of Things compliant model identification methodology for smart buildings.** IEEE CDC, 2017.
-- **A Scalable Contract Based Approach for Integrating Building Flexibility to Energy Grids.** ECC, 2019.
-
----
-
-## All Proceedings
+<h2 id="all-proceedings">All Proceedings</h2>
 
 {% if site.talkmap_link == true %}
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 {% endif %}
 
-{% for post in site.talks reversed %}
+{% assign all_proceedings = site.talks | where: "type", "Conference proceedings" | sort: 'date' | reverse %}
+{% for post in all_proceedings %}
+  {% include archive-single-talk.html %}
+{% endfor %}
+
+<h2 id="invited-talks">Invited Talks</h2>
+
+{% assign invited_talks = site.talks | where: "type", "Talk" | sort: 'date' | reverse %}
+{% for post in invited_talks %}
   {% include archive-single-talk.html %}
 {% endfor %}

@@ -1,6 +1,6 @@
 ---
 title: "AI-Assisted Engineering: Adoption and Internal Tooling"
-excerpt: "Claude Code and Codex across the controls team, Control Flow diagrams generated from source with Mermaid, and an internal telemetry diagnostic tool for non-engineers.<br/><img src='/images/ai-portfolio.png' width='550' height='600'>"
+excerpt: "LLM-assisted workflows standardized across the controls team, Control Flow architecture diagrams generated instead of hand-drawn, and an internal telemetry diagnostic tool for non-engineers.<br/><img src='/images/ai-portfolio.png' width='550' height='600'>"
 collection: portfolio
 ---
 
@@ -29,23 +29,14 @@ Where it actually gets used:
 * Diff summaries, PR review help, release notes
 * Confluence through an MCP integration, so design docs and specs get written and cross-linked where the team already looks for them
 
-Control Flow diagrams in Mermaid
+Control Flow diagrams in Mermaid and draw.io
 ======
 
-Control Flow is the control architecture specification standard I created here, and it is now required on every controls project in the company. It captures the state machine, mode transitions, interrupt priorities, and the safety and fault paths before anybody writes firmware.
+Control Flow is the control architecture specification standard I created here. It is required on every controls project in the company, and it captures the state machine, mode transitions, interrupt priorities and the safety and fault paths before anybody writes firmware.
 
-The standard worked. Keeping it current did not. The diagrams were drawn by hand, so they cost real time to produce and went stale the first time the firmware changed. Once a diagram is stale, engineers stop opening it and go read the code instead, and then design reviews turn into arguments about whether the picture is accurate.
+The standard worked. Upkeep did not. Diagrams were drawn by hand, so they went stale the first time firmware changed, and a stale diagram is one nobody opens.
 
-So we moved Control Flow to Mermaid and generate the state machine and sequence diagrams from the control specification and the firmware.
-
-Mermaid diagrams are plain text, so they sit in the repo next to the code and get reviewed in a pull request like any other change. They render in Confluence, GitHub and Markdown from one source, with no drawing tool in the loop. And they are cheap enough to regenerate that nobody has to protect them.
-
-What changed:
-
-* Architecture docs get updated during development instead of at the end of a program
-* New engineers and our offshore firmware partners can learn a product's control structure from a diagram that matches how it actually behaves
-* Design reviews argue about the state machine
-* Interrupt priorities, mode transitions and safety paths stay explicit on every project, which is the whole point of the standard
+We moved them to Mermaid and draw.io, generated from the control specification and the firmware. Both are text files, so they live in the repo next to the code and render straight into Confluence and GitHub. They are cheap enough to regenerate that nobody has to protect them, so architecture docs now stay current during development, and a new engineer or an offshore firmware partner can learn a product from a diagram that matches how it behaves.
 
 Internal product diagnostics
 ======

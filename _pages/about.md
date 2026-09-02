@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I run the Control Systems Engineering team at [SharkNinja](https://www.sharkninja.com/). I started as its only engineer and it is now twelve. We write the algorithms and embedded software that make an espresso machine hold temperature under load, a soda machine work out how much CO₂ is left in the canister, and a blender sense what is in the jar. Our code ships in Ninja and Shark products worldwide, and I am an inventor on more than a dozen patents, four granted.
+I run the Control Systems Engineering team at [SharkNinja](https://www.sharkninja.com/). I started as its only engineer and it is now twelve. We write the algorithms and embedded software that make an espresso machine hold temperature under load, a soda machine work out how much CO₂ is left in the canister, and a blender sense what is in the jar. Our code ships in Ninja and Shark products worldwide, and I am an inventor on ten patents, four granted.
 
 There was no controls function here when I started. I set up the promotion ladder, code review, the on-call rotation and the technical review process, and I wrote the control architecture standard that is now required on every controls project in the company. Today the team covers 30+ product lines across coffee, indoor cooking, outdoor cooking, beverage and water, and motorized products. Firmware cycle time is down about 20%, and the same team carries about 40% more concurrent projects than it did before we put LLM tooling into the workflow.
 
