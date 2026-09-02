@@ -9,21 +9,21 @@ As Principal Systems Engineer at SharkNinja, I led controls and algorithm develo
 Algorithms delivered
 ======
 
-* **Barista Assist Technology** — guided brewing based on grind quality, pressure profiling, and flow curves
-* **Milk Froth Control** — multi-stage temperature and flow control for consistent milk texture
-* **Temperature Control** — thermal regulation across all brewing modes
-* **PID for Espresso** — control loop with thermal compensation for consistent espresso extraction
-* **Error / Fault Detection** — embedded fault detection and monitoring
-* **Signal Processing** — sensor fusion and filtering
+* **Barista Assist Technology:** guided brewing based on grind quality, pressure profiling, and flow curves
+* **Milk Froth Control:** multi-stage temperature and flow control for consistent milk texture
+* **Temperature Control:** thermal regulation across all brewing modes
+* **PID for Espresso:** control loop with thermal compensation for consistent espresso extraction
+* **Error / Fault Detection:** embedded fault detection and monitoring
+* **Signal Processing:** sensor fusion and filtering
 
 Development lifecycle
 ======
 
-* **Prototyping** — commercial sensors and motor drivers integrated into working prototypes
-* **System flow definition** — feature-level state flows specified in collaboration with embedded software engineers
-* **Testing and documentation** — testing code in C++, Arduino, Python, and MATLAB
-* **Risk management** — identified failure modes, defined error states, shipped safe-state fallback logic
-* **Test tooling** — Python applications and an R-Pi / Arduino apparatus for hardware-in-the-loop testing
+* **Prototyping:** commercial sensors and motor drivers integrated into working prototypes
+* **System flow definition:** feature-level state flows specified in collaboration with embedded software engineers
+* **Testing and documentation:** testing code in C++, Arduino, Python, and MATLAB
+* **Risk management:** identified failure modes, defined error states, shipped safe-state fallback logic
+* **Test tooling:** Python applications and an R-Pi / Arduino apparatus for hardware-in-the-loop testing
 
 Patents (Granted)
 ======

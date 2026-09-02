@@ -1,5 +1,5 @@
 ---
-title: "Ninja Thirsti — CO₂ Flavored Water & Soda System"
+title: "Ninja Thirsti: CO₂ Flavored Water & Soda System"
 excerpt: "Led controls and algorithm development for the Ninja Thirsti carbonated beverage platform (three product generations shipped). Three patents pending covering CO₂ estimation, liquid-temperature detection, and carbonation system architecture.<br/><img src='/images/thirsti2.jpg' width='160'>"
 collection: portfolio
 ---
@@ -11,9 +11,9 @@ Led controls, sensing, and algorithm development for the Ninja Thirsti carbonate
 
 Products shipped:
 
-* [Ninja Thirsti Drink System — Generation 1](https://www.ninjakitchen.com/products/ninja-thirsti-sparkling-still-drink-system-co2-bundle-zidWC1001B)
-* [Ninja Thirsti Drink System — Generation 2](https://www.ninjakitchen.com/products/build-your-own-ninja-thirsti-max-still-carbonated-water-maker-zidWC2001BYO)
-* [Ninja Thirsti Soda Machine — Generation 3](https://www.sharkninja.com/build-your-own-thirsti-low-calorie-bundle-cyberspace/WC3001BL2SN2.html)
+* [Ninja Thirsti Drink System, Generation 1](https://www.ninjakitchen.com/products/ninja-thirsti-sparkling-still-drink-system-co2-bundle-zidWC1001B)
+* [Ninja Thirsti Drink System, Generation 2](https://www.ninjakitchen.com/products/build-your-own-ninja-thirsti-max-still-carbonated-water-maker-zidWC2001BYO)
+* [Ninja Thirsti Soda Machine, Generation 3](https://www.sharkninja.com/build-your-own-thirsti-low-calorie-bundle-cyberspace/WC3001BL2SN2.html)
 
 <br/><img src='/images/thirsti2.jpg' width='160'>
 

@@ -9,27 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-**Engineering leader building intelligent physical systems.** Senior Director of Control Systems Engineering at [SharkNinja](https://www.sharkninja.com/), leading a cross-functional team shipping sensing, control, and embedded intelligence into **30+ globally distributed consumer products**. Inventor on **12+ patents** (4 granted), author of **40+ peer-reviewed publications**, **reviewer for multiple IEEE journals** and **Technical Program Committee member for IEEE conferences**. Previously Assistant Professor (SUNY Poly), Research Scientist (NTU Singapore), and Postdoctoral Researcher (Penn State). Ph.D., Penn State (2015).
-
 Education
 ======
-* **Ph.D. in Electrical Engineering**, The Pennsylvania State University, 2015 — [*From Data to Interventions: Using System Identification and Robust Control Algorithms to Design Effective Treatments*](https://etda.libraries.psu.edu/catalog/26227). Advisor: Prof. Constantino Lagoa.
-  * **Minor Ph.D. in Industrial and Manufacturing Engineering** (Convex Optimization), Penn State, 2015
-* **M.S. in Electrical and Computer Engineering**, Northeastern University, Boston, MA, 2010 — [*Vision Based Control of an Autonomous Blimp with Actuator Saturation*](https://repository.library.northeastern.edu/files/neu:1290). Advisors: Profs. Mario Sznaier and Bahram Shafai.
+* **Ph.D. in Electrical Engineering**, The Pennsylvania State University, 2015. [*From Data to Interventions: Using System Identification and Robust Control Algorithms to Design Effective Treatments*](https://etda.libraries.psu.edu/catalog/26227). Advisor: Prof. Constantino Lagoa.
+  * Minor Ph.D. in Industrial and Manufacturing Engineering (Convex Optimization), Penn State, 2015
+* **M.S. in Electrical and Computer Engineering**, Northeastern University, Boston, MA, 2010. [*Vision Based Control of an Autonomous Blimp with Actuator Saturation*](https://repository.library.northeastern.edu/files/neu:1290). Advisors: Profs. Mario Sznaier and Bahram Shafai.
 * **B.S. in Electrical and Electronics Engineering**, Karadeniz Technical University, Trabzon, Turkey, 2005
-* MOOC Certificates
-  * Coursera: Fundamentals of Scalable Data Science by IBM — May 2019
-  * Coursera: Neural Networks and Deep Learning by deeplearning.ai — June 2019
 
 Work Experience
 ======
 * **04/2024 to Present: Senior Director of Control Systems Engineering, SharkNinja**
-  * **Built the Control Systems Engineering function from a single hire** into a cross-functional team supporting 20+ product lines. Established the promotion ladder, code review culture, on-call rotations, and technical review process from scratch
-  * Delivered algorithms and embedded software into **30+ globally shipped products** across coffee, beverage carbonation, thermal cooking, frozen treat, and Shark beauty systems
-  * Built internal engineering platforms: Python-based MCU communication service, Raspberry Pi / Arduino HIL infrastructure, and evaluation frameworks used across product lines
-  * **Driving AI-assisted engineering adoption**: Claude Code, OpenAI Codex, and LLM workflows integrated into code generation, R&D ideation, data-analysis pipelines, code review, and MCP-based Confluence documentation. Same headcount supports approximately **40% more concurrent projects**
-  * Cut development cycle time by roughly **20%** through modular software architectures and engineering process design, in a fast-paced consumer-products environment where product cycles are already short
-  * Inventor on **12+ patents** (4 granted) in sensing, thermal estimation, beverage systems, and intelligent appliance operation
+  * Built the Control Systems Engineering function from a single hire into a cross-functional team of twelve, covering 30+ product lines across coffee, indoor cooking, outdoor cooking, beverage and water, and motorized products. Set up the promotion ladder, code review, on-call rotations, and the technical review process
+  * Shipped algorithms and embedded software into Ninja and Shark products worldwide, including Barista Assist (Ninja Luxe Café), Slush Assist (frozen treat), Blend Sense (blenders), and CO₂ estimation on Ninja Thirsti
+  * Wrote Control Flow, the control architecture specification standard now required on every controls project in the company. Cut firmware cycle time roughly 20% and made a software QA function possible
+  * Built the internal engineering platforms: a Python MCU communication service, Raspberry Pi and Arduino hardware-in-the-loop rigs, and evaluation frameworks used across product lines
+  * Led AI-assisted engineering adoption: Claude Code, OpenAI Codex, and LLM workflows in code generation, R&D ideation, data analysis, code review, and MCP-based Confluence documentation. The same headcount now supports about 40% more concurrent projects
+  * Inventor on 12+ patents, four granted, in sensing, thermal estimation, beverage systems, and intelligent appliance operation
 * **04/2023 to 04/2024: Principal Systems Engineer, SharkNinja**
 * **01/2022 to 04/2023: Senior Systems Engineer, SharkNinja**
   * Designed and implemented signal processing, sensing tools, and controllers for Ninja Heated products
@@ -45,7 +40,7 @@ Work Experience
   * Author, reviewer, and program-committee member across multiple IEEE conferences and journals
 * **12/2016 to 08/2018: Research Scientist, Nanyang Technological University (Singapore)**
   * Developed and deployed [an IoT-based distributed MPC platform for HVAC systems](https://www.sciencedirect.com/science/article/pii/S0306261919302582): server plus Raspberry Pi edge fleet in occupied commercial buildings
-  * Achieved **12–13% energy savings** through IoT-based control (MATLAB, Python, Raspberry Pi); published in *Applied Energy*
+  * Achieved 12 to 13% energy savings through IoT-based control (MATLAB, Python, Raspberry Pi); published in *Applied Energy*
   * Implemented real-time room-temperature model learning for adaptive MPC
 * **08/2015 to 12/2016: Postdoctoral Researcher, The Methodology Center, Penn State University**
   * Developed robust MPC-based intervention system for smoking cessation studies
@@ -59,9 +54,8 @@ Work Experience
 
 IEEE Editorial & Community Service
 ======
-* **Reviewer for multiple IEEE journals** and **Technical Program Committee member** for IEEE conferences
-* Author, reviewer, and program-committee member across multiple IEEE conferences and journals
-* Publications in *IEEE Transactions on Automatic Control*, *IEEE TAES*, *Applied Energy*, and *Knowledge-Based Systems*. Full list on [Google Scholar](https://scholar.google.com.sg/citations?hl=en&user=pely-qQAAAAJ)
+* Reviewer for multiple IEEE journals and Technical Program Committee member for IEEE conferences
+* Author of 40+ peer-reviewed publications, including *IEEE Transactions on Automatic Control*, *IEEE TAES*, *Applied Energy*, and *Knowledge-Based Systems*. Full list on [Google Scholar](https://scholar.google.com.sg/citations?hl=en&user=pely-qQAAAAJ)
 
 Technical Skills
 ======
@@ -74,14 +68,6 @@ Technical Skills
 **Programming & Tools:** Python, C++, Embedded C, MATLAB / Simulink, Optimization Solvers (CVX, YALMIP, CPLEX, Mosek, Gurobi), EnergyPlus
 
 **AI-Assisted Engineering:** Claude Code, OpenAI Codex, MCP-integrated Confluence workflows, LLM-integrated engineering practices
-
-Leadership & Impact
-======
-* Built and scaled the Control Systems Engineering team at SharkNinja from scratch; directed engineers across controls, firmware, hardware, and software
-* Delivered **30+ intelligent products to global mass production** across coffee, beverage carbonation, thermal cooking, frozen treat, and Shark beauty systems
-* Inventor on **12+ patents**; author of **40+ peer-reviewed publications** in control systems, MPC, robotics, and predictive modeling
-* Drove adoption of LLM/AI-assisted engineering tooling on the team; established modular software architectures and processes that cut development cycle time by ~20%
-* Present technical concepts to engineering and executive audiences; mentor junior engineers and co-ops
 
 Patents (Granted)
 ======
@@ -108,7 +94,13 @@ Publications
 
 Conference Proceedings
 ======
-  <ul>{% assign cv_talks = site.talks | sort: 'date' | reverse %}{% for post in cv_talks %}
+  <ul>{% assign cv_proceedings = site.talks | where: "type", "Conference proceedings" | sort: 'date' | reverse %}{% for post in cv_proceedings %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Invited Talks
+======
+  <ul>{% assign cv_invited = site.talks | where: "type", "Talk" | sort: 'date' | reverse %}{% for post in cv_invited %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 

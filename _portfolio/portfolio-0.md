@@ -1,36 +1,14 @@
 ---
 title: "Control Systems & Algorithm Team for Smart Products"
-excerpt: "Directed the design and deployment of control systems, embedded SW and algorithms across a diverse range of SharkNinja appliances, including coffee systems, beverage carbonation platforms, thermal cooking products, frozen treat makers, high-speed blenders, and Shark beauty products. Oversaw system architecture, algorithm development, and production integration to enable intelligent, consistent, and user-centric product performance.<br/><img src='/images/portfolio_grid.png' width='550' height='600'>"
+excerpt: "Control systems, embedded software and algorithms for SharkNinja coffee, carbonation, cooking, frozen treat, blender and Shark beauty products.<br/><img src='/images/portfolio_grid.png' width='550' height='600'>"
 collection: portfolio
 ---
 
-Led cross-functional teams designing and implementing control systems and algorithms across a broad portfolio of consumer electronics. Owned the development lifecycle from prototyping and modeling through embedded implementation and mass production.
+I built and run the Control Systems Engineering team at SharkNinja. We own the algorithms and embedded software in the products below, from the first prototype through mass production.
 
-Leadership/Manager Portfolio
-==================
+In practice that means we prototype on Raspberry Pi and Arduino with real sensors and drivers, define the state flows and the algorithms behind each feature with the embedded software engineers, build the Python and RPi rigs the validation team tests on, model the failure cases and the safe-state fallbacks, and write the specs. Most of the work is control, estimation and signal processing running on microcontrollers with very little headroom. MPC and PID, Kalman filtering, system identification, and sensor fusion across temperature, pressure and flow.
 
-As Senior Director of Control Systems at SharkNinja, I established and scaled the cross-functional Control Systems Engineering team that designs and develops intelligent software and embedded algorithms for consumer electronics. This portfolio summarizes multiple product categories, each integrating unique control challenges, system modeling, and sensor fusion technologies.
-
-## System-Level Responsibilities
-
-From early-stage ideation to production ramp-up, the team has led:
-
-- **Prototype Development:** Built with R-Pi, Arduino, microcontrollers, C++, Python, and MATLAB. Integrated real-world sensors and drivers.
-- **System Flow Definition:** Collaborated with embedded software engineers and defined complete state flows with required algorithms for functionalities defined by the product team.
-- **Testing & Tooling:** Developed Python/RPi-based testing rigs and validation code. Designed and coded many user interfaces for the testing team to accelerate testing and data collection for hardware-in-the-loop validation.
-- **Risk & Fault Handling:** Modeled system failure cases, error logging/logics, and safe-state fallback mechanisms.
-- **Documentation & Specs:** Authored system specifications, feature flowcharts, test plans, and contributed to various patents.
-
----
-
-## Core Technical Expertise
-
-- **Control:** Model Predictive Control, PID, nonlinear & hybrid control  
-- **Signal Processing & Filtering:** Real-time sensor data analysis, Kalman filtering, denoising, feature extraction, anomaly detection, and event classification  
-- **System Identification:** Recursive modeling, parsimonious model identification, subspace identification, and behavior modeling from real-time and longitudinal data  
-- **Embedded Systems & Firmware:** Bare-metal C, C++, Python, Arduino, R-Pi, real-time testing environments; integration of algorithms into resource-constrained embedded platforms  
-- **Smart Product Integration:** Sensor fusion (temperature, pressure, flow), control-to-hardware interfaces, real-time learning loops, thermal modeling, and state-machine-driven feature control — including flagship technologies such as **Barista Assist** (Ninja Luxe Café) and **Slush Assist** (frozen treat systems)  
-- **Prototyping:** Rapid prototyping using microcontrollers and the design of custom testing platforms and user interfaces for validation and tuning  
+Barista Assist on the Ninja Luxe Café and Slush Assist on the frozen treat line both came out of this team.
 
 ---
 
@@ -67,7 +45,7 @@ From early-stage ideation to production ramp-up, the team has led:
 - Dynamic Temperature Offset Learning and Setpoint Adaptation  
 - Sensor Fusion with NTC and Flow Sensors  
 - Fast recovery and preheat tuning  
-- **Smoking algorithms** for propane grill and electric grill — controlled smoke generation and thermal management across grilling modes  
+- **Smoking algorithms** for propane grill and electric grill: controlled smoke generation and thermal management across grilling modes  
 - **Smart slow cooker algorithm** for adaptive long-duration cooking control  
 - Extensive reliability, validation, and embedded integration.
 
@@ -81,7 +59,7 @@ From early-stage ideation to production ramp-up, the team has led:
 - **Slush Assist Technology:**  
   - Freezing point detection  
   - Adaptive cooling energy control  
-- **Temperature and compressor control for cooling systems** — precise thermal regulation and compressor duty-cycle management across freezing and hold stages  
+- **Temperature and compressor control for cooling systems:** precise thermal regulation and compressor duty-cycle management across freezing and hold stages  
 - Adaptive cycles for varying batch sizes and consistencies.
 
 <br/><img src='/images/ninja_icecream.jpg' width='300' height='350'>
@@ -91,7 +69,7 @@ From early-stage ideation to production ramp-up, the team has led:
 ## Blending & Motor Control  
 *Blenders, Processors, and Mixers*
 
-- **Blend Sense algorithm** — real-time load and consistency sensing for adaptive blending performance  
+- **Blend Sense algorithm:** real-time load and consistency sensing for adaptive blending performance  
 - Developed motor startup, load sensing, and failover routines  
 - Created PID loops and stall protection  
 - Improved safety, cycle timing, and consistency

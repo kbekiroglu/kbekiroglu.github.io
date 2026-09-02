@@ -13,12 +13,12 @@ Related prior work on pavement/asphalt characterization (validating second-order
 System architecture
 ======
 
-* **Sensor module** — embedded sensors for pressure, temperature, humidity, and strain response
-* **Power module** — photovoltaic panel installation for off-grid field deployment
-* **IoT edge module** — Raspberry Pi edge node for local data acquisition and pre-processing
-* **LTE / 4G uplink** — cellular telemetry, no wired network required
-* **Cloud backend** — AWS-hosted ingestion, storage, and analytics
-* **Web interface** — dashboards for live and historical readings
+* **Sensor module:** embedded sensors for pressure, temperature, humidity, and strain response
+* **Power module:** photovoltaic panel installation for off-grid field deployment
+* **IoT edge module:** Raspberry Pi edge node for local data acquisition and pre-processing
+* **LTE / 4G uplink:** cellular telemetry, no wired network required
+* **Cloud backend:** AWS-hosted ingestion, storage, and analytics
+* **Web interface:** dashboards for live and historical readings
 
 <br/><img src='/images/vtrc.png'>
 

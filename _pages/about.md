@@ -1,51 +1,31 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+description: "Korkut Bekiroglu leads Control Systems Engineering at SharkNinja, designing control algorithms, state estimation and embedded software for products that ship. Model predictive control, system identification, sensor fusion."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**Control systems and embedded intelligence for real electromechanical products.** I design the algorithms (MPC, system identification, sensor fusion, robotics and vision-based control) and I ship them into production. **I lead the Control Systems Engineering team at [SharkNinja](https://www.sharkninja.com/), which has delivered sensing and control into 30+ globally shipped consumer products.** Inventor on **12+ patents** (4 granted), author of **40+ peer-reviewed publications**, reviewer for IEEE journals and TPC member for IEEE conferences. Previously Assistant Professor (SUNY Poly), Research Scientist (NTU Singapore), and Postdoctoral Researcher (Penn State). Ph.D., Penn State (2015).
+I run the Control Systems Engineering team at [SharkNinja](https://www.sharkninja.com/). I started as its only engineer and it is now twelve. We write the algorithms and embedded software that make an espresso machine hold temperature under load, a soda machine work out how much CO₂ is left in the canister, and a blender sense what is in the jar. Our code ships in Ninja and Shark products worldwide, and I am an inventor on more than a dozen patents, four granted.
 
-## Technical Expertise
+There was no controls function here when I started. I set up the promotion ladder, code review, the on-call rotation and the technical review process, and I wrote the control architecture standard that is now required on every controls project in the company. Today the team covers 30+ product lines across coffee, indoor cooking, outdoor cooking, beverage and water, and motorized products. Firmware cycle time is down about 20%, and the same team carries about 40% more concurrent projects than it did before we put LLM tooling into the workflow.
 
-**Control & Estimation:** Model Predictive Control • Distributed MPC • Robust & Adaptive Control • Nonlinear Control • System Identification • State Estimation & Filtering • Real-time Optimization (Convex, Nonlinear)
+Before this I was a professor at SUNY Poly, a research scientist at NTU Singapore, and a postdoc at Penn State, where I did my PhD in electrical engineering. I still review for IEEE journals.
 
-**Robotics & Autonomous Systems:** Motion Control • Vision-Based Control • Electromechanical Actuation • Sensor Fusion • Autonomous blimp control (M.S. thesis, Northeastern)
+## What I work on
 
-**Embedded & Systems:** Embedded C on production MCUs • Python & MATLAB/Simulink • HIL Testing (Raspberry Pi / Arduino) • IoT & Edge Computing • Hardware-Software Co-design
+- **Algorithms that fit on a microcontroller.** Model predictive control, system identification, sensor fusion and state estimation, written in embedded C to run inside the compute and memory a production MCU actually gives you. Barista Assist on the Ninja Luxe Café, Slush Assist on the frozen treat line, Blend Sense on the blenders. [More](/portfolio/portfolio-0/).
+- **The tooling underneath.** A Python service for talking to microcontrollers, hardware-in-the-loop rigs on Raspberry Pi and Arduino, and [Control Flow](/portfolio/portfolio-1/), the control architecture standard I wrote.
+- **AI in the engineering loop.** Claude Code and Codex across the team, and an [internal tool](/portfolio/portfolio-1/) that lets product managers and support engineers upload unit telemetry and get a first-pass answer without waiting on an engineer.
 
-**Leadership:** Team building from zero • Roadmap & strategy • Cross-functional delivery • AI-assisted engineering (Claude Code, Codex)
+## Before SharkNinja
 
-## Selected Impact
+Assistant professor and principal investigator at SUNY Polytechnic, 2018 to 2021. Funded research on control and IoT sensing, plus a [pavement monitoring system](/portfolio/portfolio-6/) on Raspberry Pi and AWS, [published at IEEE iThings](https://ieeexplore.ieee.org/abstract/document/9694224). Co-founded [Ocean Dynamex](https://www.oceandynamex.com/) in 2019.
 
-- **Built the Control Systems Engineering function at SharkNinja from a single hire** into a cross-functional team supporting 20+ product lines. Established the promotion ladder, code review culture, on-call rotations, and technical review process from scratch
-- Delivered algorithms and embedded software into **30+ globally shipped products** across coffee, beverage carbonation, thermal cooking, frozen treat, and Shark beauty systems ([full portfolio](/portfolio/portfolio-0/))
-- Built internal engineering platforms: Python-based MCU communication service, Raspberry Pi / Arduino HIL infrastructure, and evaluation frameworks used across product lines ([portfolio](/portfolio/portfolio-5/))
-- **Driving AI-assisted engineering adoption**: Claude Code, OpenAI Codex, and LLM workflows integrated into code generation, R&D ideation, data-analysis pipelines, and MCP-integrated Confluence documentation. Same headcount supports approximately **40% more concurrent projects** ([portfolio](/portfolio/portfolio-1/))
-- Cut development cycle time by roughly **20%** through modular software architectures and engineering process design, in a fast-paced consumer-products environment where product cycles are already short
+Research scientist at Nanyang Technological University, Singapore, 2016 to 2018. A [distributed MPC platform for HVAC](/portfolio/portfolio-7/) across 85 zones, [12 to 13% energy savings](https://www.sciencedirect.com/science/article/pii/S0306261919302582) in occupied buildings.
 
-## AI-Assisted Engineering
+Penn State, postdoc then PhD, 2010 to 2016. [Thesis](https://etda.libraries.psu.edu/catalog/26227) on system identification and robust control, advised by Constantino Lagoa, with a minor PhD in convex optimization. Before that, an MS at Northeastern on [vision-based control of an autonomous blimp](https://repository.library.northeastern.edu/files/neu:1290).
 
-Two initiatives at SharkNinja that together let the same team support approximately **40% more concurrent projects**:
-
-- **Team-wide LLM adoption**: standardized Claude Code and OpenAI Codex across the Control Systems team for code generation, R&D ideation, data-analysis pipelines, code review, changelog automation, and MCP-integrated Confluence documentation
-- **Internal AI product-diagnostic tool** that lets non-engineers (product managers, QA, customer-support) ask product-specific questions and upload unit CSV telemetry to identify software or hardware issues, freeing controls-engineering bandwidth
-
-See [portfolio](/portfolio/portfolio-1/) for details.
-
-## IEEE Editorial & Community Service
-
-**Reviewer for multiple IEEE journals** and **Technical Program Committee member for IEEE conferences**. Author across IEEE journals and conference proceedings. Active IEEE member; publications in *IEEE Transactions on Automatic Control*, *IEEE TAES*, *Applied Energy*, *Knowledge-Based Systems* ([Google Scholar](https://scholar.google.com.sg/citations?hl=en&user=pely-qQAAAAJ)).
-
-## Selected Prior Roles
-
-- **Assistant Professor & Principal Investigator**, SUNY Polytechnic Institute (2018–2021). Led externally funded research; taught graduate and undergraduate courses; deployed IoT pavement monitoring on Raspberry Pi + AWS ([IEEE iThings 2021](https://ieeexplore.ieee.org/abstract/document/9694224); [portfolio](/portfolio/portfolio-6/)). Also collaborated with CS colleagues on anomaly/fault detection research ([portfolio](/portfolio/portfolio-9/)). Co-founded [Ocean Dynamex](https://www.oceandynamex.com/).
-- **Research Scientist**, Nanyang Technological University, Singapore (2016–2018). Green Building Innovation Cluster. Distributed HVAC control platform (server plus Raspberry Pi edge fleet) achieving **12–13% energy savings** in occupied buildings ([*Applied Energy*](https://www.sciencedirect.com/science/article/pii/S0306261919302582); [portfolio](/portfolio/portfolio-7/)).
-- **Postdoctoral Researcher**, The Methodology Center, Penn State (2015–2016). Control-theoretic methods applied to behavioral health interventions.
-- **Ph.D.**, Penn State (2010–2015). [*From Data to Interventions: Using System Identification and Robust Control Algorithms to Design Effective Treatments*](https://etda.libraries.psu.edu/catalog/26227). Advisor: Prof. Constantino Lagoa. Minor Ph.D., Industrial Engineering (Convex Optimization). ([Portfolio](/portfolio/portfolio-8/): 10 papers linked.)
-- **M.S.**, Northeastern University (2008–2010). [*Vision Based Control of an Autonomous Blimp with Actuator Saturation*](https://repository.library.northeastern.edu/files/neu:1290). Advisors: Profs. Mario Sznaier and Bahram Shafai.
-
+The [CV](/cv/) has the full history. [Patents](/patents/) are listed separately, and papers are on [Google Scholar](https://scholar.google.com.sg/citations?hl=en&user=pely-qQAAAAJ).

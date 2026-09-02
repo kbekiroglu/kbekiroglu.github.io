@@ -2,7 +2,7 @@
 title: "Predictive performance of denoising algorithms in S&P 500 and Bitcoin returns"
 collection: publications
 permalink: /publication/2025-01-15-expert-systems-paper
-excerpt: 'Investigates Hankel matrix and Wavelet denoising for volatility datasets (squared returns) in S&P 500 and Bitcoin — preserving systemic impulses while filtering sporadic noise to improve post-sample forecasting accuracy.'
+excerpt: 'Investigates Hankel matrix and Wavelet denoising for volatility datasets (squared returns) in S&P 500 and Bitcoin, preserving systemic impulses while filtering sporadic noise to improve post-sample forecasting accuracy.'
 date: 2025-01-15
 venue: 'Expert Systems with Applications.'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S095741742402267X'
