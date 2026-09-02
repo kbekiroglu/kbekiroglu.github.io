@@ -33,5 +33,5 @@ Implementation spanned MATLAB, C++, Python, and Arduino. Prototypes integrated c
 Patents (Pending / Under Review)
 ======
 * [Determining an amount of carbon dioxide in a gas source in a carbonation system](https://patents.google.com/patent/US20240246041A1) (US20240246041A1)
-* [Beverage carbonation systems](https://patents.google.com/patent/WO2024155439A2) (WO2024155439A2, WO2024155439A3, AU2024210768A1)
-* [Detecting liquid temperature for a beverage carbonation system](https://patents.google.com/patent/US20250001371A1) (US20250001371A1)
+* [Beverage carbonation systems](https://patents.google.com/patent/WO2024155439A2) (WO2024155439A2, WO2024155439A3, AU2024210768A1, CA3280529A1)
+* [Detecting liquid temperature for a beverage carbonation system](https://patents.google.com/patent/US20250001371A1) (US20250001371A1, WO2025000467A1)

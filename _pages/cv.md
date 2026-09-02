@@ -18,7 +18,8 @@ Education
 
 Work Experience
 ======
-* **04/2024 to Present: Senior Director of Control Systems Engineering, SharkNinja**
+* **04/2026 to Present: Senior Director of Control Systems Engineering, SharkNinja**
+* **04/2024 to 04/2026: Director of Control Systems Engineering, SharkNinja**
   * Built the Control Systems Engineering function from a single hire into a cross-functional team of twelve, covering 30+ product lines across coffee, indoor cooking, outdoor cooking, beverage and water, and motorized products. Set up the promotion ladder, code review, on-call rotations, and the technical review process
   * Shipped algorithms and embedded software into Ninja and Shark products worldwide, including Barista Assist (Ninja Luxe Café), Slush Assist (frozen treat), Blend Sense (blenders), and CO₂ estimation on Ninja Thirsti
   * Wrote Control Flow, the control architecture specification standard now required on every controls project in the company. Cut firmware cycle time roughly 20% and made a software QA function possible
@@ -73,7 +74,7 @@ Patents (Granted)
 ======
 * [Preventing coffee bean grinder jamming](https://patents.google.com/patent/US12369741B1) (US12369741B1)
 * [Preparation of beverage machines for cold beverage brewing](https://patents.google.com/patent/US12369744B1) (US12369744B1)
-* [Zero retention coffee bean hopper](https://patents.google.com/patent/US12514394B2) (US12514394B2)
+* [Zero retention coffee bean hopper](https://patents.google.com/patent/US12514394B2) (US12514394B2, US20250275644A1, US20260090673A1)
 * [Suggesting coffee bean grind size for beverage machines](https://patents.google.com/patent/US12575692B2) (US12575692B2)
 
 Patents (Pending / Under Review)
@@ -83,7 +84,6 @@ Patents (Pending / Under Review)
 * [Detecting liquid temperature for a beverage carbonation system](https://patents.google.com/patent/US20250001371A1) (US20250001371A1, WO2025000467A1)
 * [Queueing beverage machine preparations](https://patents.google.com/patent/WO2025155327A1) (WO2025155327A1)
 * [Descaling beverage machines](https://patents.google.com/patent/US20250235041A1) (US20250235041A1)
-* [Zero retention coffee bean hopper (continuation)](https://patents.google.com/patent/US20250275644A1) (US20250275644A1)
 * [Superautomatic Beverage Machine](https://patents.google.com/patent/WO2025190411A1) (WO2025190411A1, WO2025223560A1, WO2025247227A1, WO2025252087A1)
 
 Publications
