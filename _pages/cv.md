@@ -25,7 +25,7 @@ Work Experience
   * Wrote Control Flow, the control architecture specification standard now required on every controls project in the company. Cut firmware cycle time roughly 20% and made a software QA function possible
   * Built the internal engineering platforms: a Python MCU communication service, Raspberry Pi and Arduino hardware-in-the-loop rigs, and evaluation frameworks used across product lines
   * Led AI-assisted engineering adoption: Claude Code, OpenAI Codex, and LLM workflows in code generation, R&D ideation, data analysis, code review, and MCP-based Confluence documentation. The same headcount now supports about 40% more concurrent projects
-  * Inventor on 10 patents, four granted, in sensing, thermal estimation, beverage systems, and intelligent appliance operation
+  * Inventor on 14 patents, four granted, in sensing, thermal estimation, beverage systems, and intelligent appliance operation
 * **04/2023 to 04/2024: Principal Systems Engineer, SharkNinja**
 * **01/2022 to 04/2023: Senior Systems Engineer, SharkNinja**
   * Designed and implemented signal processing, sensing tools, and controllers for Ninja Heated products
@@ -73,18 +73,22 @@ Technical Skills
 Patents (Granted)
 ======
 * [Preventing coffee bean grinder jamming](https://patents.google.com/patent/US12369741B1) (US12369741B1)
-* [Preparation of beverage machines for cold beverage brewing](https://patents.google.com/patent/US12369744B1) (US12369744B1)
+* [Preparation of beverage machines for cold beverage brewing](https://patents.google.com/patent/US12369744B1) (US12369744B1, US20260000242A1, WO2025155326A1)
 * [Zero retention coffee bean hopper](https://patents.google.com/patent/US12514394B2) (US12514394B2, US20250275644A1, US20260090673A1)
-* [Suggesting coffee bean grind size for beverage machines](https://patents.google.com/patent/US12575692B2) (US12575692B2)
+* [Suggesting coffee bean grind size for beverage machines](https://patents.google.com/patent/US12575692B2) (US12575692B2, US20260165527A1)
 
 Patents (Pending / Under Review)
 ======
 * [Determining an amount of carbon dioxide in a gas source in a carbonation system](https://patents.google.com/patent/US20240246041A1) (US20240246041A1)
 * [Beverage carbonation systems](https://patents.google.com/patent/WO2024155439A2) (WO2024155439A2, WO2024155439A3, AU2024210768A1, CA3280529A1)
 * [Detecting liquid temperature for a beverage carbonation system](https://patents.google.com/patent/US20250001371A1) (US20250001371A1, WO2025000467A1)
-* [Queueing beverage machine preparations](https://patents.google.com/patent/WO2025155327A1) (WO2025155327A1)
-* [Descaling beverage machines](https://patents.google.com/patent/US20250235041A1) (US20250235041A1)
-* [Superautomatic Beverage Machine](https://patents.google.com/patent/WO2025190411A1) (WO2025190411A1, WO2025223560A1, WO2025247227A1, WO2025252087A1)
+* [Queueing beverage machine preparations](https://patents.google.com/patent/WO2025155327A1) (WO2025155327A1, US20250235038A1)
+* [Descaling beverage machines](https://patents.google.com/patent/US20250235041A1) (US20250235041A1, AU2024420177A1)
+* [Superautomatic beverage machines: brew chamber, tamper and bean hopper](https://patents.google.com/patent/WO2025190411A1) (WO2025190411A1, WO2025223560A1)
+* [Superautomatic beverage machines: bean discharge assembly](https://patents.google.com/patent/WO2025247227A1) (WO2025247227A1)
+* [Superautomatic beverage machines: milk reservoir valve](https://patents.google.com/patent/WO2025252087A1) (WO2025252087A1)
+* [Beverage brewing system with high-pressure mitigation](https://patents.google.com/patent/WO2026155727A1) (WO2026155727A1)
+* [Beverage dispenser](https://patents.google.com/patent/WO2026117997A1) (WO2026117997A1)
 
 Publications
 ======
@@ -110,7 +114,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Academic Service & Leadership (SUNY Poly 2018–2021)
+Academic Service & Leadership (SUNY Poly 2018 to 2021)
 ======
 * Faculty Senator, Research & Scholarship Committee Member
 * Faculty Portfolio Review Committee, Technology Committee Member
