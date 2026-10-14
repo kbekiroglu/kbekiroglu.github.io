@@ -3,7 +3,7 @@ title: "Smart Artificial Pancreas with Diet Recommender System for Elderly Diabe
 collection: talks
 type: "Conference proceedings"
 permalink: /talks/2020-07-11-proceeding-6
-venue: "1st IFAC World Congress, 2020, (IFAC)"
+venue: "21st IFAC World Congress, 2020 (IFAC)"
 date: 2020-07-11
 location: "Berlin, Germany"
 ---
